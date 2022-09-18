@@ -1,0 +1,1338 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Servants of Dibella - Body">
+        <DataFolder>Servants of Dibella - Body</DataFolder>
+        <SourceFile>Servants of Dibella - Body.nif</SourceFile>
+        <OutputPath>meshes\actors\Character\sod\body</OutputPath>
+        <OutputFile GenWeights="true">femalebody</OutputFile>
+        <Shape target="3BA" DataFolder="SE 3BBB Amazing">3BA</Shape>
+        <Shape target="3BA_Anus" DataFolder="Servants of Dibella - Body">3BA_Anus</Shape>
+        <Shape target="3BA_Vagina" DataFolder="Servants of Dibella - Body">3BA_Vagina</Shape>
+        <Slider name="ArmpitShape_v2" invert="false" small="0" big="0">
+            <Data name="3BAArmpitShape_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAArmpitShape_v2</Data>
+        </Slider>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="3BAAnkleSize" target="3BA" local="true">Servants of Dibella - Body.osd\3BAAnkleSize</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="3BAAppleCheeks" target="3BA" local="true">Servants of Dibella - Body.osd\3BAAppleCheeks</Data>
+            <Data name="3BA_VaginaAppleCheeks" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaAppleCheeks</Data>
+            <Data name="3BA_AnusAppleCheeks" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusAppleCheeks</Data>
+        </Slider>
+        <Slider name="AreolaSize" invert="false" small="0" big="0" uv="true">
+            <Data name="3BAAreolaSize" target="3BA" local="true">Servants of Dibella - Body.osd\3BAAreolaSize</Data>
+        </Slider>
+        <Slider name="AreolaPull_v2" invert="false" small="0" big="0">
+            <Data name="3BAAreolaPull_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAAreolaPull_v2</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="3BAArms" target="3BA" local="true">Servants of Dibella - Body.osd\3BAArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="3BABack" target="3BA" local="true">Servants of Dibella - Body.osd\3BABack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="3BABackArch" target="3BA" local="true">Servants of Dibella - Body.osd\3BABackArch</Data>
+        </Slider>
+        <Slider name="BackValley_v2" invert="false" small="0" big="0">
+            <Data name="3BABackValley_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BABackValley_v2</Data>
+        </Slider>
+        <Slider name="BackWing_v2" invert="false" small="0" big="0">
+            <Data name="3BABackWing_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BABackWing_v2</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="3BABelly" target="3BA" local="true">Servants of Dibella - Body.osd\3BABelly</Data>
+        </Slider>
+        <Slider name="BellyFrontUpFat_v2" invert="false" small="0" big="0">
+            <Data name="3BABellyFrontUpFat_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BABellyFrontUpFat_v2</Data>
+        </Slider>
+        <Slider name="BellyFrontDownFat_v2" invert="false" small="0" big="0">
+            <Data name="3BABellyFrontDownFat_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BABellyFrontDownFat_v2</Data>
+        </Slider>
+        <Slider name="BellySideUpFat_v2" invert="false" small="0" big="0">
+            <Data name="3BABellySideUpFat_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BABellySideUpFat_v2</Data>
+        </Slider>
+        <Slider name="BellySideDownFat_v2" invert="false" small="0" big="0">
+            <Data name="3BABellySideDownFat_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BABellySideDownFat_v2</Data>
+        </Slider>
+        <Slider name="BellyUnder_v2" invert="false" small="0" big="0">
+            <Data name="3BABellyUnder_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BABellyUnder_v2</Data>
+            <Data name="3BA_VaginaBellyUnder_v2" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaBellyUnder_v2</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="3BABigBelly" target="3BA" local="true">Servants of Dibella - Body.osd\3BABigBelly</Data>
+            <Data name="3BA_VaginaBigBelly" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="3BABigButt" target="3BA" local="true">Servants of Dibella - Body.osd\3BABigButt</Data>
+            <Data name="3BA_VaginaBigButt" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaBigButt</Data>
+            <Data name="3BA_AnusBigButt" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="3BABigTorso" target="3BA" local="true">Servants of Dibella - Body.osd\3BABigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" small="0" big="0">
+            <Data name="3BABreastCenter" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" small="0" big="0">
+            <Data name="3BABreastCenterBig" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="3BABreastCleavage" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastsConverage_v2" invert="false" small="0" big="0">
+            <Data name="3BABreastsConverage_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastsConverage_v2</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" small="0" big="0">
+            <Data name="3BABreastFlatness2" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="3BABreastFlatness" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" small="0" big="0">
+            <Data name="3BABreastGravity2" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="3BABreastHeight" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="3BABreastPerkiness" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastPerkiness</Data>
+        </Slider>
+        <Slider name="Breasts" invert="false" small="0" big="0">
+            <Data name="3BABreasts" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreasts</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="3BABreastsFantasy" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastsFantasy</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" small="0" big="0">
+            <Data name="3BABreastsGone" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" small="0" big="0">
+            <Data name="3BABreastsNewSH" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsNewSHSymmetry" invert="false" small="0" big="0">
+            <Data name="3BABreastsNewSHSymmetry" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastsNewSHSymmetry</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" small="0" big="0">
+            <Data name="3BABreastsSmall" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" small="0" big="0">
+            <Data name="3BABreastsSmall2" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" small="0" big="0">
+            <Data name="3BABreastsTogether" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" small="0" big="0">
+            <Data name="3BABreastTopSlope" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="3BABreastWidth" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastWidth</Data>
+        </Slider>
+        <Slider name="BreastSideShape" invert="false" small="0" big="0">
+            <Data name="3BABreastSideShape" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastSideShape</Data>
+        </Slider>
+        <Slider name="BreastUnderDepth" invert="false" small="0" big="0">
+            <Data name="3BABreastUnderDepth" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastUnderDepth</Data>
+        </Slider>
+        <Slider name="BreastsPressed_v2" invert="false" small="0" big="0">
+            <Data name="3BABreastsPressed_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BABreastsPressed_v2</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" small="0" big="0">
+            <Data name="3BAButt" target="3BA" local="true">Servants of Dibella - Body.osd\3BAButt</Data>
+            <Data name="3BA_VaginaButt" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaButt</Data>
+            <Data name="3BA_AnusButt" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusButt</Data>
+        </Slider>
+        <Slider name="ButtSaggy_v2" invert="false" small="0" big="0">
+            <Data name="3BAButtSaggy_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAButtSaggy_v2</Data>
+            <Data name="3BA_AnusButtSaggy_v2" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusButtSaggy_v2</Data>
+        </Slider>
+        <Slider name="ButtClassic" invert="false" small="0" big="0">
+            <Data name="3BAButtClassic" target="3BA" local="true">Servants of Dibella - Body.osd\3BAButtClassic</Data>
+            <Data name="3BA_VaginaButtClassic" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaButtClassic</Data>
+            <Data name="3BA_AnusButtClassic" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusButtClassic</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" small="0" big="0">
+            <Data name="3BAButtCrack" target="3BA" local="true">Servants of Dibella - Body.osd\3BAButtCrack</Data>
+            <Data name="3BA_VaginaButtCrack" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaButtCrack</Data>
+            <Data name="3BA_AnusButtCrack" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusButtCrack</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="3BAButtShape2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAButtShape2</Data>
+            <Data name="3BA_VaginaButtShape2" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaButtShape2</Data>
+            <Data name="3BA_AnusButtShape2" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="3BAButtSmall" target="3BA" local="true">Servants of Dibella - Body.osd\3BAButtSmall</Data>
+            <Data name="3BA_VaginaButtSmall" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaButtSmall</Data>
+            <Data name="3BA_AnusButtSmall" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusButtSmall</Data>
+        </Slider>
+        <Slider name="ButtDimples" invert="false" small="0" big="0">
+            <Data name="3BAButtDimples" target="3BA" local="true">Servants of Dibella - Body.osd\3BAButtDimples</Data>
+        </Slider>
+        <Slider name="ButtUnderFold" invert="false" small="0" big="0">
+            <Data name="3BAButtUnderFold" target="3BA" local="true">Servants of Dibella - Body.osd\3BAButtUnderFold</Data>
+            <Data name="3BA_VaginaButtUnderFold" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaButtUnderFold</Data>
+        </Slider>
+        <Slider name="ButtPressed_v2" invert="false" small="0" big="0">
+            <Data name="3BAButtPressed_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAButtPressed_v2</Data>
+            <Data name="3BA_VaginaButtPressed_v2" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaButtPressed_v2</Data>
+            <Data name="3BA_AnusButtPressed_v2" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusButtPressed_v2</Data>
+        </Slider>
+        <Slider name="ButtNarrow_v2" invert="false" small="0" big="0">
+            <Data name="3BAButtNarrow_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAButtNarrow_v2</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="3BACalfSize" target="3BA" local="true">Servants of Dibella - Body.osd\3BACalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="3BACalfSmooth" target="3BA" local="true">Servants of Dibella - Body.osd\3BACalfSmooth</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BACalfFBThicc_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BACalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" small="0" big="0">
+            <Data name="3BAChestDepth" target="3BA" local="true">Servants of Dibella - Body.osd\3BAChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="3BAChestWidth" target="3BA" local="true">Servants of Dibella - Body.osd\3BAChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="3BAChubbyArms" target="3BA" local="true">Servants of Dibella - Body.osd\3BAChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="3BAChubbyButt" target="3BA" local="true">Servants of Dibella - Body.osd\3BAChubbyButt</Data>
+            <Data name="3BA_VaginaChubbyButt" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaChubbyButt</Data>
+            <Data name="3BA_AnusChubbyButt" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="3BAChubbyLegs" target="3BA" local="true">Servants of Dibella - Body.osd\3BAChubbyLegs</Data>
+            <Data name="3BA_VaginaChubbyLegs" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaChubbyLegs</Data>
+            <Data name="3BA_AnusChubbyLegs" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="3BAChubbyWaist" target="3BA" local="true">Servants of Dibella - Body.osd\3BAChubbyWaist</Data>
+            <Data name="3BA_VaginaChubbyWaist" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaChubbyWaist</Data>
+            <Data name="3BA_AnusChubbyWaist" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="3BACrotchBack" target="3BA" local="true">Servants of Dibella - Body.osd\3BACrotchBack</Data>
+            <Data name="3BA_VaginaCrotchBack" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaCrotchBack</Data>
+            <Data name="3BA_AnusCrotchBack" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusCrotchBack</Data>
+        </Slider>
+        <Slider name="Clavicle_v2" invert="false" small="0" big="0">
+            <Data name="3BAClavicle_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAClavicle_v2</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="3BADoubleMelon" target="3BA" local="true">Servants of Dibella - Body.osd\3BADoubleMelon</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="3BAForearmSize" target="3BA" local="true">Servants of Dibella - Body.osd\3BAForearmSize</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="3BAGroin" target="3BA" local="true">Servants of Dibella - Body.osd\3BAGroin</Data>
+            <Data name="3BA_VaginaGroin" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaGroin</Data>
+            <Data name="3BA_AnusGroin" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusGroin</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="3BAHipBone" target="3BA" local="true">Servants of Dibella - Body.osd\3BAHipBone</Data>
+            <Data name="3BA_VaginaHipBone" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="3BAHipForward" target="3BA" local="true">Servants of Dibella - Body.osd\3BAHipForward</Data>
+            <Data name="3BA_VaginaHipForward" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaHipForward</Data>
+            <Data name="3BA_AnusHipForward" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusHipForward</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="3BAHips" target="3BA" local="true">Servants of Dibella - Body.osd\3BAHips</Data>
+            <Data name="3BA_VaginaHips" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaHips</Data>
+            <Data name="3BA_AnusHips" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="3BAHipUpperWidth" target="3BA" local="true">Servants of Dibella - Body.osd\3BAHipUpperWidth</Data>
+        </Slider>
+        <Slider name="HipCarved" invert="false" small="0" big="0">
+            <Data name="3BAHipCarved" target="3BA" local="true">Servants of Dibella - Body.osd\3BAHipCarved</Data>
+        </Slider>
+        <Slider name="HipNarrow_v2" invert="false" small="0" big="0">
+            <Data name="3BAHipNarrow_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAHipNarrow_v2</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="3BAKneeHeight" target="3BA" local="true">Servants of Dibella - Body.osd\3BAKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="3BAKneeShape" target="3BA" local="true">Servants of Dibella - Body.osd\3BAKneeShape</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="3BAKneeTogether_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="3BALegShapeClassic" target="3BA" local="true">Servants of Dibella - Body.osd\3BALegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="3BALegsThin" target="3BA" local="true">Servants of Dibella - Body.osd\3BALegsThin</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="3BAMuscleAbs" target="3BA" local="true">Servants of Dibella - Body.osd\3BAMuscleAbs</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="3BAMuscleArms" target="3BA" local="true">Servants of Dibella - Body.osd\3BAMuscleArms</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="3BAMuscleButt" target="3BA" local="true">Servants of Dibella - Body.osd\3BAMuscleButt</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="3BAMuscleLegs" target="3BA" local="true">Servants of Dibella - Body.osd\3BAMuscleLegs</Data>
+            <Data name="3BA_VaginaMuscleLegs" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaMuscleLegs</Data>
+            <Data name="3BA_AnusMuscleLegs" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusMuscleLegs</Data>
+        </Slider>
+        <Slider name="MusclePecs" invert="false" small="0" big="0">
+            <Data name="3BAMusclePecs" target="3BA" local="true">Servants of Dibella - Body.osd\3BAMusclePecs</Data>
+        </Slider>
+        <Slider name="MuscleBack_v2" invert="false" small="0" big="0">
+            <Data name="3BAMuscleBack_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAMuscleBack_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreAbs_v2" invert="false" small="0" big="0">
+            <Data name="3BAMuscleMoreAbs_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAMuscleMoreAbs_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreArms_v2" invert="false" small="0" big="0">
+            <Data name="3BAMuscleMoreArms_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAMuscleMoreArms_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="3BAMuscleMoreLegs_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAMuscleMoreLegs_v2</Data>
+        </Slider>
+        <Slider name="NavelEven" invert="false" small="0" big="0">
+            <Data name="3BANavelEven" target="3BA" local="true">Servants of Dibella - Body.osd\3BANavelEven</Data>
+        </Slider>
+        <Slider name="NeckSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="3BANeckSeam" target="3BA" local="true">Servants of Dibella - Body.osd\3BANeckSeam</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" small="0" big="0">
+            <Data name="3BANipBGone" target="3BA" local="true">Servants of Dibella - Body.osd\3BANipBGone</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" small="0" big="0">
+            <Data name="3BANippleDistance" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="3BANippleDown" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="3BANippleLength" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleLength</Data>
+        </Slider>
+        <Slider name="NippleManga" invert="false" small="0" big="0">
+            <Data name="3BANippleManga" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleManga</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="3BANipplePerkiness" target="3BA" local="true">Servants of Dibella - Body.osd\3BANipplePerkiness</Data>
+        </Slider>
+        <Slider name="NipplePerkManga" invert="false" small="0" big="0">
+            <Data name="3BANipplePerkManga" target="3BA" local="true">Servants of Dibella - Body.osd\3BANipplePerkManga</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" small="0" big="0">
+            <Data name="3BANippleSize" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="3BANippleTip" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleTip</Data>
+        </Slider>
+        <Slider name="NippleTipManga" invert="false" small="0" big="0">
+            <Data name="3BANippleTipManga" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleTipManga</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="3BANippleUp" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleUp</Data>
+        </Slider>
+        <Slider name="NippleDip" invert="false" small="0" big="0">
+            <Data name="3BANippleDip" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleDip</Data>
+        </Slider>
+        <Slider name="NippleCrease_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleCrease_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleCrease_v2</Data>
+        </Slider>
+        <Slider name="NipplePuffy_v2" invert="false" small="0" big="0">
+            <Data name="3BANipplePuffy_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BANipplePuffy_v2</Data>
+        </Slider>
+        <Slider name="NippleShy_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleShy_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleShy_v2</Data>
+        </Slider>
+        <Slider name="NippleThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleThicc_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleThicc_v2</Data>
+        </Slider>
+        <Slider name="NippleInvert_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleInvert_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleInvert_v2</Data>
+        </Slider>
+        <Slider name="NippleSquash1_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleSquash1_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleSquash1_v2</Data>
+        </Slider>
+        <Slider name="NippleSquash2_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleSquash2_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleSquash2_v2</Data>
+        </Slider>
+        <Slider name="NippleBump_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleBump_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleBump_v2</Data>
+        </Slider>
+        <Slider name="NippleCrumpled_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleCrumpled_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleCrumpled_v2</Data>
+        </Slider>
+        <Slider name="NippleTube_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleTube_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BANippleTube_v2</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="3BAPregnancyBelly" target="3BA" local="true">Servants of Dibella - Body.osd\3BAPregnancyBelly</Data>
+            <Data name="3BA_VaginaPregnancyBelly" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaPregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="3BAPushUp" target="3BA" local="true">Servants of Dibella - Body.osd\3BAPushUp</Data>
+        </Slider>
+        <Slider name="RibsMore_v2" invert="false" small="0" big="0">
+            <Data name="3BARibsMore_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BARibsMore_v2</Data>
+        </Slider>
+        <Slider name="RibsProminance" invert="false" small="0" big="0">
+            <Data name="3BARibsProminance" target="3BA" local="true">Servants of Dibella - Body.osd\3BARibsProminance</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="3BARoundAss" target="3BA" local="true">Servants of Dibella - Body.osd\3BARoundAss</Data>
+            <Data name="3BA_VaginaRoundAss" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaRoundAss</Data>
+            <Data name="3BA_AnusRoundAss" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="3BAShoulderSmooth" target="3BA" local="true">Servants of Dibella - Body.osd\3BAShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="0" big="0">
+            <Data name="3BAShoulderTweak" target="3BA" local="true">Servants of Dibella - Body.osd\3BAShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="3BAShoulderWidth" target="3BA" local="true">Servants of Dibella - Body.osd\3BAShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="3BASlimThighs" target="3BA" local="true">Servants of Dibella - Body.osd\3BASlimThighs</Data>
+            <Data name="3BA_VaginaSlimThighs" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaSlimThighs</Data>
+            <Data name="3BA_AnusSlimThighs" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusSlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" small="0" big="0">
+            <Data name="3BASternumDepth" target="3BA" local="true">Servants of Dibella - Body.osd\3BASternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" small="0" big="0">
+            <Data name="3BASternumHeight" target="3BA" local="true">Servants of Dibella - Body.osd\3BASternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="3BAThighs" target="3BA" local="true">Servants of Dibella - Body.osd\3BAThighs</Data>
+            <Data name="3BA_VaginaThighs" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaThighs</Data>
+            <Data name="3BA_AnusThighs" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusThighs</Data>
+        </Slider>
+        <Slider name="ThighOutsideThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BAThighOutsideThicc_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAThighOutsideThicc_v2</Data>
+        </Slider>
+        <Slider name="ThighInsideThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BAThighInsideThicc_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAThighInsideThicc_v2</Data>
+            <Data name="3BA_VaginaThighInsideThicc_v2" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaThighInsideThicc_v2</Data>
+        </Slider>
+        <Slider name="ThighFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BAThighFBThicc_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAThighFBThicc_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="3BALegSpread_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BALegSpread_v2</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="3BATummyTuck" target="3BA" local="true">Servants of Dibella - Body.osd\3BATummyTuck</Data>
+            <Data name="3BA_VaginaTummyTuck" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaTummyTuck</Data>
+        </Slider>
+        <Slider name="UNPHip_v2" invert="false" small="0" big="0">
+            <Data name="3BAUNPHip_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAUNPHip_v2</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="3BAWaist" target="3BA" local="true">Servants of Dibella - Body.osd\3BAWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="3BAWaistHeight" target="3BA" local="true">Servants of Dibella - Body.osd\3BAWaistHeight</Data>
+            <Data name="3BA_VaginaWaistHeight" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaWaistHeight</Data>
+            <Data name="3BA_AnusWaistHeight" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="3BAWideWaistLine" target="3BA" local="true">Servants of Dibella - Body.osd\3BAWideWaistLine</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="3BAWristSize" target="3BA" local="true">Servants of Dibella - Body.osd\3BAWristSize</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="3BA7BLeg_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BA7BLeg_v2</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="3BA7B Lower" target="3BA" local="true">Servants of Dibella - Body.osd\3BA7B Lower</Data>
+            <Data name="3BA_Vagina7B Lower" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_Vagina7B Lower</Data>
+            <Data name="3BA_Anus7B Lower" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_Anus7B Lower</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="3BA7B Upper" target="3BA" local="true">Servants of Dibella - Body.osd\3BA7B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="3BAVanillaSSEHi" target="3BA" local="true">Servants of Dibella - Body.osd\3BAVanillaSSEHi</Data>
+            <Data name="3BA_VaginaVanillaSSEHi" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaVanillaSSEHi</Data>
+            <Data name="3BA_AnusVanillaSSEHi" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="3BAVanillaSSELo" target="3BA" local="true">Servants of Dibella - Body.osd\3BAVanillaSSELo</Data>
+            <Data name="3BA_VaginaVanillaSSELo" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaVanillaSSELo</Data>
+            <Data name="3BA_AnusVanillaSSELo" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="3BAOldBaseShape" target="3BA" local="true">Servants of Dibella - Body.osd\3BAOldBaseShape</Data>
+            <Data name="3BA_VaginaOldBaseShape" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaOldBaseShape</Data>
+            <Data name="3BA_AnusOldBaseShape" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusOldBaseShape</Data>
+        </Slider>
+        <Slider name="Innieoutie" invert="false" small="0" big="0">
+            <Data name="3BAInnieoutie" target="3BA" local="true">Servants of Dibella - Body.osd\3BAInnieoutie</Data>
+            <Data name="3BA_VaginaInnieoutie" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaInnieoutie</Data>
+        </Slider>
+        <Slider name="LabiaTightUp" invert="false" small="0" big="0">
+            <Data name="3BALabiaTightUp" target="3BA" local="true">Servants of Dibella - Body.osd\3BALabiaTightUp</Data>
+            <Data name="3BA_VaginaLabiaTightUp" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaLabiaTightUp</Data>
+        </Slider>
+        <Slider name="Labiapuffyness" invert="false" small="0" big="0">
+            <Data name="3BALabiapuffyness" target="3BA" local="true">Servants of Dibella - Body.osd\3BALabiapuffyness</Data>
+            <Data name="3BA_VaginaLabiapuffyness" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaLabiapuffyness</Data>
+        </Slider>
+        <Slider name="LabiaMorePuffyness_v2" invert="false" small="0" big="0">
+            <Data name="3BALabiaMorePuffyness_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BALabiaMorePuffyness_v2</Data>
+            <Data name="3BA_VaginaLabiaMorePuffyness_v2" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaLabiaMorePuffyness_v2</Data>
+        </Slider>
+        <Slider name="Labiaprotrude" invert="false" small="0" big="0">
+            <Data name="3BALabiaprotrude" target="3BA" local="true">Servants of Dibella - Body.osd\3BALabiaprotrude</Data>
+            <Data name="3BA_VaginaLabiaprotrude" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaLabiaprotrude</Data>
+        </Slider>
+        <Slider name="Labiaprotrude2" invert="false" small="0" big="0">
+            <Data name="3BALabiaprotrude2" target="3BA" local="true">Servants of Dibella - Body.osd\3BALabiaprotrude2</Data>
+            <Data name="3BA_VaginaLabiaprotrude2" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaLabiaprotrude2</Data>
+        </Slider>
+        <Slider name="Labiaprotrudeback" invert="false" small="0" big="0">
+            <Data name="3BA_VaginaLabiaprotrudeback" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaLabiaprotrudeback</Data>
+        </Slider>
+        <Slider name="Labiaspread" invert="false" small="0" big="0">
+            <Data name="3BALabiaspread" target="3BA" local="true">Servants of Dibella - Body.osd\3BALabiaspread</Data>
+            <Data name="3BA_VaginaLabiaspread" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaLabiaspread</Data>
+        </Slider>
+        <Slider name="LabiaCrumpled_v2" invert="false" small="0" big="0">
+            <Data name="3BALabiaCrumpled_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BALabiaCrumpled_v2</Data>
+            <Data name="3BA_VaginaLabiaCrumpled_v2" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaLabiaCrumpled_v2</Data>
+        </Slider>
+        <Slider name="LabiaNeat_v2" invert="false" small="0" big="0">
+            <Data name="3BALabiaNeat_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BALabiaNeat_v2</Data>
+            <Data name="3BA_VaginaLabiaNeat_v2" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaLabiaNeat_v2</Data>
+        </Slider>
+        <Slider name="LabiaBulgogi_v2" invert="false" small="0" big="0">
+            <Data name="3BALabiaBulgogi_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BALabiaBulgogi_v2</Data>
+            <Data name="3BA_VaginaLabiaBulgogi_v2" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaLabiaBulgogi_v2</Data>
+        </Slider>
+        <Slider name="Vaginasize" invert="false" small="0" big="0">
+            <Data name="3BA_VaginaVaginasize" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaVaginasize</Data>
+        </Slider>
+        <Slider name="VaginaHole" invert="false" small="0" big="0">
+            <Data name="3BAVaginaHole" target="3BA" local="true">Servants of Dibella - Body.osd\3BAVaginaHole</Data>
+            <Data name="3BA_VaginaVaginaHole" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaVaginaHole</Data>
+        </Slider>
+        <Slider name="Clit" invert="false" small="0" big="0">
+            <Data name="3BAClit" target="3BA" local="true">Servants of Dibella - Body.osd\3BAClit</Data>
+            <Data name="3BA_VaginaClit" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaClit</Data>
+        </Slider>
+        <Slider name="ClitSwell_v2" invert="false" small="0" big="0">
+            <Data name="3BAClitSwell_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAClitSwell_v2</Data>
+            <Data name="3BA_VaginaClitSwell_v2" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaClitSwell_v2</Data>
+        </Slider>
+        <Slider name="Cutepuffyness" invert="false" small="0" big="0">
+            <Data name="3BACutepuffyness" target="3BA" local="true">Servants of Dibella - Body.osd\3BACutepuffyness</Data>
+            <Data name="3BA_VaginaCutepuffyness" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaCutepuffyness</Data>
+        </Slider>
+        <Slider name="CBPC" invert="false" small="0" big="0">
+            <Data name="3BACBPC" target="3BA" local="true">Servants of Dibella - Body.osd\3BACBPC</Data>
+            <Data name="3BA_VaginaCBPC" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaCBPC</Data>
+        </Slider>
+        <Slider name="CrotchGap" invert="false" small="0" big="0">
+            <Data name="3BACrotchGap" target="3BA" local="true">Servants of Dibella - Body.osd\3BACrotchGap</Data>
+            <Data name="3BA_VaginaCrotchGap" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaCrotchGap</Data>
+        </Slider>
+        <Slider name="AnalLoose_v2" invert="false" small="0" big="0">
+            <Data name="3BAAnalLoose_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAAnalLoose_v2</Data>
+            <Data name="3BA_VaginaAnalLoose_v2" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaAnalLoose_v2</Data>
+            <Data name="3BA_AnusAnalLoose_v2" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusAnalLoose_v2</Data>
+        </Slider>
+        <Slider name="AnalPosition_v2" invert="false" small="0" big="0">
+            <Data name="3BAAnalPosition_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAAnalPosition_v2</Data>
+            <Data name="3BA_VaginaAnalPosition_v2" target="3BA_Vagina" local="true">Servants of Dibella - Body.osd\3BA_VaginaAnalPosition_v2</Data>
+            <Data name="3BA_AnusAnalPosition_v2" target="3BA_Anus" local="true">Servants of Dibella - Body.osd\3BA_AnusAnalPosition_v2</Data>
+        </Slider>
+        <Slider name="AnalTexPos_v2" invert="false" small="0" big="0" uv="true">
+            <Data name="3BAAnalTexPos_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAAnalTexPos_v2</Data>
+        </Slider>
+        <Slider name="AnalTexPosRe_v2" invert="false" small="0" big="0" uv="true">
+            <Data name="3BAAnalTexPosRe_v2" target="3BA" local="true">Servants of Dibella - Body.osd\3BAAnalTexPosRe_v2</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Servants of Dibella - Feet">
+        <DataFolder>Servants of Dibella - Feet</DataFolder>
+        <SourceFile>Servants of Dibella - Feet.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\body</OutputPath>
+        <OutputFile GenWeights="true">femalefeet</OutputFile>
+        <Shape target="Feet" DataFolder="CBBE">Feet</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FeetAnkleSize" target="Feet" local="true">Servants of Dibella - Feet.osd\FeetAnkleSize</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FeetFeetFeminine" target="Feet" local="true">Servants of Dibella - Feet.osd\FeetFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Servants of Dibella - Hands">
+        <DataFolder>Servants of Dibella - Hands</DataFolder>
+        <SourceFile>Servants of Dibella - Hands.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\body</OutputPath>
+        <OutputFile GenWeights="true">femalehands</OutputFile>
+        <Shape target="Hands" DataFolder="CBBE">Hands</Shape>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="HandsWristSize" target="Hands" local="true">Servants of Dibella - Hands.osd\HandsWristSize</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="SoD - Crimson Armour">
+        <DataFolder>SoD - Crimson Armour</DataFolder>
+        <SourceFile>SoD - Crimson Armour.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">DX_VampireStalhrim_Cuirass</OutputFile>
+        <Shape target="Back" DataFolder="SoD - Crimson Armour">Back</Shape>
+        <Shape target="BaseShapeHR" DataFolder="CBBE">CBBE</Shape>
+        <Shape target="Cuirass" DataFolder="SoD - Crimson Armour">Cuirass</Shape>
+        <Shape target="Fishnet" DataFolder="SoD - Crimson Armour">Fishnet</Shape>
+        <Shape target="Front" DataFolder="SoD - Crimson Armour">Front</Shape>
+        <Shape target="Leggings" DataFolder="SoD - Crimson Armour">Leggings</Shape>
+        <Shape target="Shoulder Left Low" DataFolder="SoD - Crimson Armour">Shoulder Left Low</Shape>
+        <Shape target="Shoulder Left Top" DataFolder="SoD - Crimson Armour">Shoulder Left Top</Shape>
+        <Shape target="Shoulder Right Low" DataFolder="SoD - Crimson Armour">Shoulder Right Low</Shape>
+        <Shape target="Shoulder Right Top" DataFolder="SoD - Crimson Armour">Shoulder Right Top</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="BaseShapeHRAnkleSize" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRAnkleSize</Data>
+            <Data name="LeggingsAnkleSize" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsAnkleSize</Data>
+            <Data name="FishnetAnkleSize" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetAnkleSize</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRAppleCheeks" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRAppleCheeks</Data>
+            <Data name="CuirassAppleCheeks" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassAppleCheeks</Data>
+            <Data name="LeggingsAppleCheeks" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsAppleCheeks</Data>
+            <Data name="FishnetAppleCheeks" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetAppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRarms" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRarms</Data>
+            <Data name="CuirassArms" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassArms</Data>
+            <Data name="Shoulder Left TopArms" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopArms</Data>
+            <Data name="Shoulder Left LowArms" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowArms</Data>
+            <Data name="Shoulder Right TopArms" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopArms</Data>
+            <Data name="Shoulder Right LowArms" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBack" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBack</Data>
+            <Data name="CuirassBack" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBack</Data>
+            <Data name="LeggingsBack" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBack</Data>
+            <Data name="FishnetBack" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBack</Data>
+            <Data name="Shoulder Left TopBack" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopBack</Data>
+            <Data name="Shoulder Left LowBack" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowBack</Data>
+            <Data name="Shoulder Right TopBack" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopBack</Data>
+            <Data name="Shoulder Right LowBack" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowBack</Data>
+            <Data name="FrontBack" target="Front" local="true">SoD - Crimson Armour.osd\FrontBack</Data>
+            <Data name="BackBack" target="Back" local="true">SoD - Crimson Armour.osd\BackBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBackArch" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBackArch</Data>
+            <Data name="CuirassBackArch" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBackArch</Data>
+            <Data name="LeggingsBackArch" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBackArch</Data>
+            <Data name="FishnetBackArch" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBelly" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBelly</Data>
+            <Data name="CuirassBelly" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBelly</Data>
+            <Data name="LeggingsBelly" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBelly</Data>
+            <Data name="FishnetBelly" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBigBelly" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBigBelly</Data>
+            <Data name="CuirassBigBelly" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBigBelly</Data>
+            <Data name="LeggingsBigBelly" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBigBelly</Data>
+            <Data name="FishnetBigBelly" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBigButt" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBigButt</Data>
+            <Data name="CuirassBigButt" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBigButt</Data>
+            <Data name="LeggingsBigButt" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBigButt</Data>
+            <Data name="FishnetBigButt" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBigTorso" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBigTorso</Data>
+            <Data name="CuirassBigTorso" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBigTorso</Data>
+            <Data name="LeggingsBigTorso" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBigTorso</Data>
+            <Data name="FishnetBigTorso" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBigTorso</Data>
+            <Data name="Shoulder Left TopBigTorso" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopBigTorso</Data>
+            <Data name="Shoulder Left LowBigTorso" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowBigTorso</Data>
+            <Data name="Shoulder Right TopBigTorso" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopBigTorso</Data>
+            <Data name="Shoulder Right LowBigTorso" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowBigTorso</Data>
+            <Data name="FrontBigTorso" target="Front" local="true">SoD - Crimson Armour.osd\FrontBigTorso</Data>
+            <Data name="BackBigTorso" target="Back" local="true">SoD - Crimson Armour.osd\BackBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastCenter" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastCenter</Data>
+            <Data name="CuirassBreastCenter" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastCenterBig" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastCenterBig</Data>
+            <Data name="CuirassBreastCenterBig" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastCleavage" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastCleavage</Data>
+            <Data name="CuirassBreastCleavage" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastCleavage</Data>
+            <Data name="LeggingsBreastCleavage" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBreastCleavage</Data>
+            <Data name="FishnetBreastCleavage" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastFlatness2" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastFlatness2</Data>
+            <Data name="CuirassBreastFlatness2" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastFlattness" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastFlattness</Data>
+            <Data name="CuirassBreastFlatness" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastGravity2" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastGravity2</Data>
+            <Data name="CuirassBreastGravity2" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastHeight" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastHeight</Data>
+            <Data name="CuirassBreastHeight" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastPerkiness" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastPerkiness</Data>
+            <Data name="CuirassBreastPerkiness" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastPerkiness</Data>
+        </Slider>
+        <Slider name="Breasts" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreasts" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreasts</Data>
+            <Data name="CuirassBreasts" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreasts</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastsFantasy" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastsFantasy</Data>
+            <Data name="CuirassBreastsFantasy" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastsFantasy</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastsGone" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastsGone</Data>
+            <Data name="CuirassBreastsGone" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastsNewSH" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastsNewSH</Data>
+            <Data name="CuirassBreastsNewSH" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastsSmall" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastsSmall</Data>
+            <Data name="CuirassBreastsSmall" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastsSmall</Data>
+            <Data name="LeggingsBreastsSmall" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBreastsSmall</Data>
+            <Data name="FishnetBreastsSmall" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastsSmall2" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastsSmall2</Data>
+            <Data name="CuirassBreastsSmall2" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastsSmall2</Data>
+            <Data name="LeggingsBreastsSmall2" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBreastsSmall2</Data>
+            <Data name="FishnetBreastsSmall2" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastsTogether" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastsTogether</Data>
+            <Data name="CuirassBreastsTogether" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastTopSlope" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastTopSlope</Data>
+            <Data name="CuirassBreastTopSlope" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastWidth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastWidth</Data>
+            <Data name="CuirassBreastWidth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRButt" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRButt</Data>
+            <Data name="CuirassButt" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassButt</Data>
+            <Data name="LeggingsButt" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsButt</Data>
+            <Data name="FishnetButt" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetButt</Data>
+        </Slider>
+        <Slider name="ButtClassic" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRButtClassic" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRButtClassic</Data>
+            <Data name="CuirassButtClassic" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassButtClassic</Data>
+            <Data name="LeggingsButtClassic" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsButtClassic</Data>
+            <Data name="FishnetButtClassic" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetButtClassic</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRButtCrack" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRButtCrack</Data>
+            <Data name="CuirassButtCrack" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassButtCrack</Data>
+            <Data name="LeggingsButtCrack" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsButtCrack</Data>
+            <Data name="FishnetButtCrack" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetButtCrack</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRButtShape2" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRButtShape2</Data>
+            <Data name="CuirassButtShape2" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassButtShape2</Data>
+            <Data name="LeggingsButtShape2" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsButtShape2</Data>
+            <Data name="FishnetButtShape2" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRButtSmall" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRButtSmall</Data>
+            <Data name="CuirassButtSmall" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassButtSmall</Data>
+            <Data name="LeggingsButtSmall" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsButtSmall</Data>
+            <Data name="FishnetButtSmall" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRCalfSmooth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRCalfSmooth</Data>
+            <Data name="LeggingsCalfSmooth" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsCalfSmooth</Data>
+            <Data name="FishnetCalfSmooth" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRChestDepth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRChestDepth</Data>
+            <Data name="CuirassChestDepth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassChestDepth</Data>
+            <Data name="LeggingsChestDepth" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsChestDepth</Data>
+            <Data name="FishnetChestDepth" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRChestWidth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRChestWidth</Data>
+            <Data name="CuirassChestWidth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassChestWidth</Data>
+            <Data name="LeggingsChestWidth" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsChestWidth</Data>
+            <Data name="FishnetChestWidth" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRChubbyArms" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRChubbyArms</Data>
+            <Data name="CuirassChubbyArms" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassChubbyArms</Data>
+            <Data name="Shoulder Left TopChubbyArms" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopChubbyArms</Data>
+            <Data name="Shoulder Left LowChubbyArms" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowChubbyArms</Data>
+            <Data name="Shoulder Right TopChubbyArms" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopChubbyArms</Data>
+            <Data name="Shoulder Right LowChubbyArms" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRChubbyButt" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRChubbyButt</Data>
+            <Data name="CuirassChubbyButt" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassChubbyButt</Data>
+            <Data name="LeggingsChubbyButt" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsChubbyButt</Data>
+            <Data name="FishnetChubbyButt" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRChubbyLegs" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRChubbyLegs</Data>
+            <Data name="CuirassChubbyLegs" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassChubbyLegs</Data>
+            <Data name="LeggingsChubbyLegs" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsChubbyLegs</Data>
+            <Data name="FishnetChubbyLegs" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRChubbyWaist" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRChubbyWaist</Data>
+            <Data name="CuirassChubbyWaist" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassChubbyWaist</Data>
+            <Data name="LeggingsChubbyWaist" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsChubbyWaist</Data>
+            <Data name="FishnetChubbyWaist" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRCrotchBack" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRCrotchBack</Data>
+            <Data name="CuirassCrotchBack" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassCrotchBack</Data>
+            <Data name="LeggingsCrotchBack" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsCrotchBack</Data>
+            <Data name="FishnetCrotchBack" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetCrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRDoubleMelon" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRDoubleMelon</Data>
+            <Data name="CuirassDoubleMelon" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassDoubleMelon</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRForearmSize" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRForearmSize</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRGroin" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRGroin</Data>
+            <Data name="CuirassGroin" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassGroin</Data>
+            <Data name="LeggingsGroin" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsGroin</Data>
+            <Data name="FishnetGroin" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetGroin</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRHipbone" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRHipbone</Data>
+            <Data name="CuirassHipBone" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassHipBone</Data>
+            <Data name="LeggingsHipBone" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsHipBone</Data>
+            <Data name="FishnetHipBone" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRHipForward" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRHipForward</Data>
+            <Data name="CuirassHipForward" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassHipForward</Data>
+            <Data name="LeggingsHipForward" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsHipForward</Data>
+            <Data name="FishnetHipForward" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetHipForward</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRHips" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRHips</Data>
+            <Data name="CuirassHips" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassHips</Data>
+            <Data name="LeggingsHips" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsHips</Data>
+            <Data name="FishnetHips" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRHipUpperWidth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRHipUpperWidth</Data>
+            <Data name="CuirassHipUpperWidth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassHipUpperWidth</Data>
+            <Data name="LeggingsHipUpperWidth" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsHipUpperWidth</Data>
+            <Data name="FishnetHipUpperWidth" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetHipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRKneeShape" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRKneeShape</Data>
+            <Data name="LeggingsKneeShape" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsKneeShape</Data>
+            <Data name="FishnetKneeShape" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRLegShapeClassic" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRLegShapeClassic</Data>
+            <Data name="CuirassLegShapeClassic" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassLegShapeClassic</Data>
+            <Data name="LeggingsLegShapeClassic" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsLegShapeClassic</Data>
+            <Data name="FishnetLegShapeClassic" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRLegsThin" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRLegsThin</Data>
+            <Data name="CuirassLegsThin" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassLegsThin</Data>
+            <Data name="LeggingsLegsThin" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsLegsThin</Data>
+            <Data name="FishnetLegsThin" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRMuscleAbs" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRMuscleAbs</Data>
+            <Data name="CuirassMuscleAbs" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassMuscleAbs</Data>
+            <Data name="LeggingsMuscleAbs" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsMuscleAbs</Data>
+            <Data name="FishnetMuscleAbs" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetMuscleAbs</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRMuscleArms" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRMuscleArms</Data>
+            <Data name="CuirassMuscleArms" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassMuscleArms</Data>
+            <Data name="Shoulder Left TopMuscleArms" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopMuscleArms</Data>
+            <Data name="Shoulder Left LowMuscleArms" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowMuscleArms</Data>
+            <Data name="Shoulder Right TopMuscleArms" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopMuscleArms</Data>
+            <Data name="Shoulder Right LowMuscleArms" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowMuscleArms</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRMuscleButt" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRMuscleButt</Data>
+            <Data name="CuirassMuscleButt" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassMuscleButt</Data>
+            <Data name="LeggingsMuscleButt" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsMuscleButt</Data>
+            <Data name="FishnetMuscleButt" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetMuscleButt</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRMuscleLegs" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRMuscleLegs</Data>
+            <Data name="CuirassMuscleLegs" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassMuscleLegs</Data>
+            <Data name="LeggingsMuscleLegs" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsMuscleLegs</Data>
+            <Data name="FishnetMuscleLegs" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetMuscleLegs</Data>
+        </Slider>
+        <Slider name="MusclePecs" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRMusclePecs" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRMusclePecs</Data>
+            <Data name="CuirassMusclePecs" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassMusclePecs</Data>
+            <Data name="Shoulder Left LowMusclePecs" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowMusclePecs</Data>
+            <Data name="Shoulder Right LowMusclePecs" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowMusclePecs</Data>
+        </Slider>
+        <Slider name="NeckSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="BaseShapeHRNeckSeam" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRNeckSeam</Data>
+            <Data name="CuirassNeckSeam" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassNeckSeam</Data>
+            <Data name="Shoulder Left TopNeckSeam" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopNeckSeam</Data>
+            <Data name="Shoulder Left LowNeckSeam" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowNeckSeam</Data>
+            <Data name="Shoulder Right TopNeckSeam" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopNeckSeam</Data>
+            <Data name="Shoulder Right LowNeckSeam" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowNeckSeam</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRPushUp" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRPushUp</Data>
+            <Data name="CuirassPushUp" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassPushUp</Data>
+        </Slider>
+        <Slider name="RibsProminance" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRRibsProminance" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRRibsProminance</Data>
+            <Data name="CuirassRibsProminance" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassRibsProminance</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRRoundAss" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRRoundAss</Data>
+            <Data name="CuirassRoundAss" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassRoundAss</Data>
+            <Data name="LeggingsRoundAss" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsRoundAss</Data>
+            <Data name="FishnetRoundAss" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRShoulderSmooth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRShoulderSmooth</Data>
+            <Data name="CuirassShoulderSmooth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassShoulderSmooth</Data>
+            <Data name="Shoulder Left TopShoulderSmooth" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopShoulderSmooth</Data>
+            <Data name="Shoulder Left LowShoulderSmooth" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowShoulderSmooth</Data>
+            <Data name="Shoulder Right TopShoulderSmooth" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopShoulderSmooth</Data>
+            <Data name="Shoulder Right LowShoulderSmooth" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRshouldertweak" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRshouldertweak</Data>
+            <Data name="CuirassShoulderTweak" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassShoulderTweak</Data>
+            <Data name="Shoulder Left TopShoulderTweak" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopShoulderTweak</Data>
+            <Data name="Shoulder Left LowShoulderTweak" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowShoulderTweak</Data>
+            <Data name="Shoulder Right TopShoulderTweak" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopShoulderTweak</Data>
+            <Data name="Shoulder Right LowShoulderTweak" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRshoulderWidth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRshoulderWidth</Data>
+            <Data name="CuirassShoulderWidth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassShoulderWidth</Data>
+            <Data name="LeggingsShoulderWidth" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsShoulderWidth</Data>
+            <Data name="FishnetShoulderWidth" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetShoulderWidth</Data>
+            <Data name="Shoulder Left TopShoulderWidth" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopShoulderWidth</Data>
+            <Data name="Shoulder Left LowShoulderWidth" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowShoulderWidth</Data>
+            <Data name="Shoulder Right TopShoulderWidth" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopShoulderWidth</Data>
+            <Data name="Shoulder Right LowShoulderWidth" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRSlimThighs" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRSlimThighs</Data>
+            <Data name="CuirassSlimThighs" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassSlimThighs</Data>
+            <Data name="LeggingsSlimThighs" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsSlimThighs</Data>
+            <Data name="FishnetSlimThighs" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetSlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRSternumDepth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRSternumDepth</Data>
+            <Data name="CuirassSternumDepth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRSternumHeight" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRSternumHeight</Data>
+            <Data name="CuirassSternumHeight" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassSternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRThighs" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRThighs</Data>
+            <Data name="CuirassThighs" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassThighs</Data>
+            <Data name="LeggingsThighs" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsThighs</Data>
+            <Data name="FishnetThighs" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRTummyTuck" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRTummyTuck</Data>
+            <Data name="CuirassTummyTuck" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassTummyTuck</Data>
+            <Data name="LeggingsTummyTuck" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsTummyTuck</Data>
+            <Data name="FishnetTummyTuck" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetTummyTuck</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRwaist" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRwaist</Data>
+            <Data name="CuirassWaist" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassWaist</Data>
+            <Data name="LeggingsWaist" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsWaist</Data>
+            <Data name="FishnetWaist" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRWaistHeight" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRWaistHeight</Data>
+            <Data name="CuirassWaistHeight" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassWaistHeight</Data>
+            <Data name="LeggingsWaistHeight" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsWaistHeight</Data>
+            <Data name="FishnetWaistHeight" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRWideWaistLine" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRWideWaistLine</Data>
+            <Data name="CuirassWideWaistLine" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassWideWaistLine</Data>
+            <Data name="LeggingsWideWaistLine" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsWideWaistLine</Data>
+            <Data name="FishnetWideWaistLine" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetWideWaistLine</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="BaseShapeHRWristSize" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRWristSize</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="BaseShapeHR7B Lower" target="BaseShapeHR">CBBE Body.osd\BaseShapeHR7B Lower</Data>
+            <Data name="Cuirass7B Lower" target="Cuirass" local="true">SoD - Crimson Armour.osd\Cuirass7B Lower</Data>
+            <Data name="Leggings7B Lower" target="Leggings" local="true">SoD - Crimson Armour.osd\Leggings7B Lower</Data>
+            <Data name="Fishnet7B Lower" target="Fishnet" local="true">SoD - Crimson Armour.osd\Fishnet7B Lower</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="BaseShapeHR7B Upper" target="BaseShapeHR">CBBE Body.osd\BaseShapeHR7B Upper</Data>
+            <Data name="Cuirass7B Upper" target="Cuirass" local="true">SoD - Crimson Armour.osd\Cuirass7B Upper</Data>
+            <Data name="Leggings7B Upper" target="Leggings" local="true">SoD - Crimson Armour.osd\Leggings7B Upper</Data>
+            <Data name="Fishnet7B Upper" target="Fishnet" local="true">SoD - Crimson Armour.osd\Fishnet7B Upper</Data>
+            <Data name="Shoulder Left Top7B Upper" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left Top7B Upper</Data>
+            <Data name="Shoulder Left Low7B Upper" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left Low7B Upper</Data>
+            <Data name="Shoulder Right Top7B Upper" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right Top7B Upper</Data>
+            <Data name="Shoulder Right Low7B Upper" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right Low7B Upper</Data>
+            <Data name="Front7B Upper" target="Front" local="true">SoD - Crimson Armour.osd\Front7B Upper</Data>
+            <Data name="Back7B Upper" target="Back" local="true">SoD - Crimson Armour.osd\Back7B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRVanillaSSEHi" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRVanillaSSEHi</Data>
+            <Data name="CuirassVanillaSSEHi" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassVanillaSSEHi</Data>
+            <Data name="LeggingsVanillaSSEHi" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsVanillaSSEHi</Data>
+            <Data name="FishnetVanillaSSEHi" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetVanillaSSEHi</Data>
+            <Data name="Shoulder Left TopVanillaSSEHi" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopVanillaSSEHi</Data>
+            <Data name="Shoulder Left LowVanillaSSEHi" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowVanillaSSEHi</Data>
+            <Data name="Shoulder Right TopVanillaSSEHi" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopVanillaSSEHi</Data>
+            <Data name="Shoulder Right LowVanillaSSEHi" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowVanillaSSEHi</Data>
+            <Data name="FrontVanillaSSEHi" target="Front" local="true">SoD - Crimson Armour.osd\FrontVanillaSSEHi</Data>
+            <Data name="BackVanillaSSEHi" target="Back" local="true">SoD - Crimson Armour.osd\BackVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRVanillaSSELo" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRVanillaSSELo</Data>
+            <Data name="CuirassVanillaSSELo" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassVanillaSSELo</Data>
+            <Data name="LeggingsVanillaSSELo" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsVanillaSSELo</Data>
+            <Data name="FishnetVanillaSSELo" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetVanillaSSELo</Data>
+            <Data name="Shoulder Left TopVanillaSSELo" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopVanillaSSELo</Data>
+            <Data name="Shoulder Left LowVanillaSSELo" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowVanillaSSELo</Data>
+            <Data name="Shoulder Right TopVanillaSSELo" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopVanillaSSELo</Data>
+            <Data name="Shoulder Right LowVanillaSSELo" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowVanillaSSELo</Data>
+            <Data name="FrontVanillaSSELo" target="Front" local="true">SoD - Crimson Armour.osd\FrontVanillaSSELo</Data>
+            <Data name="BackVanillaSSELo" target="Back" local="true">SoD - Crimson Armour.osd\BackVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="BaseShapeHROldBaseShape" target="BaseShapeHR">CBBE Body.osd\BaseShapeHROldBaseShape</Data>
+            <Data name="CuirassOldBaseShape" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassOldBaseShape</Data>
+            <Data name="LeggingsOldBaseShape" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsOldBaseShape</Data>
+            <Data name="FishnetOldBaseShape" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetOldBaseShape</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRCalfSize" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRCalfSize</Data>
+            <Data name="LeggingsCalfSize" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsCalfSize</Data>
+            <Data name="FishnetCalfSize" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetCalfSize</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRKneeHeight" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRKneeHeight</Data>
+            <Data name="LeggingsKneeHeight" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsKneeHeight</Data>
+            <Data name="FishnetKneeHeight" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetKneeHeight</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRPregnancyBelly" target="BaseShapeHR" local="true">SoD - Crimson Armour.osd\BaseShapeHRPregnancyBelly</Data>
+            <Data name="CuirassPregnancyBelly" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassPregnancyBelly</Data>
+            <Data name="LeggingsPregnancyBelly" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsPregnancyBelly</Data>
+            <Data name="FishnetPregnancyBelly" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetPregnancyBelly</Data>
+        </Slider>
+        <Slider name="NoClip" invert="false" small="100" big="100" hidden="true" zap="true">
+            <Data name="BaseShapeHRNoClip" target="BaseShapeHR" local="true">SoD - Crimson Armour.osd\BaseShapeHRNoClip</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="SoD - Crimson Boots">
+        <DataFolder>SoD - Crimson Boots</DataFolder>
+        <SourceFile>SoD - Crimson Boots.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">DX_VampireStalhrim_Boots</OutputFile>
+        <Shape target="Boots" DataFolder="SoD - Crimson Boots">Boots</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="BootsAnkleSize" target="Boots" local="true">SoD - Crimson Boots.osd\BootsAnkleSize</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="BootsButtSmall" target="Boots" local="true">SoD - Crimson Boots.osd\BootsButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BootsCalfSize" target="Boots" local="true">SoD - Crimson Boots.osd\BootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BootsCalfSmooth" target="Boots" local="true">SoD - Crimson Boots.osd\BootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BootsChubbyLegs" target="Boots" local="true">SoD - Crimson Boots.osd\BootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="BootsHipForward" target="Boots" local="true">SoD - Crimson Boots.osd\BootsHipForward</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BootsKneeHeight" target="Boots" local="true">SoD - Crimson Boots.osd\BootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="BootsKneeShape" target="Boots" local="true">SoD - Crimson Boots.osd\BootsKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="BootsLegShapeClassic" target="Boots" local="true">SoD - Crimson Boots.osd\BootsLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="BootsLegsThin" target="Boots" local="true">SoD - Crimson Boots.osd\BootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="BootsMuscleLegs" target="Boots" local="true">SoD - Crimson Boots.osd\BootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BootsSlimThighs" target="Boots" local="true">SoD - Crimson Boots.osd\BootsSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BootsThighs" target="Boots" local="true">SoD - Crimson Boots.osd\BootsThighs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="Boots7B Lower" target="Boots" local="true">SoD - Crimson Boots.osd\Boots7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="BootsVanillaSSEHi" target="Boots" local="true">SoD - Crimson Boots.osd\BootsVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="BootsVanillaSSELo" target="Boots" local="true">SoD - Crimson Boots.osd\BootsVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="BootsOldBaseShape" target="Boots" local="true">SoD - Crimson Boots.osd\BootsOldBaseShape</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="BootsFeetFeminine" target="Boots" local="true">SoD - Crimson Boots.osd\BootsFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="SoD - Crimson Gauntlet">
+        <DataFolder>SoD - Crimson Gauntlet</DataFolder>
+        <SourceFile>SoD - Crimson Gauntlet.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">DX_VampireStalhrim_Gloves</OutputFile>
+        <Shape target="Bracers" DataFolder="SoD - Crimson Gauntlet">Bracers</Shape>
+        <Shape target="Fishnet" DataFolder="SoD - Crimson Gauntlet">Fishnet</Shape>
+        <Shape target="Hands" DataFolder="SoD - Crimson Gauntlet">Hands</Shape>
+        <Shape target="HardBracers" DataFolder="SoD - Crimson Gauntlet">HardBracers</Shape>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="BracersArms" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersArms</Data>
+            <Data name="HardBracersArms" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersArms</Data>
+            <Data name="FishnetArms" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetArms</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BracersBigTorso" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersBigTorso</Data>
+            <Data name="HardBracersBigTorso" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersBigTorso</Data>
+            <Data name="FishnetBigTorso" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetBigTorso</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BracersChubbyArms" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersChubbyArms</Data>
+            <Data name="HardBracersChubbyArms" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersChubbyArms</Data>
+            <Data name="FishnetChubbyArms" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetChubbyArms</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="BracersForearmSize" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersForearmSize</Data>
+            <Data name="HardBracersForearmSize" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersForearmSize</Data>
+            <Data name="FishnetForearmSize" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetForearmSize</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="HandsMuscleArms" target="Hands" local="true">SoD - Crimson Gauntlet.osd\HandsMuscleArms</Data>
+            <Data name="BracersMuscleArms" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersMuscleArms</Data>
+            <Data name="HardBracersMuscleArms" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersMuscleArms</Data>
+            <Data name="FishnetMuscleArms" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetMuscleArms</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="HandsShoulderWidth" target="Hands" local="true">SoD - Crimson Gauntlet.osd\HandsShoulderWidth</Data>
+            <Data name="BracersShoulderWidth" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersShoulderWidth</Data>
+            <Data name="HardBracersShoulderWidth" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersShoulderWidth</Data>
+            <Data name="FishnetShoulderWidth" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetShoulderWidth</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="HandsWristSize" target="Hands" local="true">SoD - Crimson Gauntlet.osd\HandsWristSize</Data>
+            <Data name="BracersWristSize" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersWristSize</Data>
+            <Data name="HardBracersWristSize" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersWristSize</Data>
+            <Data name="FishnetWristSize" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetWristSize</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="Hands7B Upper" target="Hands" local="true">SoD - Crimson Gauntlet.osd\Hands7B Upper</Data>
+            <Data name="Bracers7B Upper" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\Bracers7B Upper</Data>
+            <Data name="HardBracers7B Upper" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracers7B Upper</Data>
+            <Data name="Fishnet7B Upper" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\Fishnet7B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="BracersVanillaSSEHi" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersVanillaSSEHi</Data>
+            <Data name="HardBracersVanillaSSEHi" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersVanillaSSEHi</Data>
+            <Data name="FishnetVanillaSSEHi" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="BracersVanillaSSELo" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersVanillaSSELo</Data>
+            <Data name="HardBracersVanillaSSELo" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersVanillaSSELo</Data>
+            <Data name="FishnetVanillaSSELo" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetVanillaSSELo</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="SoD - Crimson Tasset">
+        <DataFolder>SoD - Crimson Tasset</DataFolder>
+        <SourceFile>SoD - Crimson Tasset.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">DX_VampireStalhrim_Tasset</OutputFile>
+        <Shape target="Cross" DataFolder="SoD - Crimson Tasset">Cross</Shape>
+        <Shape target="Skirt001" DataFolder="SoD - Crimson Tasset">Skirt001</Shape>
+        <Shape target="Tasset" DataFolder="SoD - Crimson Tasset">Tasset</Shape>
+        <Shape target="VirtualGround" DataFolder="SoD - Crimson Tasset">VirtualGround</Shape>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="TassetAppleCheeks" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetAppleCheeks</Data>
+            <Data name="CrossAppleCheeks" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossAppleCheeks</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="TassetBack" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetBack</Data>
+            <Data name="CrossBack" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="TassetBackArch" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetBackArch</Data>
+            <Data name="CrossBackArch" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="TassetBelly" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="TassetBigBelly" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="TassetBigButt" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetBigButt</Data>
+            <Data name="CrossBigButt" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="TassetBigTorso" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetBigTorso</Data>
+            <Data name="CrossBigTorso" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossBigTorso</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" small="0" big="0">
+            <Data name="TassetButt" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetButt</Data>
+            <Data name="CrossButt" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossButt</Data>
+        </Slider>
+        <Slider name="ButtClassic" invert="false" small="0" big="0">
+            <Data name="TassetButtClassic" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetButtClassic</Data>
+            <Data name="CrossButtClassic" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossButtClassic</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="TassetButtShape2" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetButtShape2</Data>
+            <Data name="CrossButtShape2" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="TassetButtSmall" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetButtSmall</Data>
+            <Data name="CrossButtSmall" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossButtSmall</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="TassetChestWidth" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="TassetChubbyButt" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetChubbyButt</Data>
+            <Data name="CrossChubbyButt" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="TassetChubbyLegs" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetChubbyLegs</Data>
+            <Data name="CrossChubbyLegs" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="TassetChubbyWaist" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetChubbyWaist</Data>
+            <Data name="CrossChubbyWaist" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossChubbyWaist</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="TassetHipBone" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="TassetHipForward" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetHipForward</Data>
+            <Data name="CrossHipForward" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossHipForward</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="TassetHips" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetHips</Data>
+            <Data name="CrossHips" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="TassetHipUpperWidth" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetHipUpperWidth</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="TassetLegShapeClassic" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="TassetLegsThin" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="TassetMuscleAbs" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetMuscleAbs</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="TassetMuscleButt" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetMuscleButt</Data>
+            <Data name="CrossMuscleButt" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossMuscleButt</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="TassetMuscleLegs" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetMuscleLegs</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="TassetPregnancyBelly" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetPregnancyBelly</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="TassetRoundAss" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetRoundAss</Data>
+            <Data name="CrossRoundAss" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="TassetSlimThighs" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetSlimThighs</Data>
+            <Data name="CrossSlimThighs" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="TassetThighs" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetThighs</Data>
+            <Data name="CrossThighs" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="TassetTummyTuck" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetTummyTuck</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="TassetWaist" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="TassetWaistHeight" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetWaistHeight</Data>
+            <Data name="CrossWaistHeight" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="TassetWideWaistLine" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetWideWaistLine</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="Tasset7B Lower" target="Tasset" local="true">SoD - Crimson Tasset.osd\Tasset7B Lower</Data>
+            <Data name="Cross7B Lower" target="Cross" local="true">SoD - Crimson Tasset.osd\Cross7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="TassetVanillaSSEHi" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetVanillaSSEHi</Data>
+            <Data name="CrossVanillaSSEHi" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="TassetVanillaSSELo" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetVanillaSSELo</Data>
+            <Data name="CrossVanillaSSELo" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="TassetOldBaseShape" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetOldBaseShape</Data>
+            <Data name="CrossOldBaseShape" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossOldBaseShape</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

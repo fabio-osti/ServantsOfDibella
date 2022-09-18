@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="Ophelia" set="CBBE Body Physics">
+        <Group name="3BA"/>
+        <Group name="3BBB"/>
+        <Group name="BHUNP 3BBB"/>
+        <Group name="CBBE"/>
+        <Group name="CBBE Bodies"/>
+        <Group name="CBBE SE - COCO Scarlet Rose"/>
+        <Group name="CBBE SE - Tera Rogue Outfit"/>
+        <Group name="CBBE Vanilla Outfits"/>
+        <Group name="CBBE Vanilla Outfits Physics"/>
+        <Group name="KS Hairdos SMP - Collisions (BHUNP)"/>
+        <Group name="KS Hairdos SMP - Collisions (CBBE)"/>
+        <Group name="KS Hairdos SMP - Collisions (TBD)"/>
+        <Group name="Saints and Seducers"/>
+        <Group name="Touched by Dibella"/>
+        <SetSlider name="AppleCheeks" size="big" value="40"/>
+        <SetSlider name="BigButt" size="big" value="25"/>
+        <SetSlider name="BreastTopSlope" size="big" value="100"/>
+        <SetSlider name="Breasts" size="big" value="90"/>
+        <SetSlider name="BreastsFantasy" size="big" value="25"/>
+        <SetSlider name="BreastsNewSH" size="big" value="10"/>
+        <SetSlider name="BreastsTogether" size="big" value="20"/>
+        <SetSlider name="Butt" size="big" value="100"/>
+        <SetSlider name="ButtShape2" size="big" value="100"/>
+        <SetSlider name="ChubbyLegs" size="big" value="5"/>
+        <SetSlider name="HipBone" size="big" value="30"/>
+        <SetSlider name="Hips" size="big" value="40"/>
+        <SetSlider name="Thighs" size="big" value="70"/>
+        <SetSlider name="TummyTuck" size="small" value="100"/>
+    </Preset>
+</SliderPresets>
