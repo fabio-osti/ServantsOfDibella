@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Servants of Dibella - Feet">
+        <DataFolder>Servants of Dibella - Feet</DataFolder>
+        <SourceFile>Servants of Dibella - Feet.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\body</OutputPath>
+        <OutputFile GenWeights="true">femalefeet</OutputFile>
+        <Shape target="Feet" DataFolder="CBBE">Feet</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FeetAnkleSize" target="Feet" local="true">Servants of Dibella - Feet.osd\FeetAnkleSize</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FeetFeetFeminine" target="Feet" local="true">Servants of Dibella - Feet.osd\FeetFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

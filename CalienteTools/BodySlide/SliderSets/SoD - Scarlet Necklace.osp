@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="SoD - Scarlet Necklace">
+        <DataFolder>SoD - Scarlet Necklace</DataFolder>
+        <SourceFile>SoD - Scarlet Necklace.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">Rose_necklace</OutputFile>
+        <Shape target="necklace">necklace</Shape>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="necklaceArms" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="necklaceBack" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBack</Data>
+        </Slider>
+        <Slider name="BackValley_v2" invert="false" small="0" big="0">
+            <Data name="necklaceBackValley_v2" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBackValley_v2</Data>
+        </Slider>
+        <Slider name="BackWing_v2" invert="false" small="0" big="0">
+            <Data name="necklaceBackWing_v2" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBackWing_v2</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="necklaceBigTorso" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" small="0" big="0">
+            <Data name="necklaceBreastCenter" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" small="0" big="0">
+            <Data name="necklaceBreastCenterBig" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="necklaceBreastCleavage" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastsConverage_v2" invert="false" small="0" big="0">
+            <Data name="necklaceBreastsConverage_v2" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastsConverage_v2</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" small="0" big="0">
+            <Data name="necklaceBreastFlatness2" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="necklaceBreastFlatness" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" small="0" big="0">
+            <Data name="necklaceBreastGravity2" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="necklaceBreastHeight" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="necklaceBreastPerkiness" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastPerkiness</Data>
+        </Slider>
+        <Slider name="Breasts" invert="false" small="0" big="0">
+            <Data name="necklaceBreasts" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreasts</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="necklaceBreastsFantasy" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastsFantasy</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" small="0" big="0">
+            <Data name="necklaceBreastsGone" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" small="0" big="0">
+            <Data name="necklaceBreastsNewSH" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsNewSHSymmetry" invert="false" small="0" big="0">
+            <Data name="necklaceBreastsNewSHSymmetry" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastsNewSHSymmetry</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" small="0" big="0">
+            <Data name="necklaceBreastsSmall" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" small="0" big="0">
+            <Data name="necklaceBreastsSmall2" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" small="0" big="0">
+            <Data name="necklaceBreastsTogether" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" small="0" big="0">
+            <Data name="necklaceBreastTopSlope" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="necklaceBreastWidth" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastWidth</Data>
+        </Slider>
+        <Slider name="BreastsPressed_v2" invert="false" small="0" big="0">
+            <Data name="necklaceBreastsPressed_v2" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceBreastsPressed_v2</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" small="0" big="0">
+            <Data name="necklaceChestDepth" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="necklaceChestWidth" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="necklaceChubbyArms" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="necklaceChubbyWaist" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceChubbyWaist</Data>
+        </Slider>
+        <Slider name="Clavicle_v2" invert="false" small="0" big="0">
+            <Data name="necklaceClavicle_v2" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceClavicle_v2</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="necklaceDoubleMelon" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceDoubleMelon</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="necklaceHipForward" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceHipForward</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="necklaceMuscleArms" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceMuscleArms</Data>
+        </Slider>
+        <Slider name="MusclePecs" invert="false" small="0" big="0">
+            <Data name="necklaceMusclePecs" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceMusclePecs</Data>
+        </Slider>
+        <Slider name="MuscleBack_v2" invert="false" small="0" big="0">
+            <Data name="necklaceMuscleBack_v2" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceMuscleBack_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreArms_v2" invert="false" small="0" big="0">
+            <Data name="necklaceMuscleMoreArms_v2" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceMuscleMoreArms_v2</Data>
+        </Slider>
+        <Slider name="NeckSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="necklaceNeckSeam" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceNeckSeam</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" small="0" big="0">
+            <Data name="necklaceNippleDistance" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceNippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="necklaceNippleDown" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceNippleDown</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="necklaceNippleUp" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceNippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="necklacePregnancyBelly" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklacePregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="necklacePushUp" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklacePushUp</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="necklaceShoulderSmooth" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="0" big="0">
+            <Data name="necklaceShoulderTweak" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="necklaceShoulderWidth" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceShoulderWidth</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" small="0" big="0">
+            <Data name="necklaceSternumDepth" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" small="0" big="0">
+            <Data name="necklaceSternumHeight" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceSternumHeight</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="necklaceWaistHeight" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceWaistHeight</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="necklace7B Upper" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklace7B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="necklaceVanillaSSEHi" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="necklaceVanillaSSELo" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="necklaceOldBaseShape" target="necklace" local="true">SoD - Scarlet Necklace.osd\necklaceOldBaseShape</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

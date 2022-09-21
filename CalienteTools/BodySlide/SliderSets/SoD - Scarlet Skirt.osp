@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="SoD - Scarlet Skirt">
+        <DataFolder>SoD - Scarlet Skirt</DataFolder>
+        <SourceFile>SoD - Scarlet Skirt.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">Rose_skirt</OutputFile>
+        <Shape target="VirtualGround">VirtualGround</Shape>
+        <Shape target="belt">belt</Shape>
+        <Shape target="belt_">belt_</Shape>
+        <Shape target="beltmetal" SmoothSeamNormals="false">beltmetal</Shape>
+        <Shape target="boxs">boxs</Shape>
+        <Shape target="skirt">skirt</Shape>
+        <Shape target="skirtback">skirtback</Shape>
+        <Shape target="skirtmetal">skirtmetal</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="boxsAnkleSize" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsAnkleSize</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="beltmetalAppleCheeks" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalAppleCheeks</Data>
+            <Data name="skirtAppleCheeks" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtAppleCheeks</Data>
+            <Data name="skirtbackAppleCheeks" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackAppleCheeks</Data>
+            <Data name="boxsAppleCheeks" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsAppleCheeks</Data>
+            <Data name="beltAppleCheeks" target="belt" local="true">SoD - Scarlet Skirt.osd\beltAppleCheeks</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="beltmetalBack" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBack</Data>
+            <Data name="skirtBack" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBack</Data>
+            <Data name="skirtbackBack" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBack</Data>
+            <Data name="boxsBack" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBack</Data>
+            <Data name="beltBack" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="beltmetalBackArch" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBackArch</Data>
+            <Data name="skirtBackArch" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBackArch</Data>
+            <Data name="skirtbackBackArch" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBackArch</Data>
+            <Data name="boxsBackArch" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBackArch</Data>
+            <Data name="beltBackArch" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBackArch</Data>
+        </Slider>
+        <Slider name="BackValley_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalBackValley_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBackValley_v2</Data>
+            <Data name="skirtbackBackValley_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBackValley_v2</Data>
+            <Data name="boxsBackValley_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBackValley_v2</Data>
+            <Data name="beltBackValley_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBackValley_v2</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="beltmetalBelly" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBelly</Data>
+            <Data name="skirtBelly" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBelly</Data>
+            <Data name="skirtbackBelly" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBelly</Data>
+            <Data name="boxsBelly" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBelly</Data>
+            <Data name="beltBelly" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBelly</Data>
+        </Slider>
+        <Slider name="BellyFrontUpFat_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalBellyFrontUpFat_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBellyFrontUpFat_v2</Data>
+            <Data name="skirtBellyFrontUpFat_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBellyFrontUpFat_v2</Data>
+            <Data name="skirtbackBellyFrontUpFat_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBellyFrontUpFat_v2</Data>
+            <Data name="boxsBellyFrontUpFat_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBellyFrontUpFat_v2</Data>
+            <Data name="beltBellyFrontUpFat_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBellyFrontUpFat_v2</Data>
+        </Slider>
+        <Slider name="BellyFrontDownFat_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalBellyFrontDownFat_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBellyFrontDownFat_v2</Data>
+            <Data name="skirtBellyFrontDownFat_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBellyFrontDownFat_v2</Data>
+            <Data name="skirtbackBellyFrontDownFat_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBellyFrontDownFat_v2</Data>
+            <Data name="boxsBellyFrontDownFat_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBellyFrontDownFat_v2</Data>
+            <Data name="beltBellyFrontDownFat_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBellyFrontDownFat_v2</Data>
+        </Slider>
+        <Slider name="BellySideUpFat_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalBellySideUpFat_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBellySideUpFat_v2</Data>
+            <Data name="skirtBellySideUpFat_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBellySideUpFat_v2</Data>
+            <Data name="skirtbackBellySideUpFat_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBellySideUpFat_v2</Data>
+            <Data name="boxsBellySideUpFat_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBellySideUpFat_v2</Data>
+            <Data name="beltBellySideUpFat_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBellySideUpFat_v2</Data>
+        </Slider>
+        <Slider name="BellySideDownFat_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalBellySideDownFat_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBellySideDownFat_v2</Data>
+            <Data name="skirtBellySideDownFat_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBellySideDownFat_v2</Data>
+            <Data name="skirtbackBellySideDownFat_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBellySideDownFat_v2</Data>
+            <Data name="boxsBellySideDownFat_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBellySideDownFat_v2</Data>
+            <Data name="beltBellySideDownFat_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBellySideDownFat_v2</Data>
+        </Slider>
+        <Slider name="BellyUnder_v2" invert="false" small="0" big="0">
+            <Data name="skirtBellyUnder_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBellyUnder_v2</Data>
+            <Data name="boxsBellyUnder_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBellyUnder_v2</Data>
+            <Data name="beltBellyUnder_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBellyUnder_v2</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="beltmetalBigBelly" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBigBelly</Data>
+            <Data name="skirtBigBelly" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBigBelly</Data>
+            <Data name="skirtbackBigBelly" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBigBelly</Data>
+            <Data name="boxsBigBelly" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBigBelly</Data>
+            <Data name="beltBigBelly" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="beltmetalBigButt" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBigButt</Data>
+            <Data name="skirtBigButt" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBigButt</Data>
+            <Data name="skirtbackBigButt" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBigButt</Data>
+            <Data name="boxsBigButt" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBigButt</Data>
+            <Data name="beltBigButt" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="beltmetalBigTorso" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBigTorso</Data>
+            <Data name="skirtBigTorso" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBigTorso</Data>
+            <Data name="skirtbackBigTorso" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBigTorso</Data>
+            <Data name="boxsBigTorso" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBigTorso</Data>
+            <Data name="beltBigTorso" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBigTorso</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="beltmetalBreastHeight" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBreastHeight</Data>
+            <Data name="boxsBreastHeight" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBreastHeight</Data>
+            <Data name="beltBreastHeight" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" small="0" big="0">
+            <Data name="beltmetalBreastsGone" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBreastsGone</Data>
+            <Data name="boxsBreastsGone" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" small="0" big="0">
+            <Data name="beltmetalBreastsNewSH" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBreastsNewSH</Data>
+            <Data name="boxsBreastsNewSH" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" small="0" big="0">
+            <Data name="beltmetalBreastsSmall" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBreastsSmall</Data>
+            <Data name="skirtBreastsSmall" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBreastsSmall</Data>
+            <Data name="skirtbackBreastsSmall" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBreastsSmall</Data>
+            <Data name="boxsBreastsSmall" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBreastsSmall</Data>
+            <Data name="beltBreastsSmall" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" small="0" big="0">
+            <Data name="beltmetalBreastsSmall2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBreastsSmall2</Data>
+            <Data name="skirtBreastsSmall2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBreastsSmall2</Data>
+            <Data name="skirtbackBreastsSmall2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBreastsSmall2</Data>
+            <Data name="boxsBreastsSmall2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBreastsSmall2</Data>
+            <Data name="beltBreastsSmall2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastSideShape" invert="false" small="0" big="0">
+            <Data name="beltmetalBreastSideShape" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBreastSideShape</Data>
+            <Data name="skirtBreastSideShape" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtBreastSideShape</Data>
+            <Data name="skirtbackBreastSideShape" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBreastSideShape</Data>
+            <Data name="boxsBreastSideShape" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBreastSideShape</Data>
+            <Data name="beltBreastSideShape" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBreastSideShape</Data>
+        </Slider>
+        <Slider name="BreastUnderDepth" invert="false" small="0" big="0">
+            <Data name="beltmetalBreastUnderDepth" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalBreastUnderDepth</Data>
+            <Data name="boxsBreastUnderDepth" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsBreastUnderDepth</Data>
+            <Data name="beltBreastUnderDepth" target="belt" local="true">SoD - Scarlet Skirt.osd\beltBreastUnderDepth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" small="0" big="0">
+            <Data name="beltmetalButt" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalButt</Data>
+            <Data name="skirtButt" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtButt</Data>
+            <Data name="skirtbackButt" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackButt</Data>
+            <Data name="boxsButt" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsButt</Data>
+            <Data name="beltButt" target="belt" local="true">SoD - Scarlet Skirt.osd\beltButt</Data>
+        </Slider>
+        <Slider name="ButtSaggy_v2" invert="false" small="0" big="0">
+            <Data name="skirtbackButtSaggy_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackButtSaggy_v2</Data>
+            <Data name="boxsButtSaggy_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsButtSaggy_v2</Data>
+        </Slider>
+        <Slider name="ButtClassic" invert="false" small="0" big="0">
+            <Data name="beltmetalButtClassic" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalButtClassic</Data>
+            <Data name="skirtButtClassic" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtButtClassic</Data>
+            <Data name="skirtbackButtClassic" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackButtClassic</Data>
+            <Data name="boxsButtClassic" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsButtClassic</Data>
+            <Data name="beltButtClassic" target="belt" local="true">SoD - Scarlet Skirt.osd\beltButtClassic</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" small="0" big="0">
+            <Data name="beltmetalButtCrack" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalButtCrack</Data>
+            <Data name="skirtbackButtCrack" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackButtCrack</Data>
+            <Data name="boxsButtCrack" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsButtCrack</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="beltmetalButtShape2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalButtShape2</Data>
+            <Data name="skirtButtShape2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtButtShape2</Data>
+            <Data name="skirtbackButtShape2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackButtShape2</Data>
+            <Data name="boxsButtShape2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsButtShape2</Data>
+            <Data name="beltButtShape2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="beltmetalButtSmall" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalButtSmall</Data>
+            <Data name="skirtButtSmall" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtButtSmall</Data>
+            <Data name="skirtbackButtSmall" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackButtSmall</Data>
+            <Data name="boxsButtSmall" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsButtSmall</Data>
+            <Data name="beltButtSmall" target="belt" local="true">SoD - Scarlet Skirt.osd\beltButtSmall</Data>
+        </Slider>
+        <Slider name="ButtDimples" invert="false" small="0" big="0">
+            <Data name="beltmetalButtDimples" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalButtDimples</Data>
+            <Data name="skirtbackButtDimples" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackButtDimples</Data>
+            <Data name="boxsButtDimples" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsButtDimples</Data>
+        </Slider>
+        <Slider name="ButtUnderFold" invert="false" small="0" big="0">
+            <Data name="skirtbackButtUnderFold" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackButtUnderFold</Data>
+            <Data name="boxsButtUnderFold" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsButtUnderFold</Data>
+        </Slider>
+        <Slider name="ButtPressed_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalButtPressed_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalButtPressed_v2</Data>
+            <Data name="skirtbackButtPressed_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackButtPressed_v2</Data>
+            <Data name="boxsButtPressed_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsButtPressed_v2</Data>
+            <Data name="beltButtPressed_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltButtPressed_v2</Data>
+        </Slider>
+        <Slider name="ButtNarrow_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalButtNarrow_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalButtNarrow_v2</Data>
+            <Data name="skirtButtNarrow_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtButtNarrow_v2</Data>
+            <Data name="skirtbackButtNarrow_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackButtNarrow_v2</Data>
+            <Data name="boxsButtNarrow_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsButtNarrow_v2</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="skirtbackCalfSize" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackCalfSize</Data>
+            <Data name="boxsCalfSize" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="skirtbackCalfSmooth" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackCalfSmooth</Data>
+            <Data name="boxsCalfSmooth" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsCalfSmooth</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="skirtbackCalfFBThicc_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackCalfFBThicc_v2</Data>
+            <Data name="boxsCalfFBThicc_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" small="0" big="0">
+            <Data name="beltmetalChestDepth" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalChestDepth</Data>
+            <Data name="skirtChestDepth" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtChestDepth</Data>
+            <Data name="skirtbackChestDepth" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackChestDepth</Data>
+            <Data name="boxsChestDepth" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsChestDepth</Data>
+            <Data name="beltChestDepth" target="belt" local="true">SoD - Scarlet Skirt.osd\beltChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="beltmetalChestWidth" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalChestWidth</Data>
+            <Data name="skirtChestWidth" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtChestWidth</Data>
+            <Data name="skirtbackChestWidth" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackChestWidth</Data>
+            <Data name="boxsChestWidth" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsChestWidth</Data>
+            <Data name="beltChestWidth" target="belt" local="true">SoD - Scarlet Skirt.osd\beltChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="beltmetalChubbyButt" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalChubbyButt</Data>
+            <Data name="skirtChubbyButt" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtChubbyButt</Data>
+            <Data name="skirtbackChubbyButt" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackChubbyButt</Data>
+            <Data name="boxsChubbyButt" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsChubbyButt</Data>
+            <Data name="beltChubbyButt" target="belt" local="true">SoD - Scarlet Skirt.osd\beltChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="skirtChubbyLegs" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtChubbyLegs</Data>
+            <Data name="skirtbackChubbyLegs" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackChubbyLegs</Data>
+            <Data name="boxsChubbyLegs" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="beltmetalChubbyWaist" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalChubbyWaist</Data>
+            <Data name="skirtChubbyWaist" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtChubbyWaist</Data>
+            <Data name="skirtbackChubbyWaist" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackChubbyWaist</Data>
+            <Data name="boxsChubbyWaist" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsChubbyWaist</Data>
+            <Data name="beltChubbyWaist" target="belt" local="true">SoD - Scarlet Skirt.osd\beltChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="beltmetalCrotchBack" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalCrotchBack</Data>
+            <Data name="skirtCrotchBack" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtCrotchBack</Data>
+            <Data name="skirtbackCrotchBack" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackCrotchBack</Data>
+            <Data name="boxsCrotchBack" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsCrotchBack</Data>
+            <Data name="beltCrotchBack" target="belt" local="true">SoD - Scarlet Skirt.osd\beltCrotchBack</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="beltmetalGroin" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalGroin</Data>
+            <Data name="skirtGroin" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtGroin</Data>
+            <Data name="skirtbackGroin" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackGroin</Data>
+            <Data name="boxsGroin" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsGroin</Data>
+            <Data name="beltGroin" target="belt" local="true">SoD - Scarlet Skirt.osd\beltGroin</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="beltmetalHipBone" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalHipBone</Data>
+            <Data name="skirtHipBone" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtHipBone</Data>
+            <Data name="skirtbackHipBone" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackHipBone</Data>
+            <Data name="boxsHipBone" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsHipBone</Data>
+            <Data name="beltHipBone" target="belt" local="true">SoD - Scarlet Skirt.osd\beltHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="beltmetalHipForward" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalHipForward</Data>
+            <Data name="skirtHipForward" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtHipForward</Data>
+            <Data name="skirtbackHipForward" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackHipForward</Data>
+            <Data name="boxsHipForward" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsHipForward</Data>
+            <Data name="beltHipForward" target="belt" local="true">SoD - Scarlet Skirt.osd\beltHipForward</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="beltmetalHips" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalHips</Data>
+            <Data name="skirtHips" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtHips</Data>
+            <Data name="skirtbackHips" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackHips</Data>
+            <Data name="boxsHips" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsHips</Data>
+            <Data name="beltHips" target="belt" local="true">SoD - Scarlet Skirt.osd\beltHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="beltmetalHipUpperWidth" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalHipUpperWidth</Data>
+            <Data name="skirtHipUpperWidth" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtHipUpperWidth</Data>
+            <Data name="skirtbackHipUpperWidth" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackHipUpperWidth</Data>
+            <Data name="boxsHipUpperWidth" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsHipUpperWidth</Data>
+            <Data name="beltHipUpperWidth" target="belt" local="true">SoD - Scarlet Skirt.osd\beltHipUpperWidth</Data>
+        </Slider>
+        <Slider name="HipCarved" invert="false" small="0" big="0">
+            <Data name="beltmetalHipCarved" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalHipCarved</Data>
+            <Data name="skirtHipCarved" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtHipCarved</Data>
+            <Data name="skirtbackHipCarved" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackHipCarved</Data>
+            <Data name="boxsHipCarved" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsHipCarved</Data>
+            <Data name="beltHipCarved" target="belt" local="true">SoD - Scarlet Skirt.osd\beltHipCarved</Data>
+        </Slider>
+        <Slider name="HipNarrow_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalHipNarrow_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalHipNarrow_v2</Data>
+            <Data name="skirtHipNarrow_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtHipNarrow_v2</Data>
+            <Data name="skirtbackHipNarrow_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackHipNarrow_v2</Data>
+            <Data name="boxsHipNarrow_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsHipNarrow_v2</Data>
+            <Data name="beltHipNarrow_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltHipNarrow_v2</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="skirtKneeHeight" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtKneeHeight</Data>
+            <Data name="skirtbackKneeHeight" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackKneeHeight</Data>
+            <Data name="boxsKneeHeight" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="skirtbackKneeShape" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackKneeShape</Data>
+            <Data name="boxsKneeShape" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsKneeShape</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="skirtKneeTogether_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtKneeTogether_v2</Data>
+            <Data name="skirtbackKneeTogether_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackKneeTogether_v2</Data>
+            <Data name="boxsKneeTogether_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="skirtLegShapeClassic" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtLegShapeClassic</Data>
+            <Data name="skirtbackLegShapeClassic" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackLegShapeClassic</Data>
+            <Data name="boxsLegShapeClassic" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="skirtLegsThin" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtLegsThin</Data>
+            <Data name="skirtbackLegsThin" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackLegsThin</Data>
+            <Data name="boxsLegsThin" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="beltmetalMuscleAbs" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalMuscleAbs</Data>
+            <Data name="skirtMuscleAbs" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtMuscleAbs</Data>
+            <Data name="skirtbackMuscleAbs" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackMuscleAbs</Data>
+            <Data name="boxsMuscleAbs" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsMuscleAbs</Data>
+            <Data name="beltMuscleAbs" target="belt" local="true">SoD - Scarlet Skirt.osd\beltMuscleAbs</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="beltmetalMuscleButt" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalMuscleButt</Data>
+            <Data name="skirtMuscleButt" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtMuscleButt</Data>
+            <Data name="skirtbackMuscleButt" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackMuscleButt</Data>
+            <Data name="boxsMuscleButt" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsMuscleButt</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="skirtMuscleLegs" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtMuscleLegs</Data>
+            <Data name="skirtbackMuscleLegs" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackMuscleLegs</Data>
+            <Data name="boxsMuscleLegs" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsMuscleLegs</Data>
+        </Slider>
+        <Slider name="MuscleBack_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalMuscleBack_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalMuscleBack_v2</Data>
+            <Data name="skirtMuscleBack_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtMuscleBack_v2</Data>
+            <Data name="skirtbackMuscleBack_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackMuscleBack_v2</Data>
+            <Data name="boxsMuscleBack_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsMuscleBack_v2</Data>
+            <Data name="beltMuscleBack_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltMuscleBack_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreAbs_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalMuscleMoreAbs_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalMuscleMoreAbs_v2</Data>
+            <Data name="skirtMuscleMoreAbs_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtMuscleMoreAbs_v2</Data>
+            <Data name="skirtbackMuscleMoreAbs_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackMuscleMoreAbs_v2</Data>
+            <Data name="boxsMuscleMoreAbs_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsMuscleMoreAbs_v2</Data>
+            <Data name="beltMuscleMoreAbs_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltMuscleMoreAbs_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalMuscleMoreLegs_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalMuscleMoreLegs_v2</Data>
+            <Data name="skirtMuscleMoreLegs_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtMuscleMoreLegs_v2</Data>
+            <Data name="skirtbackMuscleMoreLegs_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackMuscleMoreLegs_v2</Data>
+            <Data name="boxsMuscleMoreLegs_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsMuscleMoreLegs_v2</Data>
+            <Data name="beltMuscleMoreLegs_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltMuscleMoreLegs_v2</Data>
+        </Slider>
+        <Slider name="NavelEven" invert="false" small="0" big="0">
+            <Data name="boxsNavelEven" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsNavelEven</Data>
+            <Data name="beltNavelEven" target="belt" local="true">SoD - Scarlet Skirt.osd\beltNavelEven</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="beltmetalPregnancyBelly" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalPregnancyBelly</Data>
+            <Data name="skirtPregnancyBelly" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtPregnancyBelly</Data>
+            <Data name="skirtbackPregnancyBelly" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackPregnancyBelly</Data>
+            <Data name="boxsPregnancyBelly" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsPregnancyBelly</Data>
+            <Data name="beltPregnancyBelly" target="belt" local="true">SoD - Scarlet Skirt.osd\beltPregnancyBelly</Data>
+        </Slider>
+        <Slider name="RibsMore_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalRibsMore_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalRibsMore_v2</Data>
+            <Data name="skirtRibsMore_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtRibsMore_v2</Data>
+            <Data name="skirtbackRibsMore_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackRibsMore_v2</Data>
+            <Data name="boxsRibsMore_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsRibsMore_v2</Data>
+            <Data name="beltRibsMore_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltRibsMore_v2</Data>
+        </Slider>
+        <Slider name="RibsProminance" invert="false" small="0" big="0">
+            <Data name="boxsRibsProminance" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsRibsProminance</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="beltmetalRoundAss" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalRoundAss</Data>
+            <Data name="skirtRoundAss" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtRoundAss</Data>
+            <Data name="skirtbackRoundAss" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackRoundAss</Data>
+            <Data name="boxsRoundAss" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsRoundAss</Data>
+            <Data name="beltRoundAss" target="belt" local="true">SoD - Scarlet Skirt.osd\beltRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="beltmetalShoulderWidth" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalShoulderWidth</Data>
+            <Data name="skirtShoulderWidth" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtShoulderWidth</Data>
+            <Data name="skirtbackShoulderWidth" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackShoulderWidth</Data>
+            <Data name="boxsShoulderWidth" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsShoulderWidth</Data>
+            <Data name="beltShoulderWidth" target="belt" local="true">SoD - Scarlet Skirt.osd\beltShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="beltmetalSlimThighs" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalSlimThighs</Data>
+            <Data name="skirtSlimThighs" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtSlimThighs</Data>
+            <Data name="skirtbackSlimThighs" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackSlimThighs</Data>
+            <Data name="boxsSlimThighs" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsSlimThighs</Data>
+            <Data name="beltSlimThighs" target="belt" local="true">SoD - Scarlet Skirt.osd\beltSlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" small="0" big="0">
+            <Data name="boxsSternumDepth" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" small="0" big="0">
+            <Data name="boxsSternumHeight" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsSternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="skirtThighs" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtThighs</Data>
+            <Data name="skirtbackThighs" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackThighs</Data>
+            <Data name="boxsThighs" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsThighs</Data>
+        </Slider>
+        <Slider name="ThighOutsideThicc_v2" invert="false" small="0" big="0">
+            <Data name="skirtThighOutsideThicc_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtThighOutsideThicc_v2</Data>
+            <Data name="skirtbackThighOutsideThicc_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackThighOutsideThicc_v2</Data>
+            <Data name="boxsThighOutsideThicc_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsThighOutsideThicc_v2</Data>
+        </Slider>
+        <Slider name="ThighInsideThicc_v2" invert="false" small="0" big="0">
+            <Data name="skirtThighInsideThicc_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtThighInsideThicc_v2</Data>
+            <Data name="skirtbackThighInsideThicc_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackThighInsideThicc_v2</Data>
+            <Data name="boxsThighInsideThicc_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsThighInsideThicc_v2</Data>
+        </Slider>
+        <Slider name="ThighFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="skirtThighFBThicc_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtThighFBThicc_v2</Data>
+            <Data name="skirtbackThighFBThicc_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackThighFBThicc_v2</Data>
+            <Data name="boxsThighFBThicc_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsThighFBThicc_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalLegSpread_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalLegSpread_v2</Data>
+            <Data name="skirtLegSpread_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtLegSpread_v2</Data>
+            <Data name="skirtbackLegSpread_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackLegSpread_v2</Data>
+            <Data name="boxsLegSpread_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsLegSpread_v2</Data>
+            <Data name="beltLegSpread_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltLegSpread_v2</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="beltmetalTummyTuck" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalTummyTuck</Data>
+            <Data name="skirtTummyTuck" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtTummyTuck</Data>
+            <Data name="skirtbackTummyTuck" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackTummyTuck</Data>
+            <Data name="boxsTummyTuck" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsTummyTuck</Data>
+            <Data name="beltTummyTuck" target="belt" local="true">SoD - Scarlet Skirt.osd\beltTummyTuck</Data>
+        </Slider>
+        <Slider name="UNPHip_v2" invert="false" small="0" big="0">
+            <Data name="beltmetalUNPHip_v2" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalUNPHip_v2</Data>
+            <Data name="skirtUNPHip_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtUNPHip_v2</Data>
+            <Data name="skirtbackUNPHip_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackUNPHip_v2</Data>
+            <Data name="boxsUNPHip_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsUNPHip_v2</Data>
+            <Data name="beltUNPHip_v2" target="belt" local="true">SoD - Scarlet Skirt.osd\beltUNPHip_v2</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="beltmetalWaist" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalWaist</Data>
+            <Data name="skirtWaist" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtWaist</Data>
+            <Data name="skirtbackWaist" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackWaist</Data>
+            <Data name="boxsWaist" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsWaist</Data>
+            <Data name="beltWaist" target="belt" local="true">SoD - Scarlet Skirt.osd\beltWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="beltmetalWaistHeight" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalWaistHeight</Data>
+            <Data name="skirtWaistHeight" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtWaistHeight</Data>
+            <Data name="skirtbackWaistHeight" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackWaistHeight</Data>
+            <Data name="boxsWaistHeight" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsWaistHeight</Data>
+            <Data name="beltWaistHeight" target="belt" local="true">SoD - Scarlet Skirt.osd\beltWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="beltmetalWideWaistLine" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalWideWaistLine</Data>
+            <Data name="skirtWideWaistLine" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtWideWaistLine</Data>
+            <Data name="skirtbackWideWaistLine" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackWideWaistLine</Data>
+            <Data name="boxsWideWaistLine" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsWideWaistLine</Data>
+            <Data name="beltWideWaistLine" target="belt" local="true">SoD - Scarlet Skirt.osd\beltWideWaistLine</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="skirt7BLeg_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirt7BLeg_v2</Data>
+            <Data name="skirtback7BLeg_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtback7BLeg_v2</Data>
+            <Data name="boxs7BLeg_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxs7BLeg_v2</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="beltmetal7B Lower" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetal7B Lower</Data>
+            <Data name="skirt7B Lower" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirt7B Lower</Data>
+            <Data name="skirtback7B Lower" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtback7B Lower</Data>
+            <Data name="boxs7B Lower" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxs7B Lower</Data>
+            <Data name="belt7B Lower" target="belt" local="true">SoD - Scarlet Skirt.osd\belt7B Lower</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="beltmetal7B Upper" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetal7B Upper</Data>
+            <Data name="boxs7B Upper" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxs7B Upper</Data>
+            <Data name="belt7B Upper" target="belt" local="true">SoD - Scarlet Skirt.osd\belt7B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="beltmetalVanillaSSEHi" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalVanillaSSEHi</Data>
+            <Data name="skirtVanillaSSEHi" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtVanillaSSEHi</Data>
+            <Data name="skirtbackVanillaSSEHi" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackVanillaSSEHi</Data>
+            <Data name="boxsVanillaSSEHi" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsVanillaSSEHi</Data>
+            <Data name="beltVanillaSSEHi" target="belt" local="true">SoD - Scarlet Skirt.osd\beltVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="beltmetalVanillaSSELo" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalVanillaSSELo</Data>
+            <Data name="skirtVanillaSSELo" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtVanillaSSELo</Data>
+            <Data name="skirtbackVanillaSSELo" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackVanillaSSELo</Data>
+            <Data name="boxsVanillaSSELo" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsVanillaSSELo</Data>
+            <Data name="beltVanillaSSELo" target="belt" local="true">SoD - Scarlet Skirt.osd\beltVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="beltmetalOldBaseShape" target="beltmetal" local="true">SoD - Scarlet Skirt.osd\beltmetalOldBaseShape</Data>
+            <Data name="skirtOldBaseShape" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtOldBaseShape</Data>
+            <Data name="skirtbackOldBaseShape" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackOldBaseShape</Data>
+            <Data name="boxsOldBaseShape" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsOldBaseShape</Data>
+            <Data name="beltOldBaseShape" target="belt" local="true">SoD - Scarlet Skirt.osd\beltOldBaseShape</Data>
+        </Slider>
+        <Slider name="Innieoutie" invert="false" small="0" big="0">
+            <Data name="boxsInnieoutie" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsInnieoutie</Data>
+        </Slider>
+        <Slider name="LabiaTightUp" invert="false" small="0" big="0">
+            <Data name="boxsLabiaTightUp" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsLabiaTightUp</Data>
+        </Slider>
+        <Slider name="Labiapuffyness" invert="false" small="0" big="0">
+            <Data name="skirtLabiapuffyness" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtLabiapuffyness</Data>
+            <Data name="boxsLabiapuffyness" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsLabiapuffyness</Data>
+        </Slider>
+        <Slider name="LabiaMorePuffyness_v2" invert="false" small="0" big="0">
+            <Data name="skirtLabiaMorePuffyness_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtLabiaMorePuffyness_v2</Data>
+            <Data name="boxsLabiaMorePuffyness_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsLabiaMorePuffyness_v2</Data>
+        </Slider>
+        <Slider name="Labiaprotrude" invert="false" small="0" big="0">
+            <Data name="boxsLabiaprotrude" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsLabiaprotrude</Data>
+        </Slider>
+        <Slider name="Labiaprotrude2" invert="false" small="0" big="0">
+            <Data name="boxsLabiaprotrude2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsLabiaprotrude2</Data>
+        </Slider>
+        <Slider name="Labiaspread" invert="false" small="0" big="0">
+            <Data name="boxsLabiaspread" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsLabiaspread</Data>
+        </Slider>
+        <Slider name="LabiaCrumpled_v2" invert="false" small="0" big="0">
+            <Data name="boxsLabiaCrumpled_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsLabiaCrumpled_v2</Data>
+        </Slider>
+        <Slider name="LabiaNeat_v2" invert="false" small="0" big="0">
+            <Data name="boxsLabiaNeat_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsLabiaNeat_v2</Data>
+        </Slider>
+        <Slider name="LabiaBulgogi_v2" invert="false" small="0" big="0">
+            <Data name="skirtLabiaBulgogi_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtLabiaBulgogi_v2</Data>
+            <Data name="boxsLabiaBulgogi_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsLabiaBulgogi_v2</Data>
+        </Slider>
+        <Slider name="VaginaHole" invert="false" small="0" big="0">
+            <Data name="boxsVaginaHole" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsVaginaHole</Data>
+        </Slider>
+        <Slider name="Cutepuffyness" invert="false" small="0" big="0">
+            <Data name="skirtCutepuffyness" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtCutepuffyness</Data>
+            <Data name="boxsCutepuffyness" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsCutepuffyness</Data>
+        </Slider>
+        <Slider name="CBPC" invert="false" small="0" big="0">
+            <Data name="skirtCBPC" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtCBPC</Data>
+            <Data name="boxsCBPC" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsCBPC</Data>
+        </Slider>
+        <Slider name="CrotchGap" invert="false" small="0" big="0">
+            <Data name="skirtCrotchGap" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtCrotchGap</Data>
+            <Data name="skirtbackCrotchGap" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackCrotchGap</Data>
+            <Data name="boxsCrotchGap" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsCrotchGap</Data>
+        </Slider>
+        <Slider name="AnalLoose_v2" invert="false" small="0" big="0">
+            <Data name="boxsAnalLoose_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsAnalLoose_v2</Data>
+        </Slider>
+        <Slider name="AnalPosition_v2" invert="false" small="0" big="0">
+            <Data name="skirtbackAnalPosition_v2" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackAnalPosition_v2</Data>
+            <Data name="boxsAnalPosition_v2" target="boxs" local="true">SoD - Scarlet Skirt.osd\boxsAnalPosition_v2</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="skirtbackBreastCleavage" target="skirtback" local="true">SoD - Scarlet Skirt.osd\skirtbackBreastCleavage</Data>
+        </Slider>
+        <Slider name="Clit" invert="false" small="0" big="0">
+            <Data name="skirtClit" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtClit</Data>
+        </Slider>
+        <Slider name="ClitSwell_v2" invert="false" small="0" big="0">
+            <Data name="skirtClitSwell_v2" target="skirt" local="true">SoD - Scarlet Skirt.osd\skirtClitSwell_v2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="SoD - Crimson Gauntlet">
+        <DataFolder>SoD - Crimson Gauntlet</DataFolder>
+        <SourceFile>SoD - Crimson Gauntlet.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">DX_VampireStalhrim_Gloves</OutputFile>
+        <Shape target="Bracers">Bracers</Shape>
+        <Shape target="Fishnet">Fishnet</Shape>
+        <Shape target="Hands">Hands</Shape>
+        <Shape target="HardBracers">HardBracers</Shape>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="BracersArms" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersArms</Data>
+            <Data name="HardBracersArms" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersArms</Data>
+            <Data name="FishnetArms" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetArms</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BracersBigTorso" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersBigTorso</Data>
+            <Data name="HardBracersBigTorso" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersBigTorso</Data>
+            <Data name="FishnetBigTorso" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetBigTorso</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BracersChubbyArms" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersChubbyArms</Data>
+            <Data name="HardBracersChubbyArms" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersChubbyArms</Data>
+            <Data name="FishnetChubbyArms" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetChubbyArms</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="BracersForearmSize" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersForearmSize</Data>
+            <Data name="HardBracersForearmSize" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersForearmSize</Data>
+            <Data name="FishnetForearmSize" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetForearmSize</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="HandsMuscleArms" target="Hands" local="true">SoD - Crimson Gauntlet.osd\HandsMuscleArms</Data>
+            <Data name="BracersMuscleArms" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersMuscleArms</Data>
+            <Data name="HardBracersMuscleArms" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersMuscleArms</Data>
+            <Data name="FishnetMuscleArms" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetMuscleArms</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="HandsShoulderWidth" target="Hands" local="true">SoD - Crimson Gauntlet.osd\HandsShoulderWidth</Data>
+            <Data name="BracersShoulderWidth" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersShoulderWidth</Data>
+            <Data name="HardBracersShoulderWidth" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersShoulderWidth</Data>
+            <Data name="FishnetShoulderWidth" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetShoulderWidth</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="HandsWristSize" target="Hands" local="true">SoD - Crimson Gauntlet.osd\HandsWristSize</Data>
+            <Data name="BracersWristSize" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersWristSize</Data>
+            <Data name="HardBracersWristSize" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersWristSize</Data>
+            <Data name="FishnetWristSize" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetWristSize</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="Hands7B Upper" target="Hands" local="true">SoD - Crimson Gauntlet.osd\Hands7B Upper</Data>
+            <Data name="Bracers7B Upper" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\Bracers7B Upper</Data>
+            <Data name="HardBracers7B Upper" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracers7B Upper</Data>
+            <Data name="Fishnet7B Upper" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\Fishnet7B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="BracersVanillaSSEHi" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersVanillaSSEHi</Data>
+            <Data name="HardBracersVanillaSSEHi" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersVanillaSSEHi</Data>
+            <Data name="FishnetVanillaSSEHi" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="BracersVanillaSSELo" target="Bracers" local="true">SoD - Crimson Gauntlet.osd\BracersVanillaSSELo</Data>
+            <Data name="HardBracersVanillaSSELo" target="HardBracers" local="true">SoD - Crimson Gauntlet.osd\HardBracersVanillaSSELo</Data>
+            <Data name="FishnetVanillaSSELo" target="Fishnet" local="true">SoD - Crimson Gauntlet.osd\FishnetVanillaSSELo</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

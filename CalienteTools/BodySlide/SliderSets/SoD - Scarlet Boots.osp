@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="SoD - Scarlet Boots">
+        <DataFolder>SoD - Scarlet Boots</DataFolder>
+        <SourceFile>SoD - Scarlet Boots.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">Rose_shoes</OutputFile>
+        <Shape target="Feet" DataFolder="CBBE">Feet</Shape>
+        <Shape target="heels">heels</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FeetAnkleSize" target="Feet">CBBE Feet.osd\FeetAnkleSize</Data>
+            <Data name="heelsAnkleSize" target="heels" local="true">SoD - Scarlet Boots.osd\heelsAnkleSize</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FeetFeetFeminine" target="Feet">CBBE Feet.osd\FeetFeetFeminine</Data>
+            <Data name="heelsFeetFeminine" target="heels" local="true">SoD - Scarlet Boots.osd\heelsFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="SoD - Crimson Tasset">
+        <DataFolder>SoD - Crimson Tasset</DataFolder>
+        <SourceFile>SoD - Crimson Tasset.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">DX_VampireStalhrim_Tasset</OutputFile>
+        <Shape target="Cross">Cross</Shape>
+        <Shape target="Skirt001">Skirt001</Shape>
+        <Shape target="Tasset">Tasset</Shape>
+        <Shape target="VirtualGround">VirtualGround</Shape>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="TassetAppleCheeks" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetAppleCheeks</Data>
+            <Data name="CrossAppleCheeks" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossAppleCheeks</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="TassetBack" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetBack</Data>
+            <Data name="CrossBack" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="TassetBackArch" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetBackArch</Data>
+            <Data name="CrossBackArch" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="TassetBelly" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="TassetBigBelly" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="TassetBigButt" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetBigButt</Data>
+            <Data name="CrossBigButt" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="TassetBigTorso" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetBigTorso</Data>
+            <Data name="CrossBigTorso" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossBigTorso</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" small="0" big="0">
+            <Data name="TassetButt" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetButt</Data>
+            <Data name="CrossButt" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossButt</Data>
+        </Slider>
+        <Slider name="ButtClassic" invert="false" small="0" big="0">
+            <Data name="TassetButtClassic" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetButtClassic</Data>
+            <Data name="CrossButtClassic" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossButtClassic</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="TassetButtShape2" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetButtShape2</Data>
+            <Data name="CrossButtShape2" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="TassetButtSmall" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetButtSmall</Data>
+            <Data name="CrossButtSmall" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossButtSmall</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="TassetChestWidth" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="TassetChubbyButt" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetChubbyButt</Data>
+            <Data name="CrossChubbyButt" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="TassetChubbyLegs" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetChubbyLegs</Data>
+            <Data name="CrossChubbyLegs" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="TassetChubbyWaist" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetChubbyWaist</Data>
+            <Data name="CrossChubbyWaist" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossChubbyWaist</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="TassetHipBone" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="TassetHipForward" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetHipForward</Data>
+            <Data name="CrossHipForward" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossHipForward</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="TassetHips" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetHips</Data>
+            <Data name="CrossHips" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="TassetHipUpperWidth" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetHipUpperWidth</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="TassetLegShapeClassic" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="TassetLegsThin" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="TassetMuscleAbs" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetMuscleAbs</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="TassetMuscleButt" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetMuscleButt</Data>
+            <Data name="CrossMuscleButt" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossMuscleButt</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="TassetMuscleLegs" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetMuscleLegs</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="TassetPregnancyBelly" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetPregnancyBelly</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="TassetRoundAss" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetRoundAss</Data>
+            <Data name="CrossRoundAss" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="TassetSlimThighs" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetSlimThighs</Data>
+            <Data name="CrossSlimThighs" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="TassetThighs" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetThighs</Data>
+            <Data name="CrossThighs" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="TassetTummyTuck" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetTummyTuck</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="TassetWaist" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="TassetWaistHeight" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetWaistHeight</Data>
+            <Data name="CrossWaistHeight" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="TassetWideWaistLine" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetWideWaistLine</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="Tasset7B Lower" target="Tasset" local="true">SoD - Crimson Tasset.osd\Tasset7B Lower</Data>
+            <Data name="Cross7B Lower" target="Cross" local="true">SoD - Crimson Tasset.osd\Cross7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="TassetVanillaSSEHi" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetVanillaSSEHi</Data>
+            <Data name="CrossVanillaSSEHi" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="TassetVanillaSSELo" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetVanillaSSELo</Data>
+            <Data name="CrossVanillaSSELo" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="TassetOldBaseShape" target="Tasset" local="true">SoD - Crimson Tasset.osd\TassetOldBaseShape</Data>
+            <Data name="CrossOldBaseShape" target="Cross" local="true">SoD - Crimson Tasset.osd\CrossOldBaseShape</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

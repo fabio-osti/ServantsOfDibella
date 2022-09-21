@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="SoD - Crimson Armour">
+        <DataFolder>SoD - Crimson Armour</DataFolder>
+        <SourceFile>SoD - Crimson Armour.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">DX_VampireStalhrim_Cuirass</OutputFile>
+        <Shape target="Back">Back</Shape>
+        <Shape target="BaseShapeHR" DataFolder="CBBE">CBBE</Shape>
+        <Shape target="Cuirass">Cuirass</Shape>
+        <Shape target="Fishnet">Fishnet</Shape>
+        <Shape target="Front">Front</Shape>
+        <Shape target="Leggings">Leggings</Shape>
+        <Shape target="Shoulder Left Low">Shoulder Left Low</Shape>
+        <Shape target="Shoulder Left Top">Shoulder Left Top</Shape>
+        <Shape target="Shoulder Right Low">Shoulder Right Low</Shape>
+        <Shape target="Shoulder Right Top">Shoulder Right Top</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="BaseShapeHRAnkleSize" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRAnkleSize</Data>
+            <Data name="LeggingsAnkleSize" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsAnkleSize</Data>
+            <Data name="FishnetAnkleSize" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetAnkleSize</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRAppleCheeks" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRAppleCheeks</Data>
+            <Data name="CuirassAppleCheeks" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassAppleCheeks</Data>
+            <Data name="LeggingsAppleCheeks" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsAppleCheeks</Data>
+            <Data name="FishnetAppleCheeks" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetAppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRarms" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRarms</Data>
+            <Data name="CuirassArms" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassArms</Data>
+            <Data name="Shoulder Left TopArms" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopArms</Data>
+            <Data name="Shoulder Left LowArms" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowArms</Data>
+            <Data name="Shoulder Right TopArms" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopArms</Data>
+            <Data name="Shoulder Right LowArms" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBack" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBack</Data>
+            <Data name="CuirassBack" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBack</Data>
+            <Data name="LeggingsBack" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBack</Data>
+            <Data name="FishnetBack" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBack</Data>
+            <Data name="Shoulder Left TopBack" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopBack</Data>
+            <Data name="Shoulder Left LowBack" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowBack</Data>
+            <Data name="Shoulder Right TopBack" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopBack</Data>
+            <Data name="Shoulder Right LowBack" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowBack</Data>
+            <Data name="FrontBack" target="Front" local="true">SoD - Crimson Armour.osd\FrontBack</Data>
+            <Data name="BackBack" target="Back" local="true">SoD - Crimson Armour.osd\BackBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBackArch" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBackArch</Data>
+            <Data name="CuirassBackArch" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBackArch</Data>
+            <Data name="LeggingsBackArch" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBackArch</Data>
+            <Data name="FishnetBackArch" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBelly" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBelly</Data>
+            <Data name="CuirassBelly" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBelly</Data>
+            <Data name="LeggingsBelly" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBelly</Data>
+            <Data name="FishnetBelly" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBigBelly" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBigBelly</Data>
+            <Data name="CuirassBigBelly" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBigBelly</Data>
+            <Data name="LeggingsBigBelly" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBigBelly</Data>
+            <Data name="FishnetBigBelly" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBigButt" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBigButt</Data>
+            <Data name="CuirassBigButt" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBigButt</Data>
+            <Data name="LeggingsBigButt" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBigButt</Data>
+            <Data name="FishnetBigButt" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBigTorso" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBigTorso</Data>
+            <Data name="CuirassBigTorso" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBigTorso</Data>
+            <Data name="LeggingsBigTorso" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBigTorso</Data>
+            <Data name="FishnetBigTorso" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBigTorso</Data>
+            <Data name="Shoulder Left TopBigTorso" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopBigTorso</Data>
+            <Data name="Shoulder Left LowBigTorso" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowBigTorso</Data>
+            <Data name="Shoulder Right TopBigTorso" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopBigTorso</Data>
+            <Data name="Shoulder Right LowBigTorso" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowBigTorso</Data>
+            <Data name="FrontBigTorso" target="Front" local="true">SoD - Crimson Armour.osd\FrontBigTorso</Data>
+            <Data name="BackBigTorso" target="Back" local="true">SoD - Crimson Armour.osd\BackBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastCenter" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastCenter</Data>
+            <Data name="CuirassBreastCenter" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastCenterBig" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastCenterBig</Data>
+            <Data name="CuirassBreastCenterBig" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastCleavage" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastCleavage</Data>
+            <Data name="CuirassBreastCleavage" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastCleavage</Data>
+            <Data name="LeggingsBreastCleavage" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBreastCleavage</Data>
+            <Data name="FishnetBreastCleavage" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastFlatness2" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastFlatness2</Data>
+            <Data name="CuirassBreastFlatness2" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastFlattness" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastFlattness</Data>
+            <Data name="CuirassBreastFlatness" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastGravity2" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastGravity2</Data>
+            <Data name="CuirassBreastGravity2" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastHeight" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastHeight</Data>
+            <Data name="CuirassBreastHeight" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastPerkiness" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastPerkiness</Data>
+            <Data name="CuirassBreastPerkiness" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastPerkiness</Data>
+        </Slider>
+        <Slider name="Breasts" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreasts" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreasts</Data>
+            <Data name="CuirassBreasts" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreasts</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastsFantasy" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastsFantasy</Data>
+            <Data name="CuirassBreastsFantasy" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastsFantasy</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastsGone" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastsGone</Data>
+            <Data name="CuirassBreastsGone" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastsNewSH" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastsNewSH</Data>
+            <Data name="CuirassBreastsNewSH" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastsSmall" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastsSmall</Data>
+            <Data name="CuirassBreastsSmall" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastsSmall</Data>
+            <Data name="LeggingsBreastsSmall" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBreastsSmall</Data>
+            <Data name="FishnetBreastsSmall" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastsSmall2" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastsSmall2</Data>
+            <Data name="CuirassBreastsSmall2" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastsSmall2</Data>
+            <Data name="LeggingsBreastsSmall2" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsBreastsSmall2</Data>
+            <Data name="FishnetBreastsSmall2" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastsTogether" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastsTogether</Data>
+            <Data name="CuirassBreastsTogether" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastTopSlope" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastTopSlope</Data>
+            <Data name="CuirassBreastTopSlope" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRBreastWidth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRBreastWidth</Data>
+            <Data name="CuirassBreastWidth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassBreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRButt" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRButt</Data>
+            <Data name="CuirassButt" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassButt</Data>
+            <Data name="LeggingsButt" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsButt</Data>
+            <Data name="FishnetButt" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetButt</Data>
+        </Slider>
+        <Slider name="ButtClassic" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRButtClassic" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRButtClassic</Data>
+            <Data name="CuirassButtClassic" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassButtClassic</Data>
+            <Data name="LeggingsButtClassic" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsButtClassic</Data>
+            <Data name="FishnetButtClassic" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetButtClassic</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRButtCrack" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRButtCrack</Data>
+            <Data name="CuirassButtCrack" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassButtCrack</Data>
+            <Data name="LeggingsButtCrack" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsButtCrack</Data>
+            <Data name="FishnetButtCrack" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetButtCrack</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRButtShape2" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRButtShape2</Data>
+            <Data name="CuirassButtShape2" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassButtShape2</Data>
+            <Data name="LeggingsButtShape2" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsButtShape2</Data>
+            <Data name="FishnetButtShape2" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRButtSmall" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRButtSmall</Data>
+            <Data name="CuirassButtSmall" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassButtSmall</Data>
+            <Data name="LeggingsButtSmall" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsButtSmall</Data>
+            <Data name="FishnetButtSmall" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRCalfSmooth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRCalfSmooth</Data>
+            <Data name="LeggingsCalfSmooth" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsCalfSmooth</Data>
+            <Data name="FishnetCalfSmooth" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRChestDepth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRChestDepth</Data>
+            <Data name="CuirassChestDepth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassChestDepth</Data>
+            <Data name="LeggingsChestDepth" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsChestDepth</Data>
+            <Data name="FishnetChestDepth" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRChestWidth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRChestWidth</Data>
+            <Data name="CuirassChestWidth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassChestWidth</Data>
+            <Data name="LeggingsChestWidth" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsChestWidth</Data>
+            <Data name="FishnetChestWidth" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRChubbyArms" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRChubbyArms</Data>
+            <Data name="CuirassChubbyArms" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassChubbyArms</Data>
+            <Data name="Shoulder Left TopChubbyArms" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopChubbyArms</Data>
+            <Data name="Shoulder Left LowChubbyArms" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowChubbyArms</Data>
+            <Data name="Shoulder Right TopChubbyArms" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopChubbyArms</Data>
+            <Data name="Shoulder Right LowChubbyArms" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRChubbyButt" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRChubbyButt</Data>
+            <Data name="CuirassChubbyButt" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassChubbyButt</Data>
+            <Data name="LeggingsChubbyButt" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsChubbyButt</Data>
+            <Data name="FishnetChubbyButt" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRChubbyLegs" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRChubbyLegs</Data>
+            <Data name="CuirassChubbyLegs" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassChubbyLegs</Data>
+            <Data name="LeggingsChubbyLegs" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsChubbyLegs</Data>
+            <Data name="FishnetChubbyLegs" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRChubbyWaist" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRChubbyWaist</Data>
+            <Data name="CuirassChubbyWaist" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassChubbyWaist</Data>
+            <Data name="LeggingsChubbyWaist" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsChubbyWaist</Data>
+            <Data name="FishnetChubbyWaist" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRCrotchBack" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRCrotchBack</Data>
+            <Data name="CuirassCrotchBack" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassCrotchBack</Data>
+            <Data name="LeggingsCrotchBack" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsCrotchBack</Data>
+            <Data name="FishnetCrotchBack" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetCrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRDoubleMelon" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRDoubleMelon</Data>
+            <Data name="CuirassDoubleMelon" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassDoubleMelon</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRForearmSize" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRForearmSize</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRGroin" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRGroin</Data>
+            <Data name="CuirassGroin" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassGroin</Data>
+            <Data name="LeggingsGroin" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsGroin</Data>
+            <Data name="FishnetGroin" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetGroin</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRHipbone" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRHipbone</Data>
+            <Data name="CuirassHipBone" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassHipBone</Data>
+            <Data name="LeggingsHipBone" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsHipBone</Data>
+            <Data name="FishnetHipBone" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRHipForward" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRHipForward</Data>
+            <Data name="CuirassHipForward" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassHipForward</Data>
+            <Data name="LeggingsHipForward" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsHipForward</Data>
+            <Data name="FishnetHipForward" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetHipForward</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRHips" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRHips</Data>
+            <Data name="CuirassHips" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassHips</Data>
+            <Data name="LeggingsHips" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsHips</Data>
+            <Data name="FishnetHips" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRHipUpperWidth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRHipUpperWidth</Data>
+            <Data name="CuirassHipUpperWidth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassHipUpperWidth</Data>
+            <Data name="LeggingsHipUpperWidth" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsHipUpperWidth</Data>
+            <Data name="FishnetHipUpperWidth" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetHipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRKneeShape" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRKneeShape</Data>
+            <Data name="LeggingsKneeShape" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsKneeShape</Data>
+            <Data name="FishnetKneeShape" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRLegShapeClassic" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRLegShapeClassic</Data>
+            <Data name="CuirassLegShapeClassic" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassLegShapeClassic</Data>
+            <Data name="LeggingsLegShapeClassic" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsLegShapeClassic</Data>
+            <Data name="FishnetLegShapeClassic" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRLegsThin" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRLegsThin</Data>
+            <Data name="CuirassLegsThin" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassLegsThin</Data>
+            <Data name="LeggingsLegsThin" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsLegsThin</Data>
+            <Data name="FishnetLegsThin" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRMuscleAbs" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRMuscleAbs</Data>
+            <Data name="CuirassMuscleAbs" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassMuscleAbs</Data>
+            <Data name="LeggingsMuscleAbs" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsMuscleAbs</Data>
+            <Data name="FishnetMuscleAbs" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetMuscleAbs</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRMuscleArms" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRMuscleArms</Data>
+            <Data name="CuirassMuscleArms" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassMuscleArms</Data>
+            <Data name="Shoulder Left TopMuscleArms" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopMuscleArms</Data>
+            <Data name="Shoulder Left LowMuscleArms" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowMuscleArms</Data>
+            <Data name="Shoulder Right TopMuscleArms" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopMuscleArms</Data>
+            <Data name="Shoulder Right LowMuscleArms" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowMuscleArms</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRMuscleButt" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRMuscleButt</Data>
+            <Data name="CuirassMuscleButt" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassMuscleButt</Data>
+            <Data name="LeggingsMuscleButt" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsMuscleButt</Data>
+            <Data name="FishnetMuscleButt" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetMuscleButt</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRMuscleLegs" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRMuscleLegs</Data>
+            <Data name="CuirassMuscleLegs" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassMuscleLegs</Data>
+            <Data name="LeggingsMuscleLegs" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsMuscleLegs</Data>
+            <Data name="FishnetMuscleLegs" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetMuscleLegs</Data>
+        </Slider>
+        <Slider name="MusclePecs" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRMusclePecs" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRMusclePecs</Data>
+            <Data name="CuirassMusclePecs" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassMusclePecs</Data>
+            <Data name="Shoulder Left LowMusclePecs" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowMusclePecs</Data>
+            <Data name="Shoulder Right LowMusclePecs" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowMusclePecs</Data>
+        </Slider>
+        <Slider name="NeckSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="BaseShapeHRNeckSeam" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRNeckSeam</Data>
+            <Data name="CuirassNeckSeam" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassNeckSeam</Data>
+            <Data name="Shoulder Left TopNeckSeam" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopNeckSeam</Data>
+            <Data name="Shoulder Left LowNeckSeam" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowNeckSeam</Data>
+            <Data name="Shoulder Right TopNeckSeam" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopNeckSeam</Data>
+            <Data name="Shoulder Right LowNeckSeam" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowNeckSeam</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRPushUp" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRPushUp</Data>
+            <Data name="CuirassPushUp" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassPushUp</Data>
+        </Slider>
+        <Slider name="RibsProminance" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRRibsProminance" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRRibsProminance</Data>
+            <Data name="CuirassRibsProminance" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassRibsProminance</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRRoundAss" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRRoundAss</Data>
+            <Data name="CuirassRoundAss" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassRoundAss</Data>
+            <Data name="LeggingsRoundAss" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsRoundAss</Data>
+            <Data name="FishnetRoundAss" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRShoulderSmooth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRShoulderSmooth</Data>
+            <Data name="CuirassShoulderSmooth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassShoulderSmooth</Data>
+            <Data name="Shoulder Left TopShoulderSmooth" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopShoulderSmooth</Data>
+            <Data name="Shoulder Left LowShoulderSmooth" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowShoulderSmooth</Data>
+            <Data name="Shoulder Right TopShoulderSmooth" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopShoulderSmooth</Data>
+            <Data name="Shoulder Right LowShoulderSmooth" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRshouldertweak" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRshouldertweak</Data>
+            <Data name="CuirassShoulderTweak" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassShoulderTweak</Data>
+            <Data name="Shoulder Left TopShoulderTweak" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopShoulderTweak</Data>
+            <Data name="Shoulder Left LowShoulderTweak" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowShoulderTweak</Data>
+            <Data name="Shoulder Right TopShoulderTweak" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopShoulderTweak</Data>
+            <Data name="Shoulder Right LowShoulderTweak" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRshoulderWidth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRshoulderWidth</Data>
+            <Data name="CuirassShoulderWidth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassShoulderWidth</Data>
+            <Data name="LeggingsShoulderWidth" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsShoulderWidth</Data>
+            <Data name="FishnetShoulderWidth" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetShoulderWidth</Data>
+            <Data name="Shoulder Left TopShoulderWidth" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopShoulderWidth</Data>
+            <Data name="Shoulder Left LowShoulderWidth" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowShoulderWidth</Data>
+            <Data name="Shoulder Right TopShoulderWidth" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopShoulderWidth</Data>
+            <Data name="Shoulder Right LowShoulderWidth" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRSlimThighs" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRSlimThighs</Data>
+            <Data name="CuirassSlimThighs" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassSlimThighs</Data>
+            <Data name="LeggingsSlimThighs" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsSlimThighs</Data>
+            <Data name="FishnetSlimThighs" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetSlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRSternumDepth" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRSternumDepth</Data>
+            <Data name="CuirassSternumDepth" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRSternumHeight" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRSternumHeight</Data>
+            <Data name="CuirassSternumHeight" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassSternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRThighs" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRThighs</Data>
+            <Data name="CuirassThighs" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassThighs</Data>
+            <Data name="LeggingsThighs" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsThighs</Data>
+            <Data name="FishnetThighs" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRTummyTuck" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRTummyTuck</Data>
+            <Data name="CuirassTummyTuck" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassTummyTuck</Data>
+            <Data name="LeggingsTummyTuck" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsTummyTuck</Data>
+            <Data name="FishnetTummyTuck" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetTummyTuck</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRwaist" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRwaist</Data>
+            <Data name="CuirassWaist" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassWaist</Data>
+            <Data name="LeggingsWaist" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsWaist</Data>
+            <Data name="FishnetWaist" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRWaistHeight" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRWaistHeight</Data>
+            <Data name="CuirassWaistHeight" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassWaistHeight</Data>
+            <Data name="LeggingsWaistHeight" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsWaistHeight</Data>
+            <Data name="FishnetWaistHeight" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRWideWaistLine" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRWideWaistLine</Data>
+            <Data name="CuirassWideWaistLine" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassWideWaistLine</Data>
+            <Data name="LeggingsWideWaistLine" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsWideWaistLine</Data>
+            <Data name="FishnetWideWaistLine" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetWideWaistLine</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="BaseShapeHRWristSize" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRWristSize</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="BaseShapeHR7B Lower" target="BaseShapeHR">CBBE Body.osd\BaseShapeHR7B Lower</Data>
+            <Data name="Cuirass7B Lower" target="Cuirass" local="true">SoD - Crimson Armour.osd\Cuirass7B Lower</Data>
+            <Data name="Leggings7B Lower" target="Leggings" local="true">SoD - Crimson Armour.osd\Leggings7B Lower</Data>
+            <Data name="Fishnet7B Lower" target="Fishnet" local="true">SoD - Crimson Armour.osd\Fishnet7B Lower</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="BaseShapeHR7B Upper" target="BaseShapeHR">CBBE Body.osd\BaseShapeHR7B Upper</Data>
+            <Data name="Cuirass7B Upper" target="Cuirass" local="true">SoD - Crimson Armour.osd\Cuirass7B Upper</Data>
+            <Data name="Leggings7B Upper" target="Leggings" local="true">SoD - Crimson Armour.osd\Leggings7B Upper</Data>
+            <Data name="Fishnet7B Upper" target="Fishnet" local="true">SoD - Crimson Armour.osd\Fishnet7B Upper</Data>
+            <Data name="Shoulder Left Top7B Upper" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left Top7B Upper</Data>
+            <Data name="Shoulder Left Low7B Upper" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left Low7B Upper</Data>
+            <Data name="Shoulder Right Top7B Upper" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right Top7B Upper</Data>
+            <Data name="Shoulder Right Low7B Upper" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right Low7B Upper</Data>
+            <Data name="Front7B Upper" target="Front" local="true">SoD - Crimson Armour.osd\Front7B Upper</Data>
+            <Data name="Back7B Upper" target="Back" local="true">SoD - Crimson Armour.osd\Back7B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRVanillaSSEHi" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRVanillaSSEHi</Data>
+            <Data name="CuirassVanillaSSEHi" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassVanillaSSEHi</Data>
+            <Data name="LeggingsVanillaSSEHi" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsVanillaSSEHi</Data>
+            <Data name="FishnetVanillaSSEHi" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetVanillaSSEHi</Data>
+            <Data name="Shoulder Left TopVanillaSSEHi" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopVanillaSSEHi</Data>
+            <Data name="Shoulder Left LowVanillaSSEHi" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowVanillaSSEHi</Data>
+            <Data name="Shoulder Right TopVanillaSSEHi" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopVanillaSSEHi</Data>
+            <Data name="Shoulder Right LowVanillaSSEHi" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowVanillaSSEHi</Data>
+            <Data name="FrontVanillaSSEHi" target="Front" local="true">SoD - Crimson Armour.osd\FrontVanillaSSEHi</Data>
+            <Data name="BackVanillaSSEHi" target="Back" local="true">SoD - Crimson Armour.osd\BackVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRVanillaSSELo" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRVanillaSSELo</Data>
+            <Data name="CuirassVanillaSSELo" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassVanillaSSELo</Data>
+            <Data name="LeggingsVanillaSSELo" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsVanillaSSELo</Data>
+            <Data name="FishnetVanillaSSELo" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetVanillaSSELo</Data>
+            <Data name="Shoulder Left TopVanillaSSELo" target="Shoulder Left Top" local="true">SoD - Crimson Armour.osd\Shoulder Left TopVanillaSSELo</Data>
+            <Data name="Shoulder Left LowVanillaSSELo" target="Shoulder Left Low" local="true">SoD - Crimson Armour.osd\Shoulder Left LowVanillaSSELo</Data>
+            <Data name="Shoulder Right TopVanillaSSELo" target="Shoulder Right Top" local="true">SoD - Crimson Armour.osd\Shoulder Right TopVanillaSSELo</Data>
+            <Data name="Shoulder Right LowVanillaSSELo" target="Shoulder Right Low" local="true">SoD - Crimson Armour.osd\Shoulder Right LowVanillaSSELo</Data>
+            <Data name="FrontVanillaSSELo" target="Front" local="true">SoD - Crimson Armour.osd\FrontVanillaSSELo</Data>
+            <Data name="BackVanillaSSELo" target="Back" local="true">SoD - Crimson Armour.osd\BackVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="BaseShapeHROldBaseShape" target="BaseShapeHR">CBBE Body.osd\BaseShapeHROldBaseShape</Data>
+            <Data name="CuirassOldBaseShape" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassOldBaseShape</Data>
+            <Data name="LeggingsOldBaseShape" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsOldBaseShape</Data>
+            <Data name="FishnetOldBaseShape" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetOldBaseShape</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRCalfSize" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRCalfSize</Data>
+            <Data name="LeggingsCalfSize" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsCalfSize</Data>
+            <Data name="FishnetCalfSize" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetCalfSize</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRKneeHeight" target="BaseShapeHR">CBBE Body.osd\BaseShapeHRKneeHeight</Data>
+            <Data name="LeggingsKneeHeight" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsKneeHeight</Data>
+            <Data name="FishnetKneeHeight" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetKneeHeight</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="BaseShapeHRPregnancyBelly" target="BaseShapeHR" local="true">SoD - Crimson Armour.osd\BaseShapeHRPregnancyBelly</Data>
+            <Data name="CuirassPregnancyBelly" target="Cuirass" local="true">SoD - Crimson Armour.osd\CuirassPregnancyBelly</Data>
+            <Data name="LeggingsPregnancyBelly" target="Leggings" local="true">SoD - Crimson Armour.osd\LeggingsPregnancyBelly</Data>
+            <Data name="FishnetPregnancyBelly" target="Fishnet" local="true">SoD - Crimson Armour.osd\FishnetPregnancyBelly</Data>
+        </Slider>
+        <Slider name="NoClip" invert="false" small="100" big="100" hidden="true" zap="true">
+            <Data name="BaseShapeHRNoClip" target="BaseShapeHR" local="true">SoD - Crimson Armour.osd\BaseShapeHRNoClip</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="SoD - Scarlet Gauntlet">
+        <DataFolder>SoD - Scarlet Gauntlet</DataFolder>
+        <SourceFile>SoD - Scarlet Gauntlet.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">Rose_glove</OutputFile>
+        <Shape target="Hands" DataFolder="CBBE">Hands</Shape>
+        <Shape target="glove">glove</Shape>
+        <Shape target="glovemetal" SmoothSeamNormals="false">glovemetal</Shape>
+        <Shape target="handmetal001" SmoothSeamNormals="false">handmetal001</Shape>
+        <Shape target="uparmmetal001" SmoothSeamNormals="false">uparmmetal001</Shape>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="glovemetalArms" target="glovemetal" local="true">SoD - Scarlet Gauntlet.osd\glovemetalArms</Data>
+            <Data name="uparmmetal001Arms" target="uparmmetal001" local="true">SoD - Scarlet Gauntlet.osd\uparmmetal001Arms</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="glovemetalBigTorso" target="glovemetal" local="true">SoD - Scarlet Gauntlet.osd\glovemetalBigTorso</Data>
+            <Data name="uparmmetal001BigTorso" target="uparmmetal001" local="true">SoD - Scarlet Gauntlet.osd\uparmmetal001BigTorso</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="glovemetalChubbyArms" target="glovemetal" local="true">SoD - Scarlet Gauntlet.osd\glovemetalChubbyArms</Data>
+            <Data name="uparmmetal001ChubbyArms" target="uparmmetal001" local="true">SoD - Scarlet Gauntlet.osd\uparmmetal001ChubbyArms</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="glovemetalForearmSize" target="glovemetal" local="true">SoD - Scarlet Gauntlet.osd\glovemetalForearmSize</Data>
+            <Data name="uparmmetal001ForearmSize" target="uparmmetal001" local="true">SoD - Scarlet Gauntlet.osd\uparmmetal001ForearmSize</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="glovemetalMuscleArms" target="glovemetal" local="true">SoD - Scarlet Gauntlet.osd\glovemetalMuscleArms</Data>
+            <Data name="uparmmetal001MuscleArms" target="uparmmetal001" local="true">SoD - Scarlet Gauntlet.osd\uparmmetal001MuscleArms</Data>
+        </Slider>
+        <Slider name="MuscleMoreArms_v2" invert="false" small="0" big="0">
+            <Data name="glovemetalMuscleMoreArms_v2" target="glovemetal" local="true">SoD - Scarlet Gauntlet.osd\glovemetalMuscleMoreArms_v2</Data>
+            <Data name="uparmmetal001MuscleMoreArms_v2" target="uparmmetal001" local="true">SoD - Scarlet Gauntlet.osd\uparmmetal001MuscleMoreArms_v2</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="HandsShoulderWidth" target="Hands" local="true">SoD - Scarlet Gauntlet.osd\HandsShoulderWidth</Data>
+            <Data name="gloveShoulderWidth" target="glove" local="true">SoD - Scarlet Gauntlet.osd\gloveShoulderWidth</Data>
+            <Data name="glovemetalShoulderWidth" target="glovemetal" local="true">SoD - Scarlet Gauntlet.osd\glovemetalShoulderWidth</Data>
+            <Data name="uparmmetal001ShoulderWidth" target="uparmmetal001" local="true">SoD - Scarlet Gauntlet.osd\uparmmetal001ShoulderWidth</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="glovemetal7B Upper" target="glovemetal" local="true">SoD - Scarlet Gauntlet.osd\glovemetal7B Upper</Data>
+            <Data name="uparmmetal0017B Upper" target="uparmmetal001" local="true">SoD - Scarlet Gauntlet.osd\uparmmetal0017B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="glovemetalVanillaSSEHi" target="glovemetal" local="true">SoD - Scarlet Gauntlet.osd\glovemetalVanillaSSEHi</Data>
+            <Data name="uparmmetal001VanillaSSEHi" target="uparmmetal001" local="true">SoD - Scarlet Gauntlet.osd\uparmmetal001VanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="glovemetalVanillaSSELo" target="glovemetal" local="true">SoD - Scarlet Gauntlet.osd\glovemetalVanillaSSELo</Data>
+            <Data name="uparmmetal001VanillaSSELo" target="uparmmetal001" local="true">SoD - Scarlet Gauntlet.osd\uparmmetal001VanillaSSELo</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="HandsWristSize" target="Hands" local="true">SoD - Scarlet Gauntlet.osd\HandsWristSize</Data>
+            <Data name="gloveWristSize" target="glove" local="true">SoD - Scarlet Gauntlet.osd\gloveWristSize</Data>
+            <Data name="glovemetalWristSize" target="glovemetal" local="true">SoD - Scarlet Gauntlet.osd\glovemetalWristSize</Data>
+            <Data name="handmetal001WristSize" target="handmetal001" local="true">SoD - Scarlet Gauntlet.osd\handmetal001WristSize</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

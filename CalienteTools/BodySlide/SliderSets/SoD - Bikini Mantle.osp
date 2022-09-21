@@ -1,0 +1,551 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="SoD - Bikini Mantle">
+        <DataFolder>SoD - Bikini Mantle</DataFolder>
+        <SourceFile>SoD - Bikini Mantle.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">dda_mantf01</OutputFile>
+        <Shape target="VirtualGround">VirtualGround</Shape>
+        <Shape target="colBodyMant">colBodyMant</Shape>
+        <Shape target="colFeetMant">colFeetMant</Shape>
+        <Shape target="mant">mant</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="colFeetMantAnkleSize" target="colFeetMant" local="true">SoD - Bikini Mantle.osd\colFeetMantAnkleSize</Data>
+            <Data name="colBodyMantAnkleSize" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantAnkleSize</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="colBodyMantAppleCheeks" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantAppleCheeks</Data>
+            <Data name="mantAppleCheeks" target="mant" local="true">SoD - Bikini Mantle.osd\mantAppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="colBodyMantArms" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantArms</Data>
+            <Data name="mantArms" target="mant" local="true">SoD - Bikini Mantle.osd\mantArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="colBodyMantBack" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBack</Data>
+            <Data name="mantBack" target="mant" local="true">SoD - Bikini Mantle.osd\mantBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="colBodyMantBackArch" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBackArch</Data>
+            <Data name="mantBackArch" target="mant" local="true">SoD - Bikini Mantle.osd\mantBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="colBodyMantBelly" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="colBodyMantBigBelly" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="colBodyMantBigButt" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBigButt</Data>
+            <Data name="mantBigButt" target="mant" local="true">SoD - Bikini Mantle.osd\mantBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="colBodyMantBigTorso" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBigTorso</Data>
+            <Data name="mantBigTorso" target="mant" local="true">SoD - Bikini Mantle.osd\mantBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastCenter" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastCenter</Data>
+            <Data name="mantBreastCenter" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastCenterBig" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastCenterBig</Data>
+            <Data name="mantBreastCenterBig" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastCleavage" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastCleavage</Data>
+            <Data name="mantBreastCleavage" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastFlatness2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastFlatness2</Data>
+            <Data name="mantBreastFlatness2" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastFlatness" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastFlatness</Data>
+            <Data name="mantBreastFlatness" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastGravity2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastGravity2</Data>
+            <Data name="mantBreastGravity2" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastHeight" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastHeight</Data>
+            <Data name="mantBreastHeight" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastPerkiness" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastPerkiness</Data>
+            <Data name="mantBreastPerkiness" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastPerkiness</Data>
+        </Slider>
+        <Slider name="Breasts" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreasts" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreasts</Data>
+            <Data name="mantBreasts" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreasts</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastsFantasy" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastsFantasy</Data>
+            <Data name="mantBreastsFantasy" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastsFantasy</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastsGone" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastsGone</Data>
+            <Data name="mantBreastsGone" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastsNewSH" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastsNewSH</Data>
+            <Data name="mantBreastsNewSH" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsNewSHSymmetry" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastsNewSHSymmetry" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastsNewSHSymmetry</Data>
+            <Data name="mantBreastsNewSHSymmetry" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastsNewSHSymmetry</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastsSmall" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastsSmall</Data>
+            <Data name="mantBreastsSmall" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastsSmall2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastsSmall2</Data>
+            <Data name="mantBreastsSmall2" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastsTogether" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastsTogether</Data>
+            <Data name="mantBreastsTogether" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastTopSlope" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastTopSlope</Data>
+            <Data name="mantBreastTopSlope" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastWidth" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastWidth</Data>
+            <Data name="mantBreastWidth" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastWidth</Data>
+        </Slider>
+        <Slider name="BreastSideShape" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastSideShape" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastSideShape</Data>
+        </Slider>
+        <Slider name="BreastUnderDepth" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastUnderDepth" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastUnderDepth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" small="0" big="0">
+            <Data name="colBodyMantButt" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantButt</Data>
+            <Data name="mantButt" target="mant" local="true">SoD - Bikini Mantle.osd\mantButt</Data>
+        </Slider>
+        <Slider name="ButtClassic" invert="false" small="0" big="0">
+            <Data name="colBodyMantButtClassic" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantButtClassic</Data>
+            <Data name="mantButtClassic" target="mant" local="true">SoD - Bikini Mantle.osd\mantButtClassic</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" small="0" big="0">
+            <Data name="colBodyMantButtCrack" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantButtCrack</Data>
+            <Data name="mantButtCrack" target="mant" local="true">SoD - Bikini Mantle.osd\mantButtCrack</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="colBodyMantButtShape2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantButtShape2</Data>
+            <Data name="mantButtShape2" target="mant" local="true">SoD - Bikini Mantle.osd\mantButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="colBodyMantButtSmall" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantButtSmall</Data>
+            <Data name="mantButtSmall" target="mant" local="true">SoD - Bikini Mantle.osd\mantButtSmall</Data>
+        </Slider>
+        <Slider name="ButtDimples" invert="false" small="0" big="0">
+            <Data name="colBodyMantButtDimples" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantButtDimples</Data>
+            <Data name="mantButtDimples" target="mant" local="true">SoD - Bikini Mantle.osd\mantButtDimples</Data>
+        </Slider>
+        <Slider name="ButtUnderFold" invert="false" small="0" big="0">
+            <Data name="colBodyMantButtUnderFold" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantButtUnderFold</Data>
+            <Data name="mantButtUnderFold" target="mant" local="true">SoD - Bikini Mantle.osd\mantButtUnderFold</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="colBodyMantCalfSize" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="colBodyMantCalfSmooth" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" small="0" big="0">
+            <Data name="colBodyMantChestDepth" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantChestDepth</Data>
+            <Data name="mantChestDepth" target="mant" local="true">SoD - Bikini Mantle.osd\mantChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="colBodyMantChestWidth" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantChestWidth</Data>
+            <Data name="mantChestWidth" target="mant" local="true">SoD - Bikini Mantle.osd\mantChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="colBodyMantChubbyArms" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantChubbyArms</Data>
+            <Data name="mantChubbyArms" target="mant" local="true">SoD - Bikini Mantle.osd\mantChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="colBodyMantChubbyButt" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantChubbyButt</Data>
+            <Data name="mantChubbyButt" target="mant" local="true">SoD - Bikini Mantle.osd\mantChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="colBodyMantChubbyLegs" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantChubbyLegs</Data>
+            <Data name="mantChubbyLegs" target="mant" local="true">SoD - Bikini Mantle.osd\mantChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="colBodyMantChubbyWaist" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantChubbyWaist</Data>
+            <Data name="mantChubbyWaist" target="mant" local="true">SoD - Bikini Mantle.osd\mantChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="colBodyMantCrotchBack" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantCrotchBack</Data>
+            <Data name="mantCrotchBack" target="mant" local="true">SoD - Bikini Mantle.osd\mantCrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="colBodyMantDoubleMelon" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantDoubleMelon</Data>
+            <Data name="mantDoubleMelon" target="mant" local="true">SoD - Bikini Mantle.osd\mantDoubleMelon</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="colBodyMantForearmSize" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantForearmSize</Data>
+            <Data name="mantForearmSize" target="mant" local="true">SoD - Bikini Mantle.osd\mantForearmSize</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="colBodyMantGroin" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantGroin</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="colBodyMantHipBone" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantHipBone</Data>
+            <Data name="mantHipBone" target="mant" local="true">SoD - Bikini Mantle.osd\mantHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="colBodyMantHipForward" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantHipForward</Data>
+            <Data name="mantHipForward" target="mant" local="true">SoD - Bikini Mantle.osd\mantHipForward</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="colBodyMantHips" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantHips</Data>
+            <Data name="mantHips" target="mant" local="true">SoD - Bikini Mantle.osd\mantHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="colBodyMantHipUpperWidth" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantHipUpperWidth</Data>
+            <Data name="mantHipUpperWidth" target="mant" local="true">SoD - Bikini Mantle.osd\mantHipUpperWidth</Data>
+        </Slider>
+        <Slider name="HipCarved" invert="false" small="0" big="0">
+            <Data name="colBodyMantHipCarved" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantHipCarved</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="colBodyMantKneeHeight" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="colBodyMantKneeShape" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="colBodyMantLegShapeClassic" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="colBodyMantLegsThin" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantLegsThin</Data>
+            <Data name="mantLegsThin" target="mant" local="true">SoD - Bikini Mantle.osd\mantLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="colBodyMantMuscleAbs" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantMuscleAbs</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="colBodyMantMuscleArms" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantMuscleArms</Data>
+            <Data name="mantMuscleArms" target="mant" local="true">SoD - Bikini Mantle.osd\mantMuscleArms</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="colBodyMantMuscleButt" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantMuscleButt</Data>
+            <Data name="mantMuscleButt" target="mant" local="true">SoD - Bikini Mantle.osd\mantMuscleButt</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="colBodyMantMuscleLegs" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantMuscleLegs</Data>
+            <Data name="mantMuscleLegs" target="mant" local="true">SoD - Bikini Mantle.osd\mantMuscleLegs</Data>
+        </Slider>
+        <Slider name="MusclePecs" invert="false" small="0" big="0">
+            <Data name="colBodyMantMusclePecs" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantMusclePecs</Data>
+            <Data name="mantMusclePecs" target="mant" local="true">SoD - Bikini Mantle.osd\mantMusclePecs</Data>
+        </Slider>
+        <Slider name="NavelEven" invert="false" small="0" big="0">
+            <Data name="colBodyMantNavelEven" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNavelEven</Data>
+        </Slider>
+        <Slider name="NeckSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="colBodyMantNeckSeam" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNeckSeam</Data>
+            <Data name="mantNeckSeam" target="mant" local="true">SoD - Bikini Mantle.osd\mantNeckSeam</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" small="0" big="0">
+            <Data name="colBodyMantNipBGone" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNipBGone</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleDistance" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleDown" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleDown</Data>
+            <Data name="mantNippleDown" target="mant" local="true">SoD - Bikini Mantle.osd\mantNippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleLength" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleLength</Data>
+        </Slider>
+        <Slider name="NippleManga" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleManga" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleManga</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="colBodyMantNipplePerkiness" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NipplePerkManga" invert="false" small="0" big="0">
+            <Data name="colBodyMantNipplePerkManga" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNipplePerkManga</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleSize" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleTip" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleTip</Data>
+        </Slider>
+        <Slider name="NippleTipManga" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleTipManga" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleTipManga</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleUp" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleUp</Data>
+            <Data name="mantNippleUp" target="mant" local="true">SoD - Bikini Mantle.osd\mantNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDip" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleDip" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleDip</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="colBodyMantPregnancyBelly" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantPregnancyBelly</Data>
+            <Data name="mantPregnancyBelly" target="mant" local="true">SoD - Bikini Mantle.osd\mantPregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="colBodyMantPushUp" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantPushUp</Data>
+            <Data name="mantPushUp" target="mant" local="true">SoD - Bikini Mantle.osd\mantPushUp</Data>
+        </Slider>
+        <Slider name="RibsProminance" invert="false" small="0" big="0">
+            <Data name="colBodyMantRibsProminance" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantRibsProminance</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="colBodyMantRoundAss" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantRoundAss</Data>
+            <Data name="mantRoundAss" target="mant" local="true">SoD - Bikini Mantle.osd\mantRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="colBodyMantShoulderSmooth" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantShoulderSmooth</Data>
+            <Data name="mantShoulderSmooth" target="mant" local="true">SoD - Bikini Mantle.osd\mantShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="0" big="0">
+            <Data name="colBodyMantShoulderTweak" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantShoulderTweak</Data>
+            <Data name="mantShoulderTweak" target="mant" local="true">SoD - Bikini Mantle.osd\mantShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="colBodyMantShoulderWidth" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantShoulderWidth</Data>
+            <Data name="mantShoulderWidth" target="mant" local="true">SoD - Bikini Mantle.osd\mantShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="colBodyMantSlimThighs" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantSlimThighs</Data>
+            <Data name="mantSlimThighs" target="mant" local="true">SoD - Bikini Mantle.osd\mantSlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" small="0" big="0">
+            <Data name="colBodyMantSternumDepth" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantSternumDepth</Data>
+            <Data name="mantSternumDepth" target="mant" local="true">SoD - Bikini Mantle.osd\mantSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" small="0" big="0">
+            <Data name="colBodyMantSternumHeight" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantSternumHeight</Data>
+            <Data name="mantSternumHeight" target="mant" local="true">SoD - Bikini Mantle.osd\mantSternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="colBodyMantThighs" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantThighs</Data>
+            <Data name="mantThighs" target="mant" local="true">SoD - Bikini Mantle.osd\mantThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="colBodyMantTummyTuck" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantTummyTuck</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="colBodyMantWaist" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantWaist</Data>
+            <Data name="mantWaist" target="mant" local="true">SoD - Bikini Mantle.osd\mantWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="colBodyMantWaistHeight" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantWaistHeight</Data>
+            <Data name="mantWaistHeight" target="mant" local="true">SoD - Bikini Mantle.osd\mantWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="colBodyMantWideWaistLine" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantWideWaistLine</Data>
+            <Data name="mantWideWaistLine" target="mant" local="true">SoD - Bikini Mantle.osd\mantWideWaistLine</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="colBodyMantWristSize" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantWristSize</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="colBodyMant7B Lower" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMant7B Lower</Data>
+            <Data name="mant7B Lower" target="mant" local="true">SoD - Bikini Mantle.osd\mant7B Lower</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="colBodyMant7B Upper" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMant7B Upper</Data>
+            <Data name="mant7B Upper" target="mant" local="true">SoD - Bikini Mantle.osd\mant7B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="colBodyMantVanillaSSEHi" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantVanillaSSEHi</Data>
+            <Data name="mantVanillaSSEHi" target="mant" local="true">SoD - Bikini Mantle.osd\mantVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="colBodyMantVanillaSSELo" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantVanillaSSELo</Data>
+            <Data name="mantVanillaSSELo" target="mant" local="true">SoD - Bikini Mantle.osd\mantVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="colBodyMantOldBaseShape" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantOldBaseShape</Data>
+            <Data name="mantOldBaseShape" target="mant" local="true">SoD - Bikini Mantle.osd\mantOldBaseShape</Data>
+        </Slider>
+        <Slider name="Innieoutie" invert="false" small="0" big="0">
+            <Data name="colBodyMantInnieoutie" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantInnieoutie</Data>
+        </Slider>
+        <Slider name="LabiaTightUp" invert="false" small="0" big="0">
+            <Data name="colBodyMantLabiaTightUp" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantLabiaTightUp</Data>
+        </Slider>
+        <Slider name="Labiapuffyness" invert="false" small="0" big="0">
+            <Data name="colBodyMantLabiapuffyness" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantLabiapuffyness</Data>
+        </Slider>
+        <Slider name="Labiaprotrude2" invert="false" small="0" big="0">
+            <Data name="colBodyMantLabiaprotrude2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantLabiaprotrude2</Data>
+        </Slider>
+        <Slider name="Labiaspread" invert="false" small="0" big="0">
+            <Data name="colBodyMantLabiaspread" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantLabiaspread</Data>
+        </Slider>
+        <Slider name="VaginaHole" invert="false" small="0" big="0">
+            <Data name="colBodyMantVaginaHole" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantVaginaHole</Data>
+        </Slider>
+        <Slider name="Cutepuffyness" invert="false" small="0" big="0">
+            <Data name="colBodyMantCutepuffyness" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantCutepuffyness</Data>
+        </Slider>
+        <Slider name="CBPC" invert="false" small="100" big="100">
+            <Data name="colBodyMantCBPC" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantCBPC</Data>
+        </Slider>
+        <Slider name="CrotchGap" invert="false" small="0" big="0">
+            <Data name="colBodyMantCrotchGap" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantCrotchGap</Data>
+        </Slider>
+        <Slider name="ArmpitShape_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantArmpitShape_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantArmpitShape_v2</Data>
+            <Data name="mantArmpitShape_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantArmpitShape_v2</Data>
+        </Slider>
+        <Slider name="AreolaPull_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantAreolaPull_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantAreolaPull_v2</Data>
+        </Slider>
+        <Slider name="BackValley_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantBackValley_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBackValley_v2</Data>
+            <Data name="mantBackValley_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantBackValley_v2</Data>
+        </Slider>
+        <Slider name="BackWing_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantBackWing_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBackWing_v2</Data>
+            <Data name="mantBackWing_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantBackWing_v2</Data>
+        </Slider>
+        <Slider name="BellyFrontUpFat_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantBellyFrontUpFat_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBellyFrontUpFat_v2</Data>
+        </Slider>
+        <Slider name="BellyFrontDownFat_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantBellyFrontDownFat_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBellyFrontDownFat_v2</Data>
+        </Slider>
+        <Slider name="BellySideUpFat_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantBellySideUpFat_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBellySideUpFat_v2</Data>
+        </Slider>
+        <Slider name="BellySideDownFat_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantBellySideDownFat_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBellySideDownFat_v2</Data>
+        </Slider>
+        <Slider name="BellyUnder_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantBellyUnder_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBellyUnder_v2</Data>
+        </Slider>
+        <Slider name="BreastsConverage_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastsConverage_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastsConverage_v2</Data>
+            <Data name="mantBreastsConverage_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastsConverage_v2</Data>
+        </Slider>
+        <Slider name="BreastsPressed_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantBreastsPressed_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantBreastsPressed_v2</Data>
+            <Data name="mantBreastsPressed_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantBreastsPressed_v2</Data>
+        </Slider>
+        <Slider name="ButtSaggy_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantButtSaggy_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantButtSaggy_v2</Data>
+            <Data name="mantButtSaggy_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantButtSaggy_v2</Data>
+        </Slider>
+        <Slider name="ButtPressed_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantButtPressed_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantButtPressed_v2</Data>
+            <Data name="mantButtPressed_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantButtPressed_v2</Data>
+        </Slider>
+        <Slider name="ButtNarrow_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantButtNarrow_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantButtNarrow_v2</Data>
+            <Data name="mantButtNarrow_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantButtNarrow_v2</Data>
+        </Slider>
+        <Slider name="Clavicle_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantClavicle_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantClavicle_v2</Data>
+            <Data name="mantClavicle_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantClavicle_v2</Data>
+        </Slider>
+        <Slider name="HipNarrow_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantHipNarrow_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantHipNarrow_v2</Data>
+            <Data name="mantHipNarrow_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantHipNarrow_v2</Data>
+        </Slider>
+        <Slider name="MuscleBack_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantMuscleBack_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantMuscleBack_v2</Data>
+            <Data name="mantMuscleBack_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantMuscleBack_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreAbs_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantMuscleMoreAbs_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantMuscleMoreAbs_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreArms_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantMuscleMoreArms_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantMuscleMoreArms_v2</Data>
+            <Data name="mantMuscleMoreArms_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantMuscleMoreArms_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantMuscleMoreLegs_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantMuscleMoreLegs_v2</Data>
+            <Data name="mantMuscleMoreLegs_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantMuscleMoreLegs_v2</Data>
+        </Slider>
+        <Slider name="NipplePuffy_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantNipplePuffy_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNipplePuffy_v2</Data>
+        </Slider>
+        <Slider name="NippleShy_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleShy_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleShy_v2</Data>
+        </Slider>
+        <Slider name="NippleThicc_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleThicc_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleThicc_v2</Data>
+        </Slider>
+        <Slider name="NippleInvert_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleInvert_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleInvert_v2</Data>
+        </Slider>
+        <Slider name="NippleSquash1_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleSquash1_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleSquash1_v2</Data>
+        </Slider>
+        <Slider name="NippleSquash2_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleSquash2_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleSquash2_v2</Data>
+        </Slider>
+        <Slider name="NippleBump_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleBump_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleBump_v2</Data>
+        </Slider>
+        <Slider name="NippleCrumpled_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleCrumpled_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleCrumpled_v2</Data>
+        </Slider>
+        <Slider name="NippleTube_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantNippleTube_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantNippleTube_v2</Data>
+        </Slider>
+        <Slider name="RibsMore_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantRibsMore_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantRibsMore_v2</Data>
+        </Slider>
+        <Slider name="ThighOutsideThicc_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantThighOutsideThicc_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantThighOutsideThicc_v2</Data>
+            <Data name="mantThighOutsideThicc_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantThighOutsideThicc_v2</Data>
+        </Slider>
+        <Slider name="ThighFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantThighFBThicc_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantThighFBThicc_v2</Data>
+        </Slider>
+        <Slider name="UNPHip_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantUNPHip_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantUNPHip_v2</Data>
+            <Data name="mantUNPHip_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantUNPHip_v2</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMant7BLeg_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMant7BLeg_v2</Data>
+            <Data name="mant7BLeg_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mant7BLeg_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantLegSpread_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantLegSpread_v2</Data>
+            <Data name="mantLegSpread_v2" target="mant" local="true">SoD - Bikini Mantle.osd\mantLegSpread_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantCalfFBThicc_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantKneeTogether_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="ThighInsideThicc_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantThighInsideThicc_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantThighInsideThicc_v2</Data>
+        </Slider>
+        <Slider name="LabiaMorePuffyness_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantLabiaMorePuffyness_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantLabiaMorePuffyness_v2</Data>
+        </Slider>
+        <Slider name="LabiaCrumpled_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantLabiaCrumpled_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantLabiaCrumpled_v2</Data>
+        </Slider>
+        <Slider name="LabiaNeat_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantLabiaNeat_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantLabiaNeat_v2</Data>
+        </Slider>
+        <Slider name="LabiaBulgogi_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantLabiaBulgogi_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantLabiaBulgogi_v2</Data>
+        </Slider>
+        <Slider name="AnalLoose_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantAnalLoose_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantAnalLoose_v2</Data>
+        </Slider>
+        <Slider name="AnalPosition_v2" invert="false" small="0" big="0">
+            <Data name="colBodyMantAnalPosition_v2" target="colBodyMant" local="true">SoD - Bikini Mantle.osd\colBodyMantAnalPosition_v2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

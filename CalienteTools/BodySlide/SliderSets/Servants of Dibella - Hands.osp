@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Servants of Dibella - Hands">
+        <DataFolder>Servants of Dibella - Hands</DataFolder>
+        <SourceFile>Servants of Dibella - Hands.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\body</OutputPath>
+        <OutputFile GenWeights="true">femalehands</OutputFile>
+        <Shape target="Hands" DataFolder="CBBE">Hands</Shape>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="HandsWristSize" target="Hands" local="true">Servants of Dibella - Hands.osd\HandsWristSize</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

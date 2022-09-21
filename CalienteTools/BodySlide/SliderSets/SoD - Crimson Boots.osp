@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="SoD - Crimson Boots">
+        <DataFolder>SoD - Crimson Boots</DataFolder>
+        <SourceFile>SoD - Crimson Boots.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">DX_VampireStalhrim_Boots</OutputFile>
+        <Shape target="Boots">Boots</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="BootsAnkleSize" target="Boots" local="true">SoD - Crimson Boots.osd\BootsAnkleSize</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="BootsButtSmall" target="Boots" local="true">SoD - Crimson Boots.osd\BootsButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BootsCalfSize" target="Boots" local="true">SoD - Crimson Boots.osd\BootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BootsCalfSmooth" target="Boots" local="true">SoD - Crimson Boots.osd\BootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BootsChubbyLegs" target="Boots" local="true">SoD - Crimson Boots.osd\BootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="BootsHipForward" target="Boots" local="true">SoD - Crimson Boots.osd\BootsHipForward</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BootsKneeHeight" target="Boots" local="true">SoD - Crimson Boots.osd\BootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="BootsKneeShape" target="Boots" local="true">SoD - Crimson Boots.osd\BootsKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="BootsLegShapeClassic" target="Boots" local="true">SoD - Crimson Boots.osd\BootsLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="BootsLegsThin" target="Boots" local="true">SoD - Crimson Boots.osd\BootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="BootsMuscleLegs" target="Boots" local="true">SoD - Crimson Boots.osd\BootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BootsSlimThighs" target="Boots" local="true">SoD - Crimson Boots.osd\BootsSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BootsThighs" target="Boots" local="true">SoD - Crimson Boots.osd\BootsThighs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="Boots7B Lower" target="Boots" local="true">SoD - Crimson Boots.osd\Boots7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="BootsVanillaSSEHi" target="Boots" local="true">SoD - Crimson Boots.osd\BootsVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="BootsVanillaSSELo" target="Boots" local="true">SoD - Crimson Boots.osd\BootsVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="BootsOldBaseShape" target="Boots" local="true">SoD - Crimson Boots.osd\BootsOldBaseShape</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="BootsFeetFeminine" target="Boots" local="true">SoD - Crimson Boots.osd\BootsFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

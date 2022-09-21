@@ -1,0 +1,1006 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="SoD - Scarlet Armor">
+        <DataFolder>SoD - Scarlet Armor</DataFolder>
+        <SourceFile>SoD - Scarlet Armor.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">Rose_brano</OutputFile>
+        <Shape target="3BA" DataFolder="CBBE SE - [COCO] Scarlet Rose">3BA</Shape>
+        <Shape target="3BA_Anus">3BA_Anus</Shape>
+        <Shape target="3BA_Vagina">3BA_Vagina</Shape>
+        <Shape target="Shouldermetal">Shouldermetal</Shape>
+        <Shape target="armbandage">armbandage</Shape>
+        <Shape target="bra">bra</Shape>
+        <Shape target="braflower" SmoothSeamNormals="false">braflower</Shape>
+        <Shape target="brastring">brastring</Shape>
+        <Shape target="neckcixiu">neckcixiu</Shape>
+        <Shape target="neckdish">neckdish</Shape>
+        <Shape target="neckloop">neckloop</Shape>
+        <Shape target="panty">panty</Shape>
+        <Slider name="ArmpitShape_v2" invert="false" small="0" big="0">
+            <Data name="3BAArmpitShape_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAArmpitShape_v2</Data>
+            <Data name="armbandageArmpitShape_v2" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageArmpitShape_v2</Data>
+        </Slider>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="3BAAnkleSize" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAAnkleSize</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="3BAAppleCheeks" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAAppleCheeks</Data>
+            <Data name="braAppleCheeks" target="bra" local="true">SoD - Scarlet Armor.osd\braAppleCheeks</Data>
+            <Data name="braflowerAppleCheeks" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerAppleCheeks</Data>
+            <Data name="3BA_VaginaAppleCheeks" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaAppleCheeks</Data>
+            <Data name="3BA_AnusAppleCheeks" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusAppleCheeks</Data>
+            <Data name="pantyAppleCheeks" target="panty" local="true">SoD - Scarlet Armor.osd\pantyAppleCheeks</Data>
+        </Slider>
+        <Slider name="AreolaSize" invert="false" small="0" big="0" uv="true">
+            <Data name="3BAAreolaSize" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAAreolaSize</Data>
+        </Slider>
+        <Slider name="AreolaPull_v2" invert="false" small="0" big="0">
+            <Data name="3BAAreolaPull_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAAreolaPull_v2</Data>
+            <Data name="braAreolaPull_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braAreolaPull_v2</Data>
+            <Data name="braflowerAreolaPull_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerAreolaPull_v2</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="3BAArms" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAArms</Data>
+            <Data name="braArms" target="bra" local="true">SoD - Scarlet Armor.osd\braArms</Data>
+            <Data name="brastringArms" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringArms</Data>
+            <Data name="neckloopArms" target="neckloop" local="true">SoD - Scarlet Armor.osd\neckloopArms</Data>
+            <Data name="neckcixiuArms" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuArms</Data>
+            <Data name="neckdishArms" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishArms</Data>
+            <Data name="ShouldermetalArms" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalArms</Data>
+            <Data name="armbandageArms" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="3BABack" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABack</Data>
+            <Data name="braBack" target="bra" local="true">SoD - Scarlet Armor.osd\braBack</Data>
+            <Data name="brastringBack" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringBack</Data>
+            <Data name="braflowerBack" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBack</Data>
+            <Data name="pantyBack" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBack</Data>
+            <Data name="neckloopBack" target="neckloop" local="true">SoD - Scarlet Armor.osd\neckloopBack</Data>
+            <Data name="neckcixiuBack" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuBack</Data>
+            <Data name="neckdishBack" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBack</Data>
+            <Data name="ShouldermetalBack" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBack</Data>
+            <Data name="armbandageBack" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="3BABackArch" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABackArch</Data>
+            <Data name="braBackArch" target="bra" local="true">SoD - Scarlet Armor.osd\braBackArch</Data>
+            <Data name="braflowerBackArch" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBackArch</Data>
+            <Data name="pantyBackArch" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBackArch</Data>
+        </Slider>
+        <Slider name="BackValley_v2" invert="false" small="0" big="0">
+            <Data name="3BABackValley_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABackValley_v2</Data>
+            <Data name="braBackValley_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braBackValley_v2</Data>
+        </Slider>
+        <Slider name="BackWing_v2" invert="false" small="0" big="0">
+            <Data name="3BABackWing_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABackWing_v2</Data>
+            <Data name="ShouldermetalBackWing_v2" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBackWing_v2</Data>
+            <Data name="armbandageBackWing_v2" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBackWing_v2</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="3BABelly" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABelly</Data>
+            <Data name="braBelly" target="bra" local="true">SoD - Scarlet Armor.osd\braBelly</Data>
+            <Data name="braflowerBelly" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBelly</Data>
+            <Data name="pantyBelly" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBelly</Data>
+        </Slider>
+        <Slider name="BellyFrontUpFat_v2" invert="false" small="0" big="0">
+            <Data name="3BABellyFrontUpFat_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABellyFrontUpFat_v2</Data>
+            <Data name="braBellyFrontUpFat_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braBellyFrontUpFat_v2</Data>
+            <Data name="braflowerBellyFrontUpFat_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBellyFrontUpFat_v2</Data>
+            <Data name="pantyBellyFrontUpFat_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBellyFrontUpFat_v2</Data>
+        </Slider>
+        <Slider name="BellyFrontDownFat_v2" invert="false" small="0" big="0">
+            <Data name="3BABellyFrontDownFat_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABellyFrontDownFat_v2</Data>
+            <Data name="pantyBellyFrontDownFat_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBellyFrontDownFat_v2</Data>
+        </Slider>
+        <Slider name="BellySideUpFat_v2" invert="false" small="0" big="0">
+            <Data name="3BABellySideUpFat_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABellySideUpFat_v2</Data>
+            <Data name="braBellySideUpFat_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braBellySideUpFat_v2</Data>
+            <Data name="braflowerBellySideUpFat_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBellySideUpFat_v2</Data>
+            <Data name="pantyBellySideUpFat_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBellySideUpFat_v2</Data>
+        </Slider>
+        <Slider name="BellySideDownFat_v2" invert="false" small="0" big="0">
+            <Data name="3BABellySideDownFat_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABellySideDownFat_v2</Data>
+            <Data name="pantyBellySideDownFat_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBellySideDownFat_v2</Data>
+        </Slider>
+        <Slider name="BellyUnder_v2" invert="false" small="0" big="0">
+            <Data name="3BABellyUnder_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABellyUnder_v2</Data>
+            <Data name="3BA_VaginaBellyUnder_v2" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaBellyUnder_v2</Data>
+            <Data name="pantyBellyUnder_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBellyUnder_v2</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="3BABigBelly" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABigBelly</Data>
+            <Data name="braBigBelly" target="bra" local="true">SoD - Scarlet Armor.osd\braBigBelly</Data>
+            <Data name="braflowerBigBelly" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBigBelly</Data>
+            <Data name="3BA_VaginaBigBelly" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaBigBelly</Data>
+            <Data name="pantyBigBelly" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="3BABigButt" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABigButt</Data>
+            <Data name="braBigButt" target="bra" local="true">SoD - Scarlet Armor.osd\braBigButt</Data>
+            <Data name="braflowerBigButt" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBigButt</Data>
+            <Data name="3BA_VaginaBigButt" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaBigButt</Data>
+            <Data name="3BA_AnusBigButt" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusBigButt</Data>
+            <Data name="pantyBigButt" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="3BABigTorso" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABigTorso</Data>
+            <Data name="braBigTorso" target="bra" local="true">SoD - Scarlet Armor.osd\braBigTorso</Data>
+            <Data name="brastringBigTorso" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringBigTorso</Data>
+            <Data name="braflowerBigTorso" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBigTorso</Data>
+            <Data name="pantyBigTorso" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBigTorso</Data>
+            <Data name="neckloopBigTorso" target="neckloop" local="true">SoD - Scarlet Armor.osd\neckloopBigTorso</Data>
+            <Data name="neckcixiuBigTorso" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuBigTorso</Data>
+            <Data name="neckdishBigTorso" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBigTorso</Data>
+            <Data name="ShouldermetalBigTorso" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBigTorso</Data>
+            <Data name="armbandageBigTorso" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" small="0" big="0">
+            <Data name="3BABreastCenter" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastCenter</Data>
+            <Data name="braBreastCenter" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastCenter</Data>
+            <Data name="braflowerBreastCenter" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastCenter</Data>
+            <Data name="neckdishBreastCenter" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBreastCenter</Data>
+            <Data name="armbandageBreastCenter" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" small="0" big="0">
+            <Data name="3BABreastCenterBig" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastCenterBig</Data>
+            <Data name="braBreastCenterBig" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastCenterBig</Data>
+            <Data name="braflowerBreastCenterBig" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="3BABreastCleavage" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastCleavage</Data>
+            <Data name="braBreastCleavage" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastCleavage</Data>
+            <Data name="braflowerBreastCleavage" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastCleavage</Data>
+            <Data name="armbandageBreastCleavage" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastsConverage_v2" invert="false" small="0" big="0">
+            <Data name="3BABreastsConverage_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastsConverage_v2</Data>
+            <Data name="braBreastsConverage_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastsConverage_v2</Data>
+            <Data name="braflowerBreastsConverage_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastsConverage_v2</Data>
+            <Data name="ShouldermetalBreastsConverage_v2" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastsConverage_v2</Data>
+            <Data name="armbandageBreastsConverage_v2" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastsConverage_v2</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" small="0" big="0">
+            <Data name="3BABreastFlatness2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastFlatness2</Data>
+            <Data name="braBreastFlatness2" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastFlatness2</Data>
+            <Data name="braflowerBreastFlatness2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastFlatness2</Data>
+            <Data name="ShouldermetalBreastFlatness2" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastFlatness2</Data>
+            <Data name="armbandageBreastFlatness2" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="3BABreastFlatness" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastFlatness</Data>
+            <Data name="braBreastFlatness" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastFlatness</Data>
+            <Data name="braflowerBreastFlatness" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastFlatness</Data>
+            <Data name="ShouldermetalBreastFlatness" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastFlatness</Data>
+            <Data name="armbandageBreastFlatness" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" small="0" big="0">
+            <Data name="3BABreastGravity2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastGravity2</Data>
+            <Data name="braBreastGravity2" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastGravity2</Data>
+            <Data name="braflowerBreastGravity2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastGravity2</Data>
+            <Data name="neckdishBreastGravity2" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBreastGravity2</Data>
+            <Data name="ShouldermetalBreastGravity2" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastGravity2</Data>
+            <Data name="armbandageBreastGravity2" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="3BABreastHeight" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastHeight</Data>
+            <Data name="braBreastHeight" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastHeight</Data>
+            <Data name="braflowerBreastHeight" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastHeight</Data>
+            <Data name="neckdishBreastHeight" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBreastHeight</Data>
+            <Data name="ShouldermetalBreastHeight" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastHeight</Data>
+            <Data name="armbandageBreastHeight" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="3BABreastPerkiness" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastPerkiness</Data>
+            <Data name="braBreastPerkiness" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastPerkiness</Data>
+            <Data name="braflowerBreastPerkiness" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastPerkiness</Data>
+            <Data name="armbandageBreastPerkiness" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastPerkiness</Data>
+        </Slider>
+        <Slider name="Breasts" invert="false" small="0" big="0">
+            <Data name="3BABreasts" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreasts</Data>
+            <Data name="braBreasts" target="bra" local="true">SoD - Scarlet Armor.osd\braBreasts</Data>
+            <Data name="braflowerBreasts" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreasts</Data>
+            <Data name="neckdishBreasts" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBreasts</Data>
+            <Data name="ShouldermetalBreasts" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreasts</Data>
+            <Data name="armbandageBreasts" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreasts</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="3BABreastsFantasy" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastsFantasy</Data>
+            <Data name="braBreastsFantasy" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastsFantasy</Data>
+            <Data name="braflowerBreastsFantasy" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastsFantasy</Data>
+            <Data name="neckdishBreastsFantasy" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBreastsFantasy</Data>
+            <Data name="ShouldermetalBreastsFantasy" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastsFantasy</Data>
+            <Data name="armbandageBreastsFantasy" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastsFantasy</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" small="0" big="0">
+            <Data name="3BABreastsGone" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastsGone</Data>
+            <Data name="braBreastsGone" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastsGone</Data>
+            <Data name="braflowerBreastsGone" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastsGone</Data>
+            <Data name="neckcixiuBreastsGone" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuBreastsGone</Data>
+            <Data name="neckdishBreastsGone" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBreastsGone</Data>
+            <Data name="ShouldermetalBreastsGone" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastsGone</Data>
+            <Data name="armbandageBreastsGone" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" small="0" big="0">
+            <Data name="3BABreastsNewSH" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastsNewSH</Data>
+            <Data name="braBreastsNewSH" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastsNewSH</Data>
+            <Data name="braflowerBreastsNewSH" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastsNewSH</Data>
+            <Data name="neckdishBreastsNewSH" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBreastsNewSH</Data>
+            <Data name="ShouldermetalBreastsNewSH" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastsNewSH</Data>
+            <Data name="armbandageBreastsNewSH" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsNewSHSymmetry" invert="false" small="0" big="0">
+            <Data name="3BABreastsNewSHSymmetry" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastsNewSHSymmetry</Data>
+            <Data name="braBreastsNewSHSymmetry" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastsNewSHSymmetry</Data>
+            <Data name="braflowerBreastsNewSHSymmetry" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastsNewSHSymmetry</Data>
+            <Data name="neckdishBreastsNewSHSymmetry" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBreastsNewSHSymmetry</Data>
+            <Data name="ShouldermetalBreastsNewSHSymmetry" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastsNewSHSymmetry</Data>
+            <Data name="armbandageBreastsNewSHSymmetry" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastsNewSHSymmetry</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" small="0" big="0">
+            <Data name="3BABreastsSmall" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastsSmall</Data>
+            <Data name="braBreastsSmall" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastsSmall</Data>
+            <Data name="braflowerBreastsSmall" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastsSmall</Data>
+            <Data name="pantyBreastsSmall" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBreastsSmall</Data>
+            <Data name="neckcixiuBreastsSmall" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuBreastsSmall</Data>
+            <Data name="neckdishBreastsSmall" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBreastsSmall</Data>
+            <Data name="ShouldermetalBreastsSmall" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastsSmall</Data>
+            <Data name="armbandageBreastsSmall" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" small="0" big="0">
+            <Data name="3BABreastsSmall2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastsSmall2</Data>
+            <Data name="braBreastsSmall2" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastsSmall2</Data>
+            <Data name="braflowerBreastsSmall2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastsSmall2</Data>
+            <Data name="pantyBreastsSmall2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBreastsSmall2</Data>
+            <Data name="neckcixiuBreastsSmall2" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuBreastsSmall2</Data>
+            <Data name="neckdishBreastsSmall2" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBreastsSmall2</Data>
+            <Data name="ShouldermetalBreastsSmall2" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastsSmall2</Data>
+            <Data name="armbandageBreastsSmall2" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" small="0" big="0">
+            <Data name="3BABreastsTogether" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastsTogether</Data>
+            <Data name="braBreastsTogether" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastsTogether</Data>
+            <Data name="braflowerBreastsTogether" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastsTogether</Data>
+            <Data name="neckcixiuBreastsTogether" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuBreastsTogether</Data>
+            <Data name="neckdishBreastsTogether" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBreastsTogether</Data>
+            <Data name="ShouldermetalBreastsTogether" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastsTogether</Data>
+            <Data name="armbandageBreastsTogether" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" small="0" big="0">
+            <Data name="3BABreastTopSlope" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastTopSlope</Data>
+            <Data name="braBreastTopSlope" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastTopSlope</Data>
+            <Data name="braflowerBreastTopSlope" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastTopSlope</Data>
+            <Data name="neckdishBreastTopSlope" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBreastTopSlope</Data>
+            <Data name="ShouldermetalBreastTopSlope" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastTopSlope</Data>
+            <Data name="armbandageBreastTopSlope" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="3BABreastWidth" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastWidth</Data>
+            <Data name="braBreastWidth" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastWidth</Data>
+            <Data name="braflowerBreastWidth" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastWidth</Data>
+            <Data name="neckdishBreastWidth" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishBreastWidth</Data>
+            <Data name="ShouldermetalBreastWidth" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastWidth</Data>
+            <Data name="armbandageBreastWidth" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastWidth</Data>
+        </Slider>
+        <Slider name="BreastSideShape" invert="false" small="0" big="0">
+            <Data name="3BABreastSideShape" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastSideShape</Data>
+            <Data name="braBreastSideShape" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastSideShape</Data>
+            <Data name="braflowerBreastSideShape" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastSideShape</Data>
+            <Data name="pantyBreastSideShape" target="panty" local="true">SoD - Scarlet Armor.osd\pantyBreastSideShape</Data>
+            <Data name="ShouldermetalBreastSideShape" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastSideShape</Data>
+            <Data name="armbandageBreastSideShape" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastSideShape</Data>
+        </Slider>
+        <Slider name="BreastUnderDepth" invert="false" small="0" big="0">
+            <Data name="3BABreastUnderDepth" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastUnderDepth</Data>
+            <Data name="braBreastUnderDepth" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastUnderDepth</Data>
+            <Data name="braflowerBreastUnderDepth" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastUnderDepth</Data>
+        </Slider>
+        <Slider name="BreastsPressed_v2" invert="false" small="0" big="0">
+            <Data name="3BABreastsPressed_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BABreastsPressed_v2</Data>
+            <Data name="braBreastsPressed_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braBreastsPressed_v2</Data>
+            <Data name="braflowerBreastsPressed_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerBreastsPressed_v2</Data>
+            <Data name="ShouldermetalBreastsPressed_v2" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalBreastsPressed_v2</Data>
+            <Data name="armbandageBreastsPressed_v2" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageBreastsPressed_v2</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" small="0" big="0">
+            <Data name="3BAButt" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAButt</Data>
+            <Data name="braButt" target="bra" local="true">SoD - Scarlet Armor.osd\braButt</Data>
+            <Data name="braflowerButt" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerButt</Data>
+            <Data name="3BA_VaginaButt" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaButt</Data>
+            <Data name="3BA_AnusButt" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusButt</Data>
+            <Data name="pantyButt" target="panty" local="true">SoD - Scarlet Armor.osd\pantyButt</Data>
+        </Slider>
+        <Slider name="ButtSaggy_v2" invert="false" small="0" big="0">
+            <Data name="3BAButtSaggy_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAButtSaggy_v2</Data>
+            <Data name="3BA_AnusButtSaggy_v2" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusButtSaggy_v2</Data>
+            <Data name="pantyButtSaggy_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyButtSaggy_v2</Data>
+        </Slider>
+        <Slider name="ButtClassic" invert="false" small="0" big="0">
+            <Data name="3BAButtClassic" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAButtClassic</Data>
+            <Data name="braButtClassic" target="bra" local="true">SoD - Scarlet Armor.osd\braButtClassic</Data>
+            <Data name="braflowerButtClassic" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerButtClassic</Data>
+            <Data name="3BA_VaginaButtClassic" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaButtClassic</Data>
+            <Data name="3BA_AnusButtClassic" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusButtClassic</Data>
+            <Data name="pantyButtClassic" target="panty" local="true">SoD - Scarlet Armor.osd\pantyButtClassic</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" small="0" big="0">
+            <Data name="3BAButtCrack" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAButtCrack</Data>
+            <Data name="3BA_VaginaButtCrack" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaButtCrack</Data>
+            <Data name="3BA_AnusButtCrack" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusButtCrack</Data>
+            <Data name="pantyButtCrack" target="panty" local="true">SoD - Scarlet Armor.osd\pantyButtCrack</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="3BAButtShape2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAButtShape2</Data>
+            <Data name="braButtShape2" target="bra" local="true">SoD - Scarlet Armor.osd\braButtShape2</Data>
+            <Data name="braflowerButtShape2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerButtShape2</Data>
+            <Data name="3BA_VaginaButtShape2" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaButtShape2</Data>
+            <Data name="3BA_AnusButtShape2" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusButtShape2</Data>
+            <Data name="pantyButtShape2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="3BAButtSmall" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAButtSmall</Data>
+            <Data name="braButtSmall" target="bra" local="true">SoD - Scarlet Armor.osd\braButtSmall</Data>
+            <Data name="braflowerButtSmall" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerButtSmall</Data>
+            <Data name="3BA_VaginaButtSmall" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaButtSmall</Data>
+            <Data name="3BA_AnusButtSmall" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusButtSmall</Data>
+            <Data name="pantyButtSmall" target="panty" local="true">SoD - Scarlet Armor.osd\pantyButtSmall</Data>
+        </Slider>
+        <Slider name="ButtDimples" invert="false" small="0" big="0">
+            <Data name="3BAButtDimples" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAButtDimples</Data>
+            <Data name="pantyButtDimples" target="panty" local="true">SoD - Scarlet Armor.osd\pantyButtDimples</Data>
+        </Slider>
+        <Slider name="ButtUnderFold" invert="false" small="0" big="0">
+            <Data name="3BAButtUnderFold" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAButtUnderFold</Data>
+            <Data name="3BA_VaginaButtUnderFold" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaButtUnderFold</Data>
+            <Data name="pantyButtUnderFold" target="panty" local="true">SoD - Scarlet Armor.osd\pantyButtUnderFold</Data>
+        </Slider>
+        <Slider name="ButtPressed_v2" invert="false" small="0" big="0">
+            <Data name="3BAButtPressed_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAButtPressed_v2</Data>
+            <Data name="3BA_VaginaButtPressed_v2" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaButtPressed_v2</Data>
+            <Data name="3BA_AnusButtPressed_v2" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusButtPressed_v2</Data>
+            <Data name="pantyButtPressed_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyButtPressed_v2</Data>
+        </Slider>
+        <Slider name="ButtNarrow_v2" invert="false" small="0" big="0">
+            <Data name="3BAButtNarrow_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAButtNarrow_v2</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="3BACalfSize" target="3BA" local="true">SoD - Scarlet Armor.osd\3BACalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="3BACalfSmooth" target="3BA" local="true">SoD - Scarlet Armor.osd\3BACalfSmooth</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BACalfFBThicc_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BACalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" small="0" big="0">
+            <Data name="3BAChestDepth" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAChestDepth</Data>
+            <Data name="braChestDepth" target="bra" local="true">SoD - Scarlet Armor.osd\braChestDepth</Data>
+            <Data name="braflowerChestDepth" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerChestDepth</Data>
+            <Data name="pantyChestDepth" target="panty" local="true">SoD - Scarlet Armor.osd\pantyChestDepth</Data>
+            <Data name="neckcixiuChestDepth" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuChestDepth</Data>
+            <Data name="neckdishChestDepth" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishChestDepth</Data>
+            <Data name="ShouldermetalChestDepth" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalChestDepth</Data>
+            <Data name="armbandageChestDepth" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="3BAChestWidth" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAChestWidth</Data>
+            <Data name="braChestWidth" target="bra" local="true">SoD - Scarlet Armor.osd\braChestWidth</Data>
+            <Data name="braflowerChestWidth" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerChestWidth</Data>
+            <Data name="pantyChestWidth" target="panty" local="true">SoD - Scarlet Armor.osd\pantyChestWidth</Data>
+            <Data name="neckdishChestWidth" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishChestWidth</Data>
+            <Data name="ShouldermetalChestWidth" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalChestWidth</Data>
+            <Data name="armbandageChestWidth" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="3BAChubbyArms" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAChubbyArms</Data>
+            <Data name="braChubbyArms" target="bra" local="true">SoD - Scarlet Armor.osd\braChubbyArms</Data>
+            <Data name="brastringChubbyArms" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringChubbyArms</Data>
+            <Data name="neckdishChubbyArms" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishChubbyArms</Data>
+            <Data name="ShouldermetalChubbyArms" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalChubbyArms</Data>
+            <Data name="armbandageChubbyArms" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="3BAChubbyButt" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAChubbyButt</Data>
+            <Data name="braChubbyButt" target="bra" local="true">SoD - Scarlet Armor.osd\braChubbyButt</Data>
+            <Data name="braflowerChubbyButt" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerChubbyButt</Data>
+            <Data name="3BA_VaginaChubbyButt" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaChubbyButt</Data>
+            <Data name="3BA_AnusChubbyButt" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusChubbyButt</Data>
+            <Data name="pantyChubbyButt" target="panty" local="true">SoD - Scarlet Armor.osd\pantyChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="3BAChubbyLegs" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAChubbyLegs</Data>
+            <Data name="3BA_VaginaChubbyLegs" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaChubbyLegs</Data>
+            <Data name="3BA_AnusChubbyLegs" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusChubbyLegs</Data>
+            <Data name="pantyChubbyLegs" target="panty" local="true">SoD - Scarlet Armor.osd\pantyChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="3BAChubbyWaist" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAChubbyWaist</Data>
+            <Data name="braChubbyWaist" target="bra" local="true">SoD - Scarlet Armor.osd\braChubbyWaist</Data>
+            <Data name="braflowerChubbyWaist" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerChubbyWaist</Data>
+            <Data name="3BA_VaginaChubbyWaist" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaChubbyWaist</Data>
+            <Data name="3BA_AnusChubbyWaist" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusChubbyWaist</Data>
+            <Data name="pantyChubbyWaist" target="panty" local="true">SoD - Scarlet Armor.osd\pantyChubbyWaist</Data>
+            <Data name="ShouldermetalChubbyWaist" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalChubbyWaist</Data>
+            <Data name="armbandageChubbyWaist" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="3BACrotchBack" target="3BA" local="true">SoD - Scarlet Armor.osd\3BACrotchBack</Data>
+            <Data name="3BA_VaginaCrotchBack" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaCrotchBack</Data>
+            <Data name="3BA_AnusCrotchBack" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusCrotchBack</Data>
+            <Data name="pantyCrotchBack" target="panty" local="true">SoD - Scarlet Armor.osd\pantyCrotchBack</Data>
+        </Slider>
+        <Slider name="Clavicle_v2" invert="false" small="0" big="0">
+            <Data name="3BAClavicle_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAClavicle_v2</Data>
+            <Data name="braClavicle_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braClavicle_v2</Data>
+            <Data name="brastringClavicle_v2" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringClavicle_v2</Data>
+            <Data name="neckcixiuClavicle_v2" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuClavicle_v2</Data>
+            <Data name="neckdishClavicle_v2" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishClavicle_v2</Data>
+            <Data name="ShouldermetalClavicle_v2" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalClavicle_v2</Data>
+            <Data name="armbandageClavicle_v2" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageClavicle_v2</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="3BADoubleMelon" target="3BA" local="true">SoD - Scarlet Armor.osd\3BADoubleMelon</Data>
+            <Data name="braDoubleMelon" target="bra" local="true">SoD - Scarlet Armor.osd\braDoubleMelon</Data>
+            <Data name="braflowerDoubleMelon" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerDoubleMelon</Data>
+            <Data name="neckdishDoubleMelon" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishDoubleMelon</Data>
+            <Data name="ShouldermetalDoubleMelon" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalDoubleMelon</Data>
+            <Data name="armbandageDoubleMelon" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageDoubleMelon</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="3BAForearmSize" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAForearmSize</Data>
+            <Data name="ShouldermetalForearmSize" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalForearmSize</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="3BAGroin" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAGroin</Data>
+            <Data name="3BA_VaginaGroin" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaGroin</Data>
+            <Data name="3BA_AnusGroin" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusGroin</Data>
+            <Data name="pantyGroin" target="panty" local="true">SoD - Scarlet Armor.osd\pantyGroin</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="3BAHipBone" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAHipBone</Data>
+            <Data name="braHipBone" target="bra" local="true">SoD - Scarlet Armor.osd\braHipBone</Data>
+            <Data name="braflowerHipBone" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerHipBone</Data>
+            <Data name="3BA_VaginaHipBone" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaHipBone</Data>
+            <Data name="pantyHipBone" target="panty" local="true">SoD - Scarlet Armor.osd\pantyHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="3BAHipForward" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAHipForward</Data>
+            <Data name="braHipForward" target="bra" local="true">SoD - Scarlet Armor.osd\braHipForward</Data>
+            <Data name="braflowerHipForward" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerHipForward</Data>
+            <Data name="3BA_VaginaHipForward" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaHipForward</Data>
+            <Data name="3BA_AnusHipForward" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusHipForward</Data>
+            <Data name="pantyHipForward" target="panty" local="true">SoD - Scarlet Armor.osd\pantyHipForward</Data>
+            <Data name="armbandageHipForward" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageHipForward</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="3BAHips" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAHips</Data>
+            <Data name="braHips" target="bra" local="true">SoD - Scarlet Armor.osd\braHips</Data>
+            <Data name="braflowerHips" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerHips</Data>
+            <Data name="3BA_VaginaHips" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaHips</Data>
+            <Data name="3BA_AnusHips" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusHips</Data>
+            <Data name="pantyHips" target="panty" local="true">SoD - Scarlet Armor.osd\pantyHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="3BAHipUpperWidth" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAHipUpperWidth</Data>
+            <Data name="braHipUpperWidth" target="bra" local="true">SoD - Scarlet Armor.osd\braHipUpperWidth</Data>
+            <Data name="braflowerHipUpperWidth" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerHipUpperWidth</Data>
+            <Data name="pantyHipUpperWidth" target="panty" local="true">SoD - Scarlet Armor.osd\pantyHipUpperWidth</Data>
+        </Slider>
+        <Slider name="HipCarved" invert="false" small="0" big="0">
+            <Data name="3BAHipCarved" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAHipCarved</Data>
+            <Data name="pantyHipCarved" target="panty" local="true">SoD - Scarlet Armor.osd\pantyHipCarved</Data>
+        </Slider>
+        <Slider name="HipNarrow_v2" invert="false" small="0" big="0">
+            <Data name="3BAHipNarrow_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAHipNarrow_v2</Data>
+            <Data name="pantyHipNarrow_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyHipNarrow_v2</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="3BAKneeHeight" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="3BAKneeShape" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAKneeShape</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="3BAKneeTogether_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="3BALegShapeClassic" target="3BA" local="true">SoD - Scarlet Armor.osd\3BALegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="3BALegsThin" target="3BA" local="true">SoD - Scarlet Armor.osd\3BALegsThin</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="3BAMuscleAbs" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAMuscleAbs</Data>
+            <Data name="braMuscleAbs" target="bra" local="true">SoD - Scarlet Armor.osd\braMuscleAbs</Data>
+            <Data name="braflowerMuscleAbs" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerMuscleAbs</Data>
+            <Data name="pantyMuscleAbs" target="panty" local="true">SoD - Scarlet Armor.osd\pantyMuscleAbs</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="3BAMuscleArms" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAMuscleArms</Data>
+            <Data name="braMuscleArms" target="bra" local="true">SoD - Scarlet Armor.osd\braMuscleArms</Data>
+            <Data name="brastringMuscleArms" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringMuscleArms</Data>
+            <Data name="neckcixiuMuscleArms" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuMuscleArms</Data>
+            <Data name="neckdishMuscleArms" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishMuscleArms</Data>
+            <Data name="ShouldermetalMuscleArms" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalMuscleArms</Data>
+            <Data name="armbandageMuscleArms" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageMuscleArms</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="3BAMuscleButt" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAMuscleButt</Data>
+            <Data name="pantyMuscleButt" target="panty" local="true">SoD - Scarlet Armor.osd\pantyMuscleButt</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="3BAMuscleLegs" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAMuscleLegs</Data>
+            <Data name="3BA_VaginaMuscleLegs" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaMuscleLegs</Data>
+            <Data name="3BA_AnusMuscleLegs" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusMuscleLegs</Data>
+            <Data name="pantyMuscleLegs" target="panty" local="true">SoD - Scarlet Armor.osd\pantyMuscleLegs</Data>
+        </Slider>
+        <Slider name="MusclePecs" invert="false" small="0" big="0">
+            <Data name="3BAMusclePecs" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAMusclePecs</Data>
+            <Data name="braMusclePecs" target="bra" local="true">SoD - Scarlet Armor.osd\braMusclePecs</Data>
+            <Data name="braflowerMusclePecs" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerMusclePecs</Data>
+            <Data name="ShouldermetalMusclePecs" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalMusclePecs</Data>
+            <Data name="armbandageMusclePecs" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageMusclePecs</Data>
+        </Slider>
+        <Slider name="MuscleBack_v2" invert="false" small="0" big="0">
+            <Data name="3BAMuscleBack_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAMuscleBack_v2</Data>
+            <Data name="braMuscleBack_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braMuscleBack_v2</Data>
+            <Data name="brastringMuscleBack_v2" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringMuscleBack_v2</Data>
+            <Data name="braflowerMuscleBack_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerMuscleBack_v2</Data>
+            <Data name="pantyMuscleBack_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyMuscleBack_v2</Data>
+            <Data name="neckloopMuscleBack_v2" target="neckloop" local="true">SoD - Scarlet Armor.osd\neckloopMuscleBack_v2</Data>
+            <Data name="neckcixiuMuscleBack_v2" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuMuscleBack_v2</Data>
+            <Data name="neckdishMuscleBack_v2" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishMuscleBack_v2</Data>
+            <Data name="ShouldermetalMuscleBack_v2" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalMuscleBack_v2</Data>
+            <Data name="armbandageMuscleBack_v2" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageMuscleBack_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreAbs_v2" invert="false" small="0" big="0">
+            <Data name="3BAMuscleMoreAbs_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAMuscleMoreAbs_v2</Data>
+            <Data name="braMuscleMoreAbs_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braMuscleMoreAbs_v2</Data>
+            <Data name="braflowerMuscleMoreAbs_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerMuscleMoreAbs_v2</Data>
+            <Data name="pantyMuscleMoreAbs_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyMuscleMoreAbs_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreArms_v2" invert="false" small="0" big="0">
+            <Data name="3BAMuscleMoreArms_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAMuscleMoreArms_v2</Data>
+            <Data name="braMuscleMoreArms_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braMuscleMoreArms_v2</Data>
+            <Data name="brastringMuscleMoreArms_v2" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringMuscleMoreArms_v2</Data>
+            <Data name="neckdishMuscleMoreArms_v2" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishMuscleMoreArms_v2</Data>
+            <Data name="ShouldermetalMuscleMoreArms_v2" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalMuscleMoreArms_v2</Data>
+            <Data name="armbandageMuscleMoreArms_v2" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageMuscleMoreArms_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="3BAMuscleMoreLegs_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAMuscleMoreLegs_v2</Data>
+            <Data name="pantyMuscleMoreLegs_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyMuscleMoreLegs_v2</Data>
+        </Slider>
+        <Slider name="NavelEven" invert="false" small="0" big="0">
+            <Data name="3BANavelEven" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANavelEven</Data>
+        </Slider>
+        <Slider name="NeckSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="3BANeckSeam" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANeckSeam</Data>
+            <Data name="braNeckSeam" target="bra" local="true">SoD - Scarlet Armor.osd\braNeckSeam</Data>
+            <Data name="brastringNeckSeam" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringNeckSeam</Data>
+            <Data name="neckloopNeckSeam" target="neckloop" local="true">SoD - Scarlet Armor.osd\neckloopNeckSeam</Data>
+            <Data name="neckcixiuNeckSeam" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuNeckSeam</Data>
+            <Data name="neckdishNeckSeam" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishNeckSeam</Data>
+            <Data name="ShouldermetalNeckSeam" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalNeckSeam</Data>
+            <Data name="armbandageNeckSeam" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageNeckSeam</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" small="0" big="0">
+            <Data name="3BANipBGone" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANipBGone</Data>
+            <Data name="braNipBGone" target="bra" local="true">SoD - Scarlet Armor.osd\braNipBGone</Data>
+            <Data name="braflowerNipBGone" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNipBGone</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" small="0" big="0">
+            <Data name="3BANippleDistance" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleDistance</Data>
+            <Data name="braNippleDistance" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleDistance</Data>
+            <Data name="braflowerNippleDistance" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="3BANippleDown" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleDown</Data>
+            <Data name="braNippleDown" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleDown</Data>
+            <Data name="braflowerNippleDown" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleDown</Data>
+            <Data name="armbandageNippleDown" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageNippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="3BANippleLength" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleLength</Data>
+            <Data name="braNippleLength" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleLength</Data>
+            <Data name="braflowerNippleLength" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleLength</Data>
+        </Slider>
+        <Slider name="NippleManga" invert="false" small="0" big="0">
+            <Data name="3BANippleManga" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleManga</Data>
+            <Data name="braNippleManga" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleManga</Data>
+            <Data name="braflowerNippleManga" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleManga</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="3BANipplePerkiness" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANipplePerkiness</Data>
+            <Data name="braNipplePerkiness" target="bra" local="true">SoD - Scarlet Armor.osd\braNipplePerkiness</Data>
+            <Data name="braflowerNipplePerkiness" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NipplePerkManga" invert="false" small="0" big="0">
+            <Data name="3BANipplePerkManga" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANipplePerkManga</Data>
+            <Data name="braNipplePerkManga" target="bra" local="true">SoD - Scarlet Armor.osd\braNipplePerkManga</Data>
+            <Data name="braflowerNipplePerkManga" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNipplePerkManga</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" small="0" big="0">
+            <Data name="3BANippleSize" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleSize</Data>
+            <Data name="braNippleSize" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleSize</Data>
+            <Data name="braflowerNippleSize" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="3BANippleTip" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleTip</Data>
+            <Data name="braNippleTip" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleTip</Data>
+            <Data name="braflowerNippleTip" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleTip</Data>
+        </Slider>
+        <Slider name="NippleTipManga" invert="false" small="0" big="0">
+            <Data name="3BANippleTipManga" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleTipManga</Data>
+            <Data name="braNippleTipManga" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleTipManga</Data>
+            <Data name="braflowerNippleTipManga" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleTipManga</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="3BANippleUp" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleUp</Data>
+            <Data name="braNippleUp" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleUp</Data>
+            <Data name="braflowerNippleUp" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleUp</Data>
+            <Data name="ShouldermetalNippleUp" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalNippleUp</Data>
+            <Data name="armbandageNippleUp" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDip" invert="false" small="0" big="0">
+            <Data name="3BANippleDip" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleDip</Data>
+            <Data name="braNippleDip" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleDip</Data>
+            <Data name="braflowerNippleDip" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleDip</Data>
+        </Slider>
+        <Slider name="NippleCrease_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleCrease_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleCrease_v2</Data>
+            <Data name="braNippleCrease_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleCrease_v2</Data>
+            <Data name="braflowerNippleCrease_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleCrease_v2</Data>
+        </Slider>
+        <Slider name="NipplePuffy_v2" invert="false" small="0" big="0">
+            <Data name="3BANipplePuffy_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANipplePuffy_v2</Data>
+            <Data name="braNipplePuffy_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braNipplePuffy_v2</Data>
+            <Data name="braflowerNipplePuffy_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNipplePuffy_v2</Data>
+        </Slider>
+        <Slider name="NippleShy_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleShy_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleShy_v2</Data>
+            <Data name="braNippleShy_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleShy_v2</Data>
+            <Data name="braflowerNippleShy_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleShy_v2</Data>
+        </Slider>
+        <Slider name="NippleThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleThicc_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleThicc_v2</Data>
+            <Data name="braNippleThicc_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleThicc_v2</Data>
+            <Data name="braflowerNippleThicc_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleThicc_v2</Data>
+        </Slider>
+        <Slider name="NippleInvert_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleInvert_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleInvert_v2</Data>
+            <Data name="braNippleInvert_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleInvert_v2</Data>
+            <Data name="braflowerNippleInvert_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleInvert_v2</Data>
+        </Slider>
+        <Slider name="NippleSquash1_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleSquash1_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleSquash1_v2</Data>
+            <Data name="braNippleSquash1_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleSquash1_v2</Data>
+            <Data name="braflowerNippleSquash1_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleSquash1_v2</Data>
+        </Slider>
+        <Slider name="NippleSquash2_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleSquash2_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleSquash2_v2</Data>
+            <Data name="braNippleSquash2_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleSquash2_v2</Data>
+            <Data name="braflowerNippleSquash2_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleSquash2_v2</Data>
+        </Slider>
+        <Slider name="NippleBump_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleBump_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleBump_v2</Data>
+            <Data name="braNippleBump_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleBump_v2</Data>
+            <Data name="braflowerNippleBump_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleBump_v2</Data>
+        </Slider>
+        <Slider name="NippleCrumpled_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleCrumpled_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleCrumpled_v2</Data>
+            <Data name="braNippleCrumpled_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleCrumpled_v2</Data>
+            <Data name="braflowerNippleCrumpled_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleCrumpled_v2</Data>
+        </Slider>
+        <Slider name="NippleTube_v2" invert="false" small="0" big="0">
+            <Data name="3BANippleTube_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BANippleTube_v2</Data>
+            <Data name="braNippleTube_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braNippleTube_v2</Data>
+            <Data name="braflowerNippleTube_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerNippleTube_v2</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="3BAPregnancyBelly" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAPregnancyBelly</Data>
+            <Data name="braPregnancyBelly" target="bra" local="true">SoD - Scarlet Armor.osd\braPregnancyBelly</Data>
+            <Data name="braflowerPregnancyBelly" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerPregnancyBelly</Data>
+            <Data name="3BA_VaginaPregnancyBelly" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaPregnancyBelly</Data>
+            <Data name="pantyPregnancyBelly" target="panty" local="true">SoD - Scarlet Armor.osd\pantyPregnancyBelly</Data>
+            <Data name="armbandagePregnancyBelly" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandagePregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="3BAPushUp" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAPushUp</Data>
+            <Data name="braPushUp" target="bra" local="true">SoD - Scarlet Armor.osd\braPushUp</Data>
+            <Data name="braflowerPushUp" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerPushUp</Data>
+            <Data name="neckdishPushUp" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishPushUp</Data>
+            <Data name="ShouldermetalPushUp" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalPushUp</Data>
+            <Data name="armbandagePushUp" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandagePushUp</Data>
+        </Slider>
+        <Slider name="RibsMore_v2" invert="false" small="0" big="0">
+            <Data name="3BARibsMore_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BARibsMore_v2</Data>
+            <Data name="braRibsMore_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braRibsMore_v2</Data>
+            <Data name="braflowerRibsMore_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerRibsMore_v2</Data>
+        </Slider>
+        <Slider name="RibsProminance" invert="false" small="0" big="0">
+            <Data name="3BARibsProminance" target="3BA" local="true">SoD - Scarlet Armor.osd\3BARibsProminance</Data>
+            <Data name="braRibsProminance" target="bra" local="true">SoD - Scarlet Armor.osd\braRibsProminance</Data>
+            <Data name="braflowerRibsProminance" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerRibsProminance</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="3BARoundAss" target="3BA" local="true">SoD - Scarlet Armor.osd\3BARoundAss</Data>
+            <Data name="braRoundAss" target="bra" local="true">SoD - Scarlet Armor.osd\braRoundAss</Data>
+            <Data name="3BA_VaginaRoundAss" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaRoundAss</Data>
+            <Data name="3BA_AnusRoundAss" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusRoundAss</Data>
+            <Data name="pantyRoundAss" target="panty" local="true">SoD - Scarlet Armor.osd\pantyRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="3BAShoulderSmooth" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAShoulderSmooth</Data>
+            <Data name="braShoulderSmooth" target="bra" local="true">SoD - Scarlet Armor.osd\braShoulderSmooth</Data>
+            <Data name="brastringShoulderSmooth" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringShoulderSmooth</Data>
+            <Data name="neckloopShoulderSmooth" target="neckloop" local="true">SoD - Scarlet Armor.osd\neckloopShoulderSmooth</Data>
+            <Data name="neckcixiuShoulderSmooth" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuShoulderSmooth</Data>
+            <Data name="neckdishShoulderSmooth" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishShoulderSmooth</Data>
+            <Data name="ShouldermetalShoulderSmooth" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalShoulderSmooth</Data>
+            <Data name="armbandageShoulderSmooth" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="0" big="0">
+            <Data name="3BAShoulderTweak" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAShoulderTweak</Data>
+            <Data name="braShoulderTweak" target="bra" local="true">SoD - Scarlet Armor.osd\braShoulderTweak</Data>
+            <Data name="brastringShoulderTweak" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringShoulderTweak</Data>
+            <Data name="neckloopShoulderTweak" target="neckloop" local="true">SoD - Scarlet Armor.osd\neckloopShoulderTweak</Data>
+            <Data name="neckcixiuShoulderTweak" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuShoulderTweak</Data>
+            <Data name="neckdishShoulderTweak" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishShoulderTweak</Data>
+            <Data name="ShouldermetalShoulderTweak" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalShoulderTweak</Data>
+            <Data name="armbandageShoulderTweak" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="3BAShoulderWidth" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAShoulderWidth</Data>
+            <Data name="braShoulderWidth" target="bra" local="true">SoD - Scarlet Armor.osd\braShoulderWidth</Data>
+            <Data name="brastringShoulderWidth" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringShoulderWidth</Data>
+            <Data name="braflowerShoulderWidth" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerShoulderWidth</Data>
+            <Data name="pantyShoulderWidth" target="panty" local="true">SoD - Scarlet Armor.osd\pantyShoulderWidth</Data>
+            <Data name="neckloopShoulderWidth" target="neckloop" local="true">SoD - Scarlet Armor.osd\neckloopShoulderWidth</Data>
+            <Data name="neckcixiuShoulderWidth" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuShoulderWidth</Data>
+            <Data name="neckdishShoulderWidth" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishShoulderWidth</Data>
+            <Data name="ShouldermetalShoulderWidth" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalShoulderWidth</Data>
+            <Data name="armbandageShoulderWidth" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="3BASlimThighs" target="3BA" local="true">SoD - Scarlet Armor.osd\3BASlimThighs</Data>
+            <Data name="3BA_VaginaSlimThighs" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaSlimThighs</Data>
+            <Data name="3BA_AnusSlimThighs" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusSlimThighs</Data>
+            <Data name="pantySlimThighs" target="panty" local="true">SoD - Scarlet Armor.osd\pantySlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" small="0" big="0">
+            <Data name="3BASternumDepth" target="3BA" local="true">SoD - Scarlet Armor.osd\3BASternumDepth</Data>
+            <Data name="braSternumDepth" target="bra" local="true">SoD - Scarlet Armor.osd\braSternumDepth</Data>
+            <Data name="braflowerSternumDepth" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerSternumDepth</Data>
+            <Data name="neckcixiuSternumDepth" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuSternumDepth</Data>
+            <Data name="neckdishSternumDepth" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" small="0" big="0">
+            <Data name="3BASternumHeight" target="3BA" local="true">SoD - Scarlet Armor.osd\3BASternumHeight</Data>
+            <Data name="braSternumHeight" target="bra" local="true">SoD - Scarlet Armor.osd\braSternumHeight</Data>
+            <Data name="braflowerSternumHeight" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerSternumHeight</Data>
+            <Data name="neckcixiuSternumHeight" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuSternumHeight</Data>
+            <Data name="neckdishSternumHeight" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishSternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="3BAThighs" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAThighs</Data>
+            <Data name="3BA_VaginaThighs" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaThighs</Data>
+            <Data name="3BA_AnusThighs" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusThighs</Data>
+            <Data name="pantyThighs" target="panty" local="true">SoD - Scarlet Armor.osd\pantyThighs</Data>
+        </Slider>
+        <Slider name="ThighOutsideThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BAThighOutsideThicc_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAThighOutsideThicc_v2</Data>
+        </Slider>
+        <Slider name="ThighInsideThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BAThighInsideThicc_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAThighInsideThicc_v2</Data>
+            <Data name="3BA_VaginaThighInsideThicc_v2" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaThighInsideThicc_v2</Data>
+        </Slider>
+        <Slider name="ThighFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="3BAThighFBThicc_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAThighFBThicc_v2</Data>
+            <Data name="pantyThighFBThicc_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyThighFBThicc_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="3BALegSpread_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BALegSpread_v2</Data>
+            <Data name="pantyLegSpread_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyLegSpread_v2</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="3BATummyTuck" target="3BA" local="true">SoD - Scarlet Armor.osd\3BATummyTuck</Data>
+            <Data name="braTummyTuck" target="bra" local="true">SoD - Scarlet Armor.osd\braTummyTuck</Data>
+            <Data name="braflowerTummyTuck" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerTummyTuck</Data>
+            <Data name="3BA_VaginaTummyTuck" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaTummyTuck</Data>
+            <Data name="pantyTummyTuck" target="panty" local="true">SoD - Scarlet Armor.osd\pantyTummyTuck</Data>
+        </Slider>
+        <Slider name="UNPHip_v2" invert="false" small="0" big="0">
+            <Data name="3BAUNPHip_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAUNPHip_v2</Data>
+            <Data name="braUNPHip_v2" target="bra" local="true">SoD - Scarlet Armor.osd\braUNPHip_v2</Data>
+            <Data name="braflowerUNPHip_v2" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerUNPHip_v2</Data>
+            <Data name="pantyUNPHip_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyUNPHip_v2</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="3BAWaist" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAWaist</Data>
+            <Data name="braWaist" target="bra" local="true">SoD - Scarlet Armor.osd\braWaist</Data>
+            <Data name="braflowerWaist" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerWaist</Data>
+            <Data name="pantyWaist" target="panty" local="true">SoD - Scarlet Armor.osd\pantyWaist</Data>
+            <Data name="armbandageWaist" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="3BAWaistHeight" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAWaistHeight</Data>
+            <Data name="braWaistHeight" target="bra" local="true">SoD - Scarlet Armor.osd\braWaistHeight</Data>
+            <Data name="braflowerWaistHeight" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerWaistHeight</Data>
+            <Data name="3BA_VaginaWaistHeight" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaWaistHeight</Data>
+            <Data name="3BA_AnusWaistHeight" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusWaistHeight</Data>
+            <Data name="pantyWaistHeight" target="panty" local="true">SoD - Scarlet Armor.osd\pantyWaistHeight</Data>
+            <Data name="armbandageWaistHeight" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="3BAWideWaistLine" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAWideWaistLine</Data>
+            <Data name="braWideWaistLine" target="bra" local="true">SoD - Scarlet Armor.osd\braWideWaistLine</Data>
+            <Data name="braflowerWideWaistLine" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerWideWaistLine</Data>
+            <Data name="pantyWideWaistLine" target="panty" local="true">SoD - Scarlet Armor.osd\pantyWideWaistLine</Data>
+            <Data name="armbandageWideWaistLine" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageWideWaistLine</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="3BAWristSize" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAWristSize</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="3BA7BLeg_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BA7BLeg_v2</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="3BA7B Lower" target="3BA" local="true">SoD - Scarlet Armor.osd\3BA7B Lower</Data>
+            <Data name="bra7B Lower" target="bra" local="true">SoD - Scarlet Armor.osd\bra7B Lower</Data>
+            <Data name="braflower7B Lower" target="braflower" local="true">SoD - Scarlet Armor.osd\braflower7B Lower</Data>
+            <Data name="3BA_Vagina7B Lower" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_Vagina7B Lower</Data>
+            <Data name="3BA_Anus7B Lower" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_Anus7B Lower</Data>
+            <Data name="panty7B Lower" target="panty" local="true">SoD - Scarlet Armor.osd\panty7B Lower</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="3BA7B Upper" target="3BA" local="true">SoD - Scarlet Armor.osd\3BA7B Upper</Data>
+            <Data name="bra7B Upper" target="bra" local="true">SoD - Scarlet Armor.osd\bra7B Upper</Data>
+            <Data name="brastring7B Upper" target="brastring" local="true">SoD - Scarlet Armor.osd\brastring7B Upper</Data>
+            <Data name="braflower7B Upper" target="braflower" local="true">SoD - Scarlet Armor.osd\braflower7B Upper</Data>
+            <Data name="neckloop7B Upper" target="neckloop" local="true">SoD - Scarlet Armor.osd\neckloop7B Upper</Data>
+            <Data name="neckcixiu7B Upper" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiu7B Upper</Data>
+            <Data name="neckdish7B Upper" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdish7B Upper</Data>
+            <Data name="Shouldermetal7B Upper" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\Shouldermetal7B Upper</Data>
+            <Data name="armbandage7B Upper" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandage7B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="3BAVanillaSSEHi" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAVanillaSSEHi</Data>
+            <Data name="braVanillaSSEHi" target="bra" local="true">SoD - Scarlet Armor.osd\braVanillaSSEHi</Data>
+            <Data name="brastringVanillaSSEHi" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringVanillaSSEHi</Data>
+            <Data name="braflowerVanillaSSEHi" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerVanillaSSEHi</Data>
+            <Data name="3BA_VaginaVanillaSSEHi" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaVanillaSSEHi</Data>
+            <Data name="3BA_AnusVanillaSSEHi" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusVanillaSSEHi</Data>
+            <Data name="pantyVanillaSSEHi" target="panty" local="true">SoD - Scarlet Armor.osd\pantyVanillaSSEHi</Data>
+            <Data name="neckloopVanillaSSEHi" target="neckloop" local="true">SoD - Scarlet Armor.osd\neckloopVanillaSSEHi</Data>
+            <Data name="neckcixiuVanillaSSEHi" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuVanillaSSEHi</Data>
+            <Data name="neckdishVanillaSSEHi" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishVanillaSSEHi</Data>
+            <Data name="ShouldermetalVanillaSSEHi" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalVanillaSSEHi</Data>
+            <Data name="armbandageVanillaSSEHi" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="3BAVanillaSSELo" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAVanillaSSELo</Data>
+            <Data name="braVanillaSSELo" target="bra" local="true">SoD - Scarlet Armor.osd\braVanillaSSELo</Data>
+            <Data name="brastringVanillaSSELo" target="brastring" local="true">SoD - Scarlet Armor.osd\brastringVanillaSSELo</Data>
+            <Data name="braflowerVanillaSSELo" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerVanillaSSELo</Data>
+            <Data name="3BA_VaginaVanillaSSELo" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaVanillaSSELo</Data>
+            <Data name="3BA_AnusVanillaSSELo" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusVanillaSSELo</Data>
+            <Data name="pantyVanillaSSELo" target="panty" local="true">SoD - Scarlet Armor.osd\pantyVanillaSSELo</Data>
+            <Data name="neckloopVanillaSSELo" target="neckloop" local="true">SoD - Scarlet Armor.osd\neckloopVanillaSSELo</Data>
+            <Data name="neckcixiuVanillaSSELo" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuVanillaSSELo</Data>
+            <Data name="neckdishVanillaSSELo" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishVanillaSSELo</Data>
+            <Data name="ShouldermetalVanillaSSELo" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalVanillaSSELo</Data>
+            <Data name="armbandageVanillaSSELo" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="3BAOldBaseShape" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAOldBaseShape</Data>
+            <Data name="braOldBaseShape" target="bra" local="true">SoD - Scarlet Armor.osd\braOldBaseShape</Data>
+            <Data name="braflowerOldBaseShape" target="braflower" local="true">SoD - Scarlet Armor.osd\braflowerOldBaseShape</Data>
+            <Data name="3BA_VaginaOldBaseShape" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaOldBaseShape</Data>
+            <Data name="3BA_AnusOldBaseShape" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusOldBaseShape</Data>
+            <Data name="pantyOldBaseShape" target="panty" local="true">SoD - Scarlet Armor.osd\pantyOldBaseShape</Data>
+            <Data name="neckcixiuOldBaseShape" target="neckcixiu" local="true">SoD - Scarlet Armor.osd\neckcixiuOldBaseShape</Data>
+            <Data name="neckdishOldBaseShape" target="neckdish" local="true">SoD - Scarlet Armor.osd\neckdishOldBaseShape</Data>
+            <Data name="ShouldermetalOldBaseShape" target="Shouldermetal" local="true">SoD - Scarlet Armor.osd\ShouldermetalOldBaseShape</Data>
+            <Data name="armbandageOldBaseShape" target="armbandage" local="true">SoD - Scarlet Armor.osd\armbandageOldBaseShape</Data>
+        </Slider>
+        <Slider name="Innieoutie" invert="false" small="0" big="0">
+            <Data name="3BAInnieoutie" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAInnieoutie</Data>
+            <Data name="3BA_VaginaInnieoutie" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaInnieoutie</Data>
+        </Slider>
+        <Slider name="LabiaTightUp" invert="false" small="0" big="0">
+            <Data name="3BALabiaTightUp" target="3BA" local="true">SoD - Scarlet Armor.osd\3BALabiaTightUp</Data>
+            <Data name="3BA_VaginaLabiaTightUp" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaLabiaTightUp</Data>
+            <Data name="pantyLabiaTightUp" target="panty" local="true">SoD - Scarlet Armor.osd\pantyLabiaTightUp</Data>
+        </Slider>
+        <Slider name="Labiapuffyness" invert="false" small="0" big="0">
+            <Data name="3BALabiapuffyness" target="3BA" local="true">SoD - Scarlet Armor.osd\3BALabiapuffyness</Data>
+            <Data name="3BA_VaginaLabiapuffyness" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaLabiapuffyness</Data>
+            <Data name="pantyLabiapuffyness" target="panty" local="true">SoD - Scarlet Armor.osd\pantyLabiapuffyness</Data>
+        </Slider>
+        <Slider name="LabiaMorePuffyness_v2" invert="false" small="0" big="0">
+            <Data name="3BALabiaMorePuffyness_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BALabiaMorePuffyness_v2</Data>
+            <Data name="3BA_VaginaLabiaMorePuffyness_v2" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaLabiaMorePuffyness_v2</Data>
+            <Data name="pantyLabiaMorePuffyness_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyLabiaMorePuffyness_v2</Data>
+        </Slider>
+        <Slider name="Labiaprotrude" invert="false" small="0" big="0">
+            <Data name="3BALabiaprotrude" target="3BA" local="true">SoD - Scarlet Armor.osd\3BALabiaprotrude</Data>
+            <Data name="3BA_VaginaLabiaprotrude" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaLabiaprotrude</Data>
+        </Slider>
+        <Slider name="Labiaprotrude2" invert="false" small="0" big="0">
+            <Data name="3BALabiaprotrude2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BALabiaprotrude2</Data>
+            <Data name="3BA_VaginaLabiaprotrude2" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaLabiaprotrude2</Data>
+            <Data name="pantyLabiaprotrude2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyLabiaprotrude2</Data>
+        </Slider>
+        <Slider name="Labiaspread" invert="false" small="0" big="0">
+            <Data name="3BALabiaspread" target="3BA" local="true">SoD - Scarlet Armor.osd\3BALabiaspread</Data>
+            <Data name="3BA_VaginaLabiaspread" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaLabiaspread</Data>
+            <Data name="pantyLabiaspread" target="panty" local="true">SoD - Scarlet Armor.osd\pantyLabiaspread</Data>
+        </Slider>
+        <Slider name="LabiaCrumpled_v2" invert="false" small="0" big="0">
+            <Data name="3BALabiaCrumpled_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BALabiaCrumpled_v2</Data>
+            <Data name="3BA_VaginaLabiaCrumpled_v2" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaLabiaCrumpled_v2</Data>
+            <Data name="pantyLabiaCrumpled_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyLabiaCrumpled_v2</Data>
+        </Slider>
+        <Slider name="LabiaNeat_v2" invert="false" small="0" big="0">
+            <Data name="3BALabiaNeat_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BALabiaNeat_v2</Data>
+            <Data name="3BA_VaginaLabiaNeat_v2" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaLabiaNeat_v2</Data>
+            <Data name="pantyLabiaNeat_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyLabiaNeat_v2</Data>
+        </Slider>
+        <Slider name="LabiaBulgogi_v2" invert="false" small="0" big="0">
+            <Data name="3BALabiaBulgogi_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BALabiaBulgogi_v2</Data>
+            <Data name="3BA_VaginaLabiaBulgogi_v2" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaLabiaBulgogi_v2</Data>
+            <Data name="pantyLabiaBulgogi_v2" target="panty" local="true">SoD - Scarlet Armor.osd\pantyLabiaBulgogi_v2</Data>
+        </Slider>
+        <Slider name="VaginaHole" invert="false" small="0" big="0">
+            <Data name="3BAVaginaHole" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAVaginaHole</Data>
+            <Data name="3BA_VaginaVaginaHole" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaVaginaHole</Data>
+            <Data name="pantyVaginaHole" target="panty" local="true">SoD - Scarlet Armor.osd\pantyVaginaHole</Data>
+        </Slider>
+        <Slider name="Clit" invert="false" small="0" big="0">
+            <Data name="3BAClit" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAClit</Data>
+            <Data name="3BA_VaginaClit" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaClit</Data>
+        </Slider>
+        <Slider name="ClitSwell_v2" invert="false" small="0" big="0">
+            <Data name="3BAClitSwell_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAClitSwell_v2</Data>
+            <Data name="3BA_VaginaClitSwell_v2" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaClitSwell_v2</Data>
+        </Slider>
+        <Slider name="Cutepuffyness" invert="false" small="0" big="0">
+            <Data name="3BACutepuffyness" target="3BA" local="true">SoD - Scarlet Armor.osd\3BACutepuffyness</Data>
+            <Data name="3BA_VaginaCutepuffyness" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaCutepuffyness</Data>
+            <Data name="pantyCutepuffyness" target="panty" local="true">SoD - Scarlet Armor.osd\pantyCutepuffyness</Data>
+        </Slider>
+        <Slider name="CBPC" invert="false" small="0" big="0">
+            <Data name="3BACBPC" target="3BA" local="true">SoD - Scarlet Armor.osd\3BACBPC</Data>
+            <Data name="3BA_VaginaCBPC" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaCBPC</Data>
+            <Data name="pantyCBPC" target="panty" local="true">SoD - Scarlet Armor.osd\pantyCBPC</Data>
+        </Slider>
+        <Slider name="CrotchGap" invert="false" small="0" big="0">
+            <Data name="3BACrotchGap" target="3BA" local="true">SoD - Scarlet Armor.osd\3BACrotchGap</Data>
+            <Data name="3BA_VaginaCrotchGap" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaCrotchGap</Data>
+            <Data name="pantyCrotchGap" target="panty" local="true">SoD - Scarlet Armor.osd\pantyCrotchGap</Data>
+        </Slider>
+        <Slider name="AnalLoose_v2" invert="false" small="0" big="0">
+            <Data name="3BAAnalLoose_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAAnalLoose_v2</Data>
+            <Data name="3BA_VaginaAnalLoose_v2" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaAnalLoose_v2</Data>
+            <Data name="3BA_AnusAnalLoose_v2" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusAnalLoose_v2</Data>
+        </Slider>
+        <Slider name="AnalPosition_v2" invert="false" small="0" big="0">
+            <Data name="3BAAnalPosition_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAAnalPosition_v2</Data>
+            <Data name="3BA_VaginaAnalPosition_v2" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaAnalPosition_v2</Data>
+            <Data name="3BA_AnusAnalPosition_v2" target="3BA_Anus" local="true">SoD - Scarlet Armor.osd\3BA_AnusAnalPosition_v2</Data>
+        </Slider>
+        <Slider name="AnalTexPos_v2" invert="false" small="0" big="0" uv="true">
+            <Data name="3BAAnalTexPos_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAAnalTexPos_v2</Data>
+        </Slider>
+        <Slider name="AnalTexPosRe_v2" invert="false" small="0" big="0" uv="true">
+            <Data name="3BAAnalTexPosRe_v2" target="3BA" local="true">SoD - Scarlet Armor.osd\3BAAnalTexPosRe_v2</Data>
+        </Slider>
+        <Slider name="Labiaprotrudeback" invert="false" small="0" big="0">
+            <Data name="3BA_VaginaLabiaprotrudeback" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaLabiaprotrudeback</Data>
+        </Slider>
+        <Slider name="Vaginasize" invert="false" small="0" big="0">
+            <Data name="3BA_VaginaVaginasize" target="3BA_Vagina" local="true">SoD - Scarlet Armor.osd\3BA_VaginaVaginasize</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

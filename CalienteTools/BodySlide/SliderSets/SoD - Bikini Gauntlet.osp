@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="SoD - Bikini Gauntlet">
+        <DataFolder>SoD - Bikini Gauntlet</DataFolder>
+        <SourceFile>SoD - Bikini Gauntlet.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">dda_ArmArmor</OutputFile>
+        <Shape target="elbows">elbows</Shape>
+        <Shape target="guard">guard</Shape>
+        <Slider name="ArmpitShape_v2" invert="false" small="0" big="0">
+            <Data name="elbowsArmpitShape_v2" target="elbows" local="true">SoD - Bikini Gauntlet.osd\elbowsArmpitShape_v2</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="guardArms" target="guard" local="true">SoD - Bikini Gauntlet.osd\guardArms</Data>
+            <Data name="elbowsArms" target="elbows" local="true">SoD - Bikini Gauntlet.osd\elbowsArms</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="guardBigTorso" target="guard" local="true">SoD - Bikini Gauntlet.osd\guardBigTorso</Data>
+            <Data name="elbowsBigTorso" target="elbows" local="true">SoD - Bikini Gauntlet.osd\elbowsBigTorso</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="elbowsChestWidth" target="elbows" local="true">SoD - Bikini Gauntlet.osd\elbowsChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="guardChubbyArms" target="guard" local="true">SoD - Bikini Gauntlet.osd\guardChubbyArms</Data>
+            <Data name="elbowsChubbyArms" target="elbows" local="true">SoD - Bikini Gauntlet.osd\elbowsChubbyArms</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="guardForearmSize" target="guard" local="true">SoD - Bikini Gauntlet.osd\guardForearmSize</Data>
+            <Data name="elbowsForearmSize" target="elbows" local="true">SoD - Bikini Gauntlet.osd\elbowsForearmSize</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="guardMuscleArms" target="guard" local="true">SoD - Bikini Gauntlet.osd\guardMuscleArms</Data>
+            <Data name="elbowsMuscleArms" target="elbows" local="true">SoD - Bikini Gauntlet.osd\elbowsMuscleArms</Data>
+        </Slider>
+        <Slider name="MuscleMoreArms_v2" invert="false" small="0" big="0">
+            <Data name="guardMuscleMoreArms_v2" target="guard" local="true">SoD - Bikini Gauntlet.osd\guardMuscleMoreArms_v2</Data>
+            <Data name="elbowsMuscleMoreArms_v2" target="elbows" local="true">SoD - Bikini Gauntlet.osd\elbowsMuscleMoreArms_v2</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="guardShoulderWidth" target="guard" local="true">SoD - Bikini Gauntlet.osd\guardShoulderWidth</Data>
+            <Data name="elbowsShoulderWidth" target="elbows" local="true">SoD - Bikini Gauntlet.osd\elbowsShoulderWidth</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="elbowsWristSize" target="elbows" local="true">SoD - Bikini Gauntlet.osd\elbowsWristSize</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="guard7B Upper" target="guard" local="true">SoD - Bikini Gauntlet.osd\guard7B Upper</Data>
+            <Data name="elbows7B Upper" target="elbows" local="true">SoD - Bikini Gauntlet.osd\elbows7B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="guardVanillaSSEHi" target="guard" local="true">SoD - Bikini Gauntlet.osd\guardVanillaSSEHi</Data>
+            <Data name="elbowsVanillaSSEHi" target="elbows" local="true">SoD - Bikini Gauntlet.osd\elbowsVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="guardVanillaSSELo" target="guard" local="true">SoD - Bikini Gauntlet.osd\guardVanillaSSELo</Data>
+            <Data name="elbowsVanillaSSELo" target="elbows" local="true">SoD - Bikini Gauntlet.osd\elbowsVanillaSSELo</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

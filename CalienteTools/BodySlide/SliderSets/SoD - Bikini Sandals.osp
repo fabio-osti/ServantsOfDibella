@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="SoD - Bikini Sandals">
+        <DataFolder>SoD - Bikini Sandals</DataFolder>
+        <SourceFile>SoD - Bikini Sandals.nif</SourceFile>
+        <OutputPath>meshes\actors\character\sod\armor</OutputPath>
+        <OutputFile GenWeights="true">dda_sandals</OutputFile>
+        <Shape target="Feet" DataFolder="CBBE">Feet</Shape>
+        <Shape target="b">b</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FeetAnkleSize" target="Feet">CBBE Feet.osd\FeetAnkleSize</Data>
+            <Data name="bAnkleSize" target="b" local="true">SoD - Bikini Sandals.osd\bAnkleSize</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FeetFeetFeminine" target="Feet">CBBE Feet.osd\FeetFeetFeminine</Data>
+            <Data name="bFeetFeminine" target="b" local="true">SoD - Bikini Sandals.osd\bFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
