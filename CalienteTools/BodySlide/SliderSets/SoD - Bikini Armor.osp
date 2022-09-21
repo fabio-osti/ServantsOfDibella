@@ -9,12 +9,15 @@
         <Shape target="3BA_Anus">3BA_Anus</Shape>
         <Shape target="3BA_Vagina">3BA_Vagina</Shape>
         <Shape target="bra">bra</Shape>
+        <Shape target="elbows">elbows</Shape>
         <Shape target="futomomo">futomomo</Shape>
+        <Shape target="guard">guard</Shape>
         <Shape target="hiza">hiza</Shape>
         <Shape target="pants">pants</Shape>
         <Slider name="ArmpitShape_v2" invert="false" small="0" big="0">
             <Data name="3BAArmpitShape_v2" target="3BA" local="true">SoD - Bikini Armor.osd\3BAArmpitShape_v2</Data>
             <Data name="braArmpitShape_v2" target="bra" local="true">SoD - Bikini Armor.osd\braArmpitShape_v2</Data>
+            <Data name="elbowsArmpitShape_v2" target="elbows" local="true">SoD - Bikini Armor.osd\elbowsArmpitShape_v2</Data>
         </Slider>
         <Slider name="AnkleSize" invert="false" small="100" big="0">
             <Data name="3BAAnkleSize" target="3BA" local="true">SoD - Bikini Armor.osd\3BAAnkleSize</Data>
@@ -37,6 +40,8 @@
         <Slider name="Arms" invert="false" small="0" big="0">
             <Data name="3BAArms" target="3BA" local="true">SoD - Bikini Armor.osd\3BAArms</Data>
             <Data name="braArms" target="bra" local="true">SoD - Bikini Armor.osd\braArms</Data>
+            <Data name="guardArms" target="guard" local="true">SoD - Bikini Armor.osd\guardArms</Data>
+            <Data name="elbowsArms" target="elbows" local="true">SoD - Bikini Armor.osd\elbowsArms</Data>
         </Slider>
         <Slider name="Back" invert="false" small="0" big="0">
             <Data name="3BABack" target="3BA" local="true">SoD - Bikini Armor.osd\3BABack</Data>
@@ -97,6 +102,8 @@
             <Data name="3BABigTorso" target="3BA" local="true">SoD - Bikini Armor.osd\3BABigTorso</Data>
             <Data name="braBigTorso" target="bra" local="true">SoD - Bikini Armor.osd\braBigTorso</Data>
             <Data name="pantsBigTorso" target="pants" local="true">SoD - Bikini Armor.osd\pantsBigTorso</Data>
+            <Data name="guardBigTorso" target="guard" local="true">SoD - Bikini Armor.osd\guardBigTorso</Data>
+            <Data name="elbowsBigTorso" target="elbows" local="true">SoD - Bikini Armor.osd\elbowsBigTorso</Data>
         </Slider>
         <Slider name="BreastCenter" invert="false" small="0" big="0">
             <Data name="3BABreastCenter" target="3BA" local="true">SoD - Bikini Armor.osd\3BABreastCenter</Data>
@@ -271,10 +278,13 @@
             <Data name="3BAChestWidth" target="3BA" local="true">SoD - Bikini Armor.osd\3BAChestWidth</Data>
             <Data name="braChestWidth" target="bra" local="true">SoD - Bikini Armor.osd\braChestWidth</Data>
             <Data name="pantsChestWidth" target="pants" local="true">SoD - Bikini Armor.osd\pantsChestWidth</Data>
+            <Data name="elbowsChestWidth" target="elbows" local="true">SoD - Bikini Armor.osd\elbowsChestWidth</Data>
         </Slider>
         <Slider name="ChubbyArms" invert="false" small="0" big="0">
             <Data name="3BAChubbyArms" target="3BA" local="true">SoD - Bikini Armor.osd\3BAChubbyArms</Data>
             <Data name="braChubbyArms" target="bra" local="true">SoD - Bikini Armor.osd\braChubbyArms</Data>
+            <Data name="guardChubbyArms" target="guard" local="true">SoD - Bikini Armor.osd\guardChubbyArms</Data>
+            <Data name="elbowsChubbyArms" target="elbows" local="true">SoD - Bikini Armor.osd\elbowsChubbyArms</Data>
         </Slider>
         <Slider name="ChubbyButt" invert="false" small="0" big="0">
             <Data name="3BAChubbyButt" target="3BA" local="true">SoD - Bikini Armor.osd\3BAChubbyButt</Data>
@@ -316,6 +326,8 @@
         </Slider>
         <Slider name="ForearmSize" invert="false" small="0" big="0">
             <Data name="3BAForearmSize" target="3BA" local="true">SoD - Bikini Armor.osd\3BAForearmSize</Data>
+            <Data name="guardForearmSize" target="guard" local="true">SoD - Bikini Armor.osd\guardForearmSize</Data>
+            <Data name="elbowsForearmSize" target="elbows" local="true">SoD - Bikini Armor.osd\elbowsForearmSize</Data>
         </Slider>
         <Slider name="Groin" invert="false" small="0" big="0">
             <Data name="3BAGroin" target="3BA" local="true">SoD - Bikini Armor.osd\3BAGroin</Data>
@@ -395,6 +407,8 @@
         <Slider name="MuscleArms" invert="false" small="0" big="0">
             <Data name="3BAMuscleArms" target="3BA" local="true">SoD - Bikini Armor.osd\3BAMuscleArms</Data>
             <Data name="braMuscleArms" target="bra" local="true">SoD - Bikini Armor.osd\braMuscleArms</Data>
+            <Data name="guardMuscleArms" target="guard" local="true">SoD - Bikini Armor.osd\guardMuscleArms</Data>
+            <Data name="elbowsMuscleArms" target="elbows" local="true">SoD - Bikini Armor.osd\elbowsMuscleArms</Data>
         </Slider>
         <Slider name="MuscleButt" invert="false" small="0" big="0">
             <Data name="3BAMuscleButt" target="3BA" local="true">SoD - Bikini Armor.osd\3BAMuscleButt</Data>
@@ -425,6 +439,8 @@
         <Slider name="MuscleMoreArms_v2" invert="false" small="0" big="0">
             <Data name="3BAMuscleMoreArms_v2" target="3BA" local="true">SoD - Bikini Armor.osd\3BAMuscleMoreArms_v2</Data>
             <Data name="braMuscleMoreArms_v2" target="bra" local="true">SoD - Bikini Armor.osd\braMuscleMoreArms_v2</Data>
+            <Data name="guardMuscleMoreArms_v2" target="guard" local="true">SoD - Bikini Armor.osd\guardMuscleMoreArms_v2</Data>
+            <Data name="elbowsMuscleMoreArms_v2" target="elbows" local="true">SoD - Bikini Armor.osd\elbowsMuscleMoreArms_v2</Data>
         </Slider>
         <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
             <Data name="3BAMuscleMoreLegs_v2" target="3BA" local="true">SoD - Bikini Armor.osd\3BAMuscleMoreLegs_v2</Data>
@@ -490,6 +506,8 @@
         <Slider name="ShoulderWidth" invert="false" small="0" big="0">
             <Data name="3BAShoulderWidth" target="3BA" local="true">SoD - Bikini Armor.osd\3BAShoulderWidth</Data>
             <Data name="braShoulderWidth" target="bra" local="true">SoD - Bikini Armor.osd\braShoulderWidth</Data>
+            <Data name="guardShoulderWidth" target="guard" local="true">SoD - Bikini Armor.osd\guardShoulderWidth</Data>
+            <Data name="elbowsShoulderWidth" target="elbows" local="true">SoD - Bikini Armor.osd\elbowsShoulderWidth</Data>
         </Slider>
         <Slider name="SlimThighs" invert="false" small="0" big="0">
             <Data name="3BASlimThighs" target="3BA" local="true">SoD - Bikini Armor.osd\3BASlimThighs</Data>
@@ -564,6 +582,7 @@
         </Slider>
         <Slider name="WristSize" invert="false" small="100" big="0">
             <Data name="3BAWristSize" target="3BA" local="true">SoD - Bikini Armor.osd\3BAWristSize</Data>
+            <Data name="elbowsWristSize" target="elbows" local="true">SoD - Bikini Armor.osd\elbowsWristSize</Data>
         </Slider>
         <Slider name="7BLeg_v2" invert="false" small="0" big="0">
             <Data name="3BA7BLeg_v2" target="3BA" local="true">SoD - Bikini Armor.osd\3BA7BLeg_v2</Data>
@@ -583,6 +602,8 @@
         <Slider name="7B Upper" invert="false" small="0" big="0">
             <Data name="3BA7B Upper" target="3BA" local="true">SoD - Bikini Armor.osd\3BA7B Upper</Data>
             <Data name="bra7B Upper" target="bra" local="true">SoD - Bikini Armor.osd\bra7B Upper</Data>
+            <Data name="guard7B Upper" target="guard" local="true">SoD - Bikini Armor.osd\guard7B Upper</Data>
+            <Data name="elbows7B Upper" target="elbows" local="true">SoD - Bikini Armor.osd\elbows7B Upper</Data>
         </Slider>
         <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
             <Data name="3BAVanillaSSEHi" target="3BA" local="true">SoD - Bikini Armor.osd\3BAVanillaSSEHi</Data>
@@ -592,6 +613,8 @@
             <Data name="hizaVanillaSSEHi" target="hiza" local="true">SoD - Bikini Armor.osd\hizaVanillaSSEHi</Data>
             <Data name="futomomoVanillaSSEHi" target="futomomo" local="true">SoD - Bikini Armor.osd\futomomoVanillaSSEHi</Data>
             <Data name="pantsVanillaSSEHi" target="pants" local="true">SoD - Bikini Armor.osd\pantsVanillaSSEHi</Data>
+            <Data name="guardVanillaSSEHi" target="guard" local="true">SoD - Bikini Armor.osd\guardVanillaSSEHi</Data>
+            <Data name="elbowsVanillaSSEHi" target="elbows" local="true">SoD - Bikini Armor.osd\elbowsVanillaSSEHi</Data>
         </Slider>
         <Slider name="VanillaSSELo" invert="false" small="0" big="0">
             <Data name="3BAVanillaSSELo" target="3BA" local="true">SoD - Bikini Armor.osd\3BAVanillaSSELo</Data>
@@ -601,6 +624,8 @@
             <Data name="hizaVanillaSSELo" target="hiza" local="true">SoD - Bikini Armor.osd\hizaVanillaSSELo</Data>
             <Data name="futomomoVanillaSSELo" target="futomomo" local="true">SoD - Bikini Armor.osd\futomomoVanillaSSELo</Data>
             <Data name="pantsVanillaSSELo" target="pants" local="true">SoD - Bikini Armor.osd\pantsVanillaSSELo</Data>
+            <Data name="guardVanillaSSELo" target="guard" local="true">SoD - Bikini Armor.osd\guardVanillaSSELo</Data>
+            <Data name="elbowsVanillaSSELo" target="elbows" local="true">SoD - Bikini Armor.osd\elbowsVanillaSSELo</Data>
         </Slider>
         <Slider name="OldBaseShape" invert="false" small="0" big="0">
             <Data name="3BAOldBaseShape" target="3BA" local="true">SoD - Bikini Armor.osd\3BAOldBaseShape</Data>
